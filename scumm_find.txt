@@ -1,0 +1,33 @@
+D:\$RECYCLE.BIN\S-1-5-21-177703888-2949868602-3267966286-1001\$R0V67HV\scummtr.exe
+D:\$RECYCLE.BIN\S-1-5-21-177703888-2949868602-3267966286-1001\$R5UMRV9\scummtr.exe
+D:\$RECYCLE.BIN\S-1-5-21-177703888-2949868602-3267966286-1001\$RIQY1FL\scummtr.exe
+D:\$RECYCLE.BIN\S-1-5-21-177703888-2949868602-3267966286-1001\$RZ83OOL\scummtr.exe
+D:\git\indiana-jones-and-last-crusade-cht\patches\scumm-cht-indy3.patch
+D:\git\indiana-jones-and-last-crusade-cht\patches\scummtr-cjk-checkrsc.patch
+D:\git\indiana-jones-and-last-crusade-cht\tools\assemble_scummtr.py
+D:\git\indiana-jones-and-last-crusade-cht\tools\build_descumm.sh
+D:\git\遊戲中文化\LOOM\FM-TOWNS_KAN_Patch\tmp_test_scummtr
+D:\git\遊戲中文化\LOOM\FM-TOWNS_KAN_Patch\scummtr.exe
+D:\git\遊戲中文化\LOOM\FM-TOWNS_Patch\scummtr.exe
+D:\git\遊戲中文化\LOOM\from FM Towers\LOOMENG\scummtr.exe
+D:\git\遊戲中文化\LOOM\LOOM_FM-TOWNS_ZH_Portable\scummvm
+D:\git\遊戲中文化\LOOM\LOOM_FM-TOWNS_ZH_Portable\game\scummtr.exe
+D:\git\遊戲中文化\LOOM\LOOM_FM-TOWNS_ZH_Portable\scummvm\ScummVM Manual latest.pdf
+D:\git\遊戲中文化\LOOM\LOOM_FM-TOWNS_ZH_Portable\scummvm\scummvm-2.8.1.exe
+D:\git\遊戲中文化\LOOM\LOOM_FM-TOWNS_ZH_Portable\scummvm\scummvm.ini
+D:\git\遊戲中文化\LOOM\tools\scummtr-0.5.1-win32
+D:\git\遊戲中文化\LOOM\tools\scummtr-0.5.1-win32.zip
+D:\git\遊戲中文化\LOOM\tools\scummtr-0.5.1-win32\scummfont.exe
+D:\git\遊戲中文化\LOOM\tools\scummtr-0.5.1-win32\scummrp.exe
+D:\git\遊戲中文化\LOOM\tools\scummtr-0.5.1-win32\scummtr.exe
+D:\git\遊戲中文化\LOOM\tools\scummtr-0.5.1-win32\manuals\scummfont.txt
+D:\git\遊戲中文化\LOOM\tools\scummtr-0.5.1-win32\manuals\scummrp.txt
+D:\git\遊戲中文化\LOOM\tools\scummtr-0.5.1-win32\manuals\scummtr.txt
+D:\git\遊戲中文化\LOOM\translation\scummvm_debug.txt
+D:\git\遊戲中文化\LOOM\translation\fm_towers_flow\scummtr.txt
+D:\LOOM_FM-TOWNS_ZH_Portable\scummvm
+D:\LOOM_FM-TOWNS_ZH_Portable\game\scummtr.exe
+D:\LOOM_FM-TOWNS_ZH_Portable\scummvm\ScummVM Manual latest.pdf
+D:\LOOM_FM-TOWNS_ZH_Portable\scummvm\scummvm.exe
+D:\LOOM_FM-TOWNS_ZH_Portable\scummvm\scummvm.ini
+D:\MyGames\u6cht-1.3-FULL-windows-x86\u6cht-fullwindows\scummvm.exe

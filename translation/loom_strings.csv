@@ -1,0 +1,1217 @@
+﻿Line,Context,English,Chinese
+2,001:SC#0001,GAME PAUSED. Press SPACEBAR to continue.,遊戲暫停。請按空白鍵繼續。
+3,001:SC#0001,Insert disk %c and press ENTER to continue.,請插入磁片 %c 並按 ENTER 繼續。
+4,001:SC#0001,"Unable to find %02d.LFL, (%c%d). Press ENTER.",找不到 %02d.LFL，(%c%d)。請按 ENTER。
+5,001:SC#0001,"ERROR: Insert disk %c, (%c%d). Press ENTER.",錯誤：請插入磁片 %c，(%c%d)。請按 ENTER。
+6,001:SC#0001,Are you sure you want to restart? (Y or N)Y,確定要重新開始嗎？(Y 或 N)Y
+7,001:SC#0001,Are you sure you want to quit? (Y or N)Y,確定要離開嗎？(Y 或 N)Y
+8,001:SC#0001,Save,儲存
+9,001:SC#0001,Load,載入
+10,001:SC#0001,Play,遊玩
+11,001:SC#0001,Cancel,取消
+12,001:SC#0001,Quit,離開
+13,001:SC#0001,OK,好
+15,001:SC#0001,Insert save/load game disk,請插入存檔/讀檔磁片
+16,001:SC#0001,You must enter a name,您必須輸入名稱
+17,001:SC#0001,The game was NOT saved,遊戲未儲存
+18,001:SC#0001,The game was NOT loaded,遊戲未載入
+19,001:SC#0001,Saving '%s',儲存 '%s'
+20,001:SC#0001,Loading '%s',載入 '%s'
+21,001:SC#0001,Name your SAVE game,命名您的存檔
+22,001:SC#0001,Select a game to LOAD,選擇要載入的遊戲
+23,001:SC#0001,You must have the LOOM Talkie CD to play this game.,必須有LOOM語音CD才能玩
+24,001:SC#0005,interrupting the workers...,打斷工人...
+25,001:SC#0005,interrupting the workers...,打斷工人...
+26,001:SC#0005,NOT interrupting the workers...,不打斷工人...
+27,001:SC#0005,Text WILL appear on the screen.,文字將顯示在螢幕上。
+28,001:SC#0005,Text WILL NOT appear on the screen.,文字將不顯示在螢幕上。
+29,001:SC#0005,(Function disabled.),(功能已停用)
+30,001:SC#0005,(Normal speed. Full animation.),(正常速度。完整動畫)
+31,001:SC#0005,(Fast speed. Limited animation.),(快轉。部分動畫)
+32,001:SC#0005,LOOM\015 CD version (\255\004\041\000) (1.0)\255\00110 Feburary 1992,LOOM\015 CD版 (\255\004\041\000) (1.0)\255\0011992年2月10日
+33,001:SC#0007,\255\006\000\064,\255\006\000\064
+34,001:SC#0008,\255\006\000\064,\255\006\000\064
+35,001:SC#0011,That thread's too high for me.,那條線太高了。
+36,001:SC#0012,Maybe I should stand a bit closer.,也許該站近點。
+37,001:SC#0013,It might help to point at something first ^,先指向某個東西可能會有幫助 ^
+38,001:SC#0018,\016,\016
+39,001:SC#0018,\017,\017
+40,001:SC#0018,\018,\018
+41,001:SC#0018,\019,\019
+42,001:SC#0018,\020,\020
+43,001:SC#0018,\021,\021
+44,001:SC#0018,\022,\022
+45,001:SC#0018,\023,\023
+46,001:SC#0020,It's too noisy to spin any drafts in here!,這裡太吵無法編織任何織法！
+47,001:SC#0022,It's too noisy to spin any drafts in here!,這裡太吵無法編織任何織法！
+48,001:SC#0022,I need to choose my drafts more carefully.,我必須更謹慎選擇織法。
+49,001:SC#0022,Hmm. I guess that isn't a draft.,我想那不是織法。
+50,001:SC#0026,I don't think I spun that right.,我覺得我編織得不對。
+51,001:SC#0026,That must not be the right draft.,那肯定不是正確的織法。
+52,001:SC#0027,\016,\016
+53,001:SC#0027,\017,\017
+54,001:SC#0027,\018,\018
+55,001:SC#0027,\019,\019
+56,001:SC#0027,\020,\020
+57,001:SC#0027,\021,\021
+58,001:SC#0027,\022,\022
+59,001:SC#0027,\023,\023
+60,001:SC#0027,\016,\016
+61,001:SC#0027,\017,\017
+62,001:SC#0027,\018,\018
+63,001:SC#0027,\019,\019
+64,001:SC#0027,\020,\020
+65,001:SC#0027,\021,\021
+66,001:SC#0027,\022,\022
+67,001:SC#0027,\023,\023
+68,001:SC#0031, , 
+69,001:SC#0035,I don't think I spun that right.,我覺得我編織得不對。
+70,001:SC#0036,\016,\016
+71,001:SC#0036,\017,\017
+72,001:SC#0036,\018,\018
+73,001:SC#0036,\019,\019
+74,001:SC#0036,\020,\020
+75,001:SC#0036,\021,\021
+76,001:SC#0036,\022,\022
+77,001:SC#0036,\023,\023
+78,001:SC#0043,Heed the First Rule of Membership:\255\001You cannot save a demonstration game.,注意會員第一規則：\255\001無法儲存展示遊戲。
+79,001:SC#0119,It didn't work.,沒用。
+80,001:SC#0119,That must not be the right draft.,那肯定不是正確的織法。
+81,001:SC#0119,That didn't help at all.,那一點幫助也沒有。
+82,001:SC#0119,"No, No, that's not right.",不，那不對。
+83,001:SC#0119,"Well, that draft didn't seem to do much good.",那個織法似乎沒什麼用。
+84,001:SC#0119,"Well, that didn't work.",嗯，沒用。
+85,001:SC#0119,I guess that draft isn't going to help me here.,我想織法在這裡幫不上忙。
+86,001:SC#0119,I need to choose my drafts more carefully.,我必須更謹慎選擇織法。
+87,001:SC#0121,assigning-drafts,分配織法
+88,001:SC#0125,\009Passcode being stripped is \255\004\000\064,\009移除的密碼是 \255\004\000\064
+89,002:ON#0079,leaf,葉子
+90,002:OC#0079,The last leaf of autumn.,秋天的最後一片葉子。
+91,002:ON#0081,sky,天
+92,002:OC#0081,It's dawn.,破曉了。
+93,002:OC#0081,It seems to have closed by itself.,它似乎自己關閉了。
+94,002:OC#0081,I'd have to open it first.,我得先打開它。
+95,002:OC#0081,There's enough light coming out of it already!,已經有足夠的光線透出來了！
+96,002:OC#0081,"It didn't work. Oh, well, dawn's coming anyway.",沒用。算了，反正黎明要來了。
+97,002:LS#0203,The End,劇終
+98,002:LS#0205,\255\001Illustrated by Mark Ferrari,\255\001插畫 Mark Ferrari
+99,002:LS#0206,Characters Designed and Animated by\255\001Gary Winnick and Steve Purcell,角色設計與動畫\255\001Gary Winnick 和 Steve Purcell
+100,002:LS#0207,"Visual Effects Animation by\255\001Ken Macklin, Gary Winnick, Steve Purcell\255\001and Mark Ferrari","視覺特效動畫\255\001Ken Macklin, Gary Winnick, Steve Purcell\255\001和 Mark Ferrari"
+101,002:LS#0208,Music of Tchaikovsky\255\001Transcribed by George Alistair Sanger\255\001and Gary Hammond,柴可夫斯基音樂\255\001改編 George Alistair Sanger\255\001和 Gary Hammond
+102,002:LS#0209,AdLib]^ Soundtrack by\255\001Eric Hammond,AdLib]^ 原聲帶\255\001Eric Hammond
+103,002:LS#0209,CMS Soundtrack by\255\001Eric Hammond,CMS 原聲帶\255\001Eric Hammond
+104,002:LS#0209,Roland Stereo Soundtrack by\255\001George Alistair Sanger and David Warhol,Roland立體聲原聲帶\255\001George Alistair Sanger 和 David Warhol
+105,002:LS#0209,PC/Tandy Soundtrack by\255\001Dave Hayes and David Warhol,PC/Tandy 原聲帶\255\001Dave Hayes 和 David Warhol
+106,002:LS#0210,Additional Programming by\255\001Kalani Streicher,額外程式設計\255\001Kalani Streicher
+107,002:LS#0211,SCUMM Story System by\255\001Ron Gilbert and Aric Wilmunder,SCUMM 故事系統\255\001Ron Gilbert 和 Aric Wilmunder
+108,002:LS#0212,\255\001PC/Tandy Edition by Aric Wilmunder,\255\001PC/Tandy 版 Aric Wilmunder
+109,002:LS#0213,Lead Tester\255\001Kirk Roulston,首席測試\255\001Kirk Roulston
+110,002:LS#0214,"Testers\255\001Bret Barrett, Terry Bratcher, Tom Canham,\255\001Eric Christensen, Carla Green, Jon Gubman,\255\001Tony Hsieh, Tim Huber, Eric Liu","測試員\255\001Bret, Terry, Tom,\255\001Eric, Carla, Jon,\255\001Tony, Tim, Eric"
+111,002:LS#0215,"Testers\255\001Maniac Maxo, Ezra Palmer-Persen,\255\001Alice Rosen, Jenny Sward, Aileen Treadwell\255\001and Judith Lucero Turchin","測試員\255\001Maniac, Ezra,\255\001Alice, Jenny, Aileen\255\001和 Judith"
+112,002:LS#0216,\255\001Produced by Gregory D. Hammond,\255\001製作 Gregory D. Hammond
+113,002:LS#0217,"Thanks to Noah Falstein, David Fox,\255\001Akila J. Redmer, James Wood, Andrea Siegel\255\001and Orson Scott Card","感謝 Noah, David,\255\001Akila, James, Andrea\255\001和 Orson"
+114,002:LS#0218,\255\001Special Thanks to George Lucas,\255\001特別感謝 George Lucas
+115,002:LS#0219,\255\001A Lucasfilm Games\015 Production,\255\001Lucasfilm Games\015 製作
+116,002:LS#0220,"Created and Produced at Skywalker Ranch\255\001Marin County, California",於天行者山莊創作與製作\255\001加州馬林郡
+117,002:LS#0221,\015 & = 1990 LucasArts Entertainment Co.\255\001All rights reserved.,\015 & = 1990 LucasArts Entertainment Co.\255\001版權所有。
+118,002:LS#0223,\255\001Illustrated by Mark Ferrari,\255\001插畫 Mark Ferrari
+119,002:LS#0223,Characters Designed and Animated by\255\001Gary Winnick and Steve Purcell,角色設計與動畫\255\001Gary Winnick 和 Steve Purcell
+120,002:LS#0223,"Visual Effects Animation by\255\001Ken Macklin, Gary Winnick, Steve Purcell\255\001and Mark Ferrari","視覺特效動畫\255\001Ken Macklin, Gary Winnick, Steve Purcell\255\001和 Mark Ferrari"
+121,002:LS#0223,Music of Tchaikovsky\255\001Transcribed by George Alistair Sanger\255\001and Gary Hammond,柴可夫斯基音樂\255\001改編 George Alistair Sanger\255\001和 Gary Hammond
+122,002:LS#0223,Lead Tester\255\001Kirk Roulston,首席測試\255\001Kirk Roulston
+123,002:LS#0223,"Testers\255\001Bret Barrett, Terry Bratcher, Tom Canham,\255\001Eric Christensen, Carla Green, Jon Gubman,\255\001Tony Hsieh, Tim Huber, Eric Liu","測試員\255\001Bret, Terry, Tom,\255\001Eric, Carla, Jon,\255\001Tony, Tim, Eric"
+124,002:LS#0223,"Testers\255\001Maniac Maxo, Ezra Palmer-Persen,\255\001Alice Rosen, Jenny Sward, Aileen Treadwell\255\001and Judith Lucero Turchin","測試員\255\001Maniac, Ezra,\255\001Alice, Jenny, Aileen\255\001和 Judith"
+125,002:LS#0223,\255\001Produced by Gregory D. Hammond,\255\001製作 Gregory D. Hammond
+126,002:LS#0223,Narrator -- Kenna Hunt\255\001\255\001GUILD OF WEAVERS\255\001The Nymph -- Lauren Jones\255\001Bobbin Threadbare -- Richard Seyd\255\001Elder Atropos -- David Case\255\001Elder Clothos -- Kenna Hunt\255\001Elder Lachesis -- Donada Peters\255\001Hetchel -- Pat Franklyn,旁白 -- Kenna Hunt\255\001\255\001紡織公會\255\001仙女 -- Lauren Jones\255\001Bobbin -- Richard Seyd\255\001長老 Atropos -- David Case\255\001長老 Clothos -- Kenna Hunt\255\001長老 Lachesis -- Donada Peters\255\001Hetchel -- Pat Franklyn
+127,002:LS#0223,"GUILD OF SHEPHERDS\255\001The Shepherds -- Robert Emmet, David Case\255\001Pat Franklyn, Tom Whitworth\255\001Fleece -- Lauren Jones\255\001\255\001GUILD OF GLASSMAKERS\255\001Master Goodmold -- James Carpenter\255\001Stopper -- James Carpenter\255\001Flute -- Tom Whitworth","牧羊人公會\255\001牧羊人 -- Robert, David\255\001Pat, Tom\255\001Fleece -- Lauren Jones\255\001\255\001玻璃匠公會\255\001大師 Goodmold -- James\255\001Stopper -- James\255\001Flute -- Tom"
+128,002:LS#0223,The Dragon -- Donada Peters\255\001\255\001GUILD OF BLACKSMITHS\255\001Rusty -- Tom Whitworth\255\001Forge Guard -- James Carpenter\255\001Stoke -- Tom Whitworth\255\001Master Edgewise -- Robert Emmet\255\001Foreman -- Tom Whitworth,龍 -- Donada Peters\255\001\255\001鐵匠公會\255\001Rusty -- Tom Whitworth\255\001守衛 -- James Carpenter\255\001Stoke -- Tom Whitworth\255\001大師 Edgewise -- Robert Emmet\255\001工頭 -- Tom Whitworth
+129,002:LS#0223,GUILD OF CLERICS\255\001Bishop Mandible -- David Case\255\001Cob -- Tom Whitworth\255\001\255\001Chaos -- Lauren Jones\255\001\255\001Lady Cygna -- Lauren Jones,神職公會\255\001主教 Mandible -- David Case\255\001Cob -- Tom Whitworth\255\001\255\001混沌 -- Lauren Jones\255\001\255\001Cygna 女士 -- Lauren Jones
+130,002:LS#0223,Directed By\255\001John Reiger\255\001\255\001\255\001Directors Assistant\255\001Susan Murphy Reiger,導演\255\001John Reiger\255\001\255\001\255\001助理導演\255\001Susan Murphy Reiger
+131,002:LS#0223,Recorded By\255\001Andy Murdoch of earwax productions\255\001\255\001Music Adapted and Mixed By\255\001Andy Newell of earwax productions,錄音\255\001Andy Murdoch\255\001\255\001音樂改編與混音\255\001Andy Newell
+132,002:LS#0223,"Recorded, Edited and Mixed At\255\001earwax productions, San Francisco, California\255\001\255\001Special Voice Effects and Editing By\255\001our two favorite andys",錄音、剪輯與混音於\255\001舊金山 earwax productions\255\001\255\001特殊語音特效與剪輯\255\001我們最愛的兩位 Andy
+133,002:LS#0223,"Script Adapted By\255\001Sara Reeder\255\001and\255\001Orson Scott Card\255\001\255\001\255\001Additional Dialog and Editing By\255\001Jennifer Sward, Shelley Day and John Reiger","劇本改編\255\001Sara Reeder\255\001與\255\001Orson Scott Card\255\001\255\001\255\001額外對話與剪輯\255\001Jennifer, Shelley 和 John"
+134,002:LS#0223,"Additional Animations By\255\001Anson Jew and Mike McGlaughlin\255\001\255\001\255\001Additional Backgrounds By\255\001Avril Harrison, Armand Cabrera,\255\001Anson Jew, and Mike McGlaughlin","額外動畫\255\001Anson Jew 和 Mike McGlaughlin\255\001\255\001\255\001額外背景\255\001Avril, Armand,\255\001Anson, 和 Mike"
+135,002:LS#0223,"Lead Playtester -- Dave Popovich\255\001\255\001Playtest Team\255\001Chip Hinnenberg, Jo Ashburn,\255\001James Hampton, Justin Graham\255\001Howard Harrison, Patrick Sirk\255\001Ron Lussier, 'Preacher', Wayne Cline\255\001and Tabitha 'George' Tosti","首席遊戲測試 -- Dave Popovich\255\001\255\001測試團隊\255\001Chip, Jo,\255\001James, Justin\255\001Howard, Patrick\255\001Ron, Preacher, Wayne\255\001和 Tabitha"
+136,002:LS#0223,Packaging and Marketing Coordination By\255\001Mary Bihr\255\001and Cynthia Wuthman,包裝與行銷協調\255\001Mary Bihr\255\001與 Cynthia Wuthman
+137,002:LS#0223,Scripted By\255\001Jennifer Sward\255\001\255\001CD SCUMM System By\255\001Aric Wilmunder,編劇\255\001Jennifer Sward\255\001\255\001CD SCUMM 系統\255\001Aric Wilmunder
+138,002:LS#0223,Produced By\255\001Shelley Day\255\001\255\001Project Lead By\255\001Jennifer Sward,製作人\255\001Shelley Day\255\001\255\001專案負責人\255\001Jennifer Sward
+139,002:LS#0223,Special Thanks To\255\001Sylvester Pesek of Optical Media\255\001and\255\001Mike Kawahara of Commodore,特別感謝\255\001Optical Media 的 Sylvester Pesek\255\001與\255\001Commodore 的 Mike Kawahara
+140,002:LS#0223,"Thanks to Noah Falstein, David Fox,\255\001Akila J. Redmer, James Wood, Andrea Siegel\255\001and Orson Scott Card","感謝 Noah, David,\255\001Akila, James, Andrea\255\001和 Orson"
+141,002:LS#0223,\255\001Special Thanks to George Lucas,\255\001特別感謝 George Lucas
+142,002:LS#0223,\255\001A Lucasfilm Games\015 Production,\255\001Lucasfilm Games\015 製作
+143,002:LS#0223,"Created and Produced at Skywalker Ranch\255\001Marin County, California",於天行者山莊創作與製作\255\001加州馬林郡
+144,002:LS#0223,\015 & = 1990 LucasArts Entertainment Co.\255\001All rights reserved.,\015 & = 1990 LucasArts Entertainment Co.\255\001版權所有。
+145,002:LS#0223,The End,劇終
+146,002:SC#0044,\015 & = 1990 LucasArts Entertainment Co.\255\001All rights reserved.,\015 & = 1990 LucasArts Entertainment Co.\255\001版權所有。
+147,002:SC#0044, , 
+148,002:SC#0044,LucasArts Entertainment Company,LucasArts 娛樂公司
+149,002:SC#0044,\015 & = 1990 LucasArts Entertainment Co.\255\001All rights reserved.,\015 & = 1990 LucasArts Entertainment Co.\255\001版權所有。
+150,002:SC#0044,"Rise, son of Cygna.",起來，Cygna之子。
+151,002:SC#0044,It is the dawn of your seventeenth year.,這是你十七歲的黎明。
+152,002:SC#0044,The Elders await you in the Sanctuary.,長老們在聖所等你。
+153,002:SC#0044,I've never known them to weave such\255\001a bright messenger nymph.,我從未見過他們編織出\255\001如此明亮的信使仙女。
+154,002:SC#0044,I wonder why the Elders want to see me?,我想知道長老為何要見我？
+155,002:SC#0044,I'd better get down to the village.,我最好去村子裡。
+156,002:SC#0044,Press F9 to toggle text on screen ON/OFF,按F9切換文字開啟/關閉
+157,003:ON#0090,sky,天
+158,003:OC#0090,I like the view from the cliff better.,我比較喜歡懸崖上的景色。
+159,003:OC#0090,Maybe I should stand a bit closer.,也許該站近點。
+160,004:ON#0100,owl,鴞
+161,004:OC#0100,He's fast asleep.,他睡熟了。
+162,004:OC#0100,I can't even get owls to respond to my drafts.,我連鴞都不理我的織法。
+163,004:ON#0101,thorns,荊棘
+164,004:OC#0101,Ouch!,哎喲!
+165,004:OC#0101,I don't think you can weave with thorns.,我想不能用荊棘紡織。
+166,004:OC#0101,I don't think you can weave with thorns.,我想不能用荊棘紡織。
+167,004:OC#0101,I don't think you can weave with thorns.,我想不能用荊棘紡織。
+168,004:ON#0096,hole,洞
+169,004:ON#0097,hole,洞
+170,004:ON#0098,hole,洞
+171,004:ON#0099,hole,洞
+172,004:ON#0102,grave,墳墓
+173,004:OC#0102,I can't read it.,我看不懂。
+174,004:OC#0102,The owl's tailfeathers are covering the words.,鴞的尾羽遮住了字。
+175,004:OC#0102,It doesn't seem to affect them at all.,這似乎對他們一點影響也沒有。
+176,004:OC#0102,That draft doesn't seem to work in cemetaries.,那個織法在墓園似乎沒用。
+177,004:ON#0122,sky,天
+178,004:OC#0122,I like the view from the cliff better.,我比較喜歡懸崖上的景色。
+179,004:OC#0122,Maybe I should stand a bit closer.,也許該站近點。
+180,004:EN#0004,\025The day the sky is opened.\025,\025天空開啟之日。\025
+181,004:LS#0200,There's an owl in there!,裡面有一隻鴞！
+182,004:LS#0200,Another owl!,又有鴞！
+183,004:LS#0200,I didn't know there were so many owls\255\001in these woods!,我不知道這些樹林裡\255\001有這麼多鴞！
+184,004:LS#0200,All the holes are full now.,所有的洞都滿了。
+185,004:LS#0200,That one is empty.,那個是空的。
+186,004:LS#0200,There's an owl in there!,裡面有一隻鴞！
+187,004:LS#0200,It's still empty.,它還是空的。
+188,004:LS#0206,I guess that draft doesn't apply to holes.,我想那織法不適用於洞。
+189,004:LS#0207,"No, wait: that hole's already wide open.",不，等等：那個洞已經敞開了。
+190,004:LS#0208,Whatever lives in that hole may not appreciate this.,住在那洞裡的東西可能不會喜歡。
+191,004:LS#0209,Just as well.\255\001Some things are better left alone.,也好。\255\001有些事還是別碰為妙。
+192,006:ON#0136,cloth rack,布架
+193,006:OC#0136,Grass green.  I hate that color!,草綠色。我討厭那顏色！
+194,006:OC#0136,Even the Elders couldn't make it any more colorful.,連長老們也無法讓它更色彩繽紛。
+195,006:OC#0136,White again. That's more like it.,又變白了。這樣好多了。
+196,006:ON#0139,flask,燒瓶
+197,006:ON#0130,dye pot,染鍋
+198,006:OC#0130,Nothing. That draft doesn't seem to work on pots.,沒反應。織法對鍋子似乎沒用。
+199,006:ON#0134,book,書
+200,006:OC#0134,That's the Book of Patterns.\255\001I already know what's in it.,那是織圖之書。\255\001我已經知道裡面有什麼了。
+201,006:OC#0134,"I'd have to open it, first.",我得先打開它。
+202,006:OC#0134,I already know what's in it.,我已經知道裡面有什麼了。
+203,006:ON#0135,heap,堆
+204,006:OC#0135,Grass green.  I hate that color!,草綠色。我討厭那顏色！
+205,006:OC#0135,This wool hasn't been dyed yet.,這羊毛還沒染色。
+206,006:OC#0135,White again. That's more like it.,又變白了。這樣好多了。
+207,006:ON#0132,wool,羊毛
+208,006:OC#0132,Yuck! Green again!,噁！又是綠色！
+209,006:OC#0132,This wool hasn't been dyed yet.,這羊毛還沒染色。
+210,006:OC#0132,White again. That's more like it.,又變白了。這樣好多了。
+211,006:ON#0131,wool,羊毛
+212,006:OC#0131,Grass green.  I hate that color!,草綠色。我討厭那顏色！
+213,006:OC#0131,Yuck! Green again!,噁！又是綠色！
+214,006:OC#0131,There. It looks much better in white.,好了。白色看起來好多了。
+215,006:LS#0200,Yuck! Green again!,噁！又是綠色！
+216,006:LS#0200,There. It looks much better in white.,好了。白色看起來好多了。
+217,006:LS#0200,The color changed!,顏色變了！
+218,006:LS#0201,Grass green.  I hate that color!,草綠色。我討厭那顏色！
+219,006:LS#0211,It's much too green already.,已經太綠了。
+220,006:LS#0212,That's already as pale as I can make it.,那已經是我能弄出最淡的顏色了。
+221,006:LS#0215,It's still dripping. What a mess!,還在滴水。真是一團糟！
+222,006:LS#0215,Oops!,糟了!
+223,008:ON#0181,tapestry,掛毯
+224,008:OC#0181,"The threads describe the Creation of the World,\255\001and the passing of the Two Shadows.",這些線描述了創世，\255\001以及兩次陰影的消逝。
+225,008:OC#0181,"The threads describe the Creation of the World,\255\001and the passing of the Two Shadows.",這些線描述了創世，\255\001以及兩次陰影的消逝。
+226,008:ON#0182,tapestry,掛毯
+227,008:OC#0182,"The pattern shows the entire\255\001history of the Weavers,\255\001back to the founding of the Great Guilds.",這個織圖展示了織者\255\001的完整歷史，\255\001追溯至大公會的建立。
+228,008:OC#0182,"The pattern shows the entire\255\001history of the Weavers,\255\001back to the founding of the Great Guilds.",這個織圖展示了織者\255\001的完整歷史，\255\001追溯至大公會的建立。
+229,008:ON#0183,tapestry,掛毯
+230,008:OC#0183,The last section tells about\255\001the decline of the Guilds.,最後一部分講述了\255\001公會的衰落。
+231,008:OC#0183,There's a Third Shadow gathering^,第三次陰影正在聚集^
+232,008:OC#0183,^that's strange.\255\001The end is completely torn off!,^真奇怪。\255\001結尾完全被撕掉了！
+233,008:LS#0204,There's the Long Tapestry.\255\001I don't remember it looking so old and frayed.,那是長掛毯。\255\001我不記得它看起來這麼舊和磨損。
+234,008:LS#0205,Here's more of the Tapestry.,這是掛毯的更多部分。
+235,008:LS#0208,Even the Elders couldn't make it any more colorful.,連長老們也無法讓它更色彩繽紛。
+236,008:LS#0209,There isn't any color left to spin out.,沒有任何顏色可以編織出來了。
+237,008:LS#0209,There isn't any color left to spin out.,沒有任何顏色可以編織出來了。
+238,008:LS#0210,That draft must not work on tapestries.,那織法肯定對掛毯沒用。
+239,008:LS#0217,The color changed!,顏色變了！
+240,008:SC#0046,There's Hetchel! And the Elders\255\001don't look at all pleased with her.,是海切爾！\255\001長老們看起來對她非常不滿。
+241,008:SC#0046,"You have heard the findings\255\001of this Council, Dame Hetchel.",妳已聽取本議會\255\001的調查結果，海切爾女士。
+242,008:SC#0046,Have you anything to say in your own defense?,妳有什麼要為自己辯護的嗎？
+243,008:SC#0046,"My Elders, my actions speak for themselves.",長老們，我的行為說明了一切。
+244,008:SC#0046,This reckless defiance is intolerable.,這種魯莽的反抗是無法容忍的。
+245,008:SC#0046,Any secret you share with Cygna's son\255\001might be turned against us!,妳與Cygna之子分享的任何秘密\255\001都可能對我們不利！
+246,008:SC#0046,"His talent is awakening,\255\001and the power is very strong in him.",他的天賦正在覺醒，\255\001他體內的力量非常強大。
+247,008:SC#0046,We dare not desert him now!,我們現在怎敢放逐他！
+248,008:SC#0046,Stubborn old fool!\255\003Who are YOU to decide such things?!,固執的老傻瓜！\255\003妳是誰，能決定這些事？！
+249,008:SC#0046,"Enough, Lachesis.",夠了，Lachesis。
+250,008:SC#0046,"Hetchel, I am grieved to see your many\255\001years of service end in such disgrace.",海切爾，我很痛心看到妳多年的服務\255\001以如此恥辱的方式結束。
+251,008:SC#0046,My destiny is yours to weave.,我的命運由諸位來編織。
+252,008:SC#0046,"Hetchel, the fabric of your life\255\001has been woven by your own choices.",海切爾，妳生命之布\255\001是自己的選擇編織而成的。
+253,008:SC#0046,Gaze once more upon the Great Loom\255\001if you would know your ultimate destiny.,若妳想知道最終命運，\255\001請再次凝視命運織機。
+254,008:SC#0046,For that destiny is now upon you!,因為那命運現在降臨在妳身上！
+255,008:SC#0046,A swan's egg! What does it mean?,天鵝蛋！這是什麼意思？
+256,008:SC#0046,Something is deeply wrong.\255\001That draft has never failed before.,非常不對勁。\255\001那織法以前從未失敗過。
+257,008:SC#0046,Something is deeply wrong.\255\001That draft has never failed before.,非常不對勁。\255\001那織法以前從未失敗過。
+258,008:SC#0046,What is that noise? Outside!,外面那是什麼聲音？！
+259,008:SC#0046,The Guild is under attack!,我們受到攻擊了！
+260,008:SC#0046,Who dares to desecrate the\255\001Great Loom of the Weavers?,誰敢褻瀆織者的命運織機？
+261,008:SC#0046,This is the work of the demon boy.,這是那惡魔男孩的傑作。
+262,008:SC#0046,"We should kill him, while we still can!",我們應該趁還能時殺了他！
+263,008:SC#0046,"Your name will be cursed forever, Son of Cygna ^\255\001Loom Child ^ Bobbin Threadbare!",你的名字將永遠受詛咒，Cygna之子 ^\255\001織機之子 ^ Bobbin Threadbare！
+264,008:SC#0046,MY name? But I had nothing to do with this!,我？但…這跟我沒關係！
+265,008:SC#0046,Wait! Where are you going?,等等！你們要去哪？
+266,008:SC#0046,No explanations. No goodbyes.,沒有解釋。沒有道別。
+267,008:SC#0046,"And once again, I'm left behind ^",又一次，我被留下了 ^
+268,009:ON#0195,egg,蛋
+269,009:OC#0195,"Well, that didn't work.",嗯，沒用。
+270,009:ON#0196,distaff,織杖
+271,009:OC#0196,level is \255\004\172\000,難度是 \255\004\172\000
+272,009:OC#0196,It's heavier than it looks.,它比看起來重。
+273,009:ON#0197,loom,織機
+274,009:OC#0197,"Well, that didn't work.",嗯，沒用。
+275,009:ON#0198,Hetchel,海切爾
+276,009:OC#0198,"Her beak moves, but there's nothing --\255\001not a sound!",她的喙在動，但什麼也沒有 --\255\001一點聲音也沒有！
+277,009:OC#0198,That's not helping ^,那沒什麼幫助 ^
+278,009:OC#0198,That's not helping ^,那沒什麼幫助 ^
+279,009:ON#0199,feather,羽毛
+280,009:ON#0200,Dead One,死者
+281,009:LS#0209,It's so quiet.   The echoes of the Loom\255\001have all died away.,好安靜。織機的迴聲都消失了。
+282,009:LS#0209,Those are the same four threads\255\001spun by the Elders.,那是長老們\255\001紡出的同樣四根線。
+283,009:LS#0209,Those are the four threads\255\001I heard a few moments ago.,那是幾分鐘前\255\001我聽到的四根線。
+284,009:LS#0209,They're still echoing in the Loom!,它們還在織機中迴盪！
+285,009:LS#0213,The egg ^ it's trying to open!,蛋 ^ 它試圖打開！
+286,009:LS#0214,What's that sound?,那是什麼聲音？
+287,009:LS#0214,The egg is opening!,蛋要開了！
+288,009:LS#0216,"I advise you not to approach me too closely, Weaver boy.",我建議你別靠我太近，紡織男孩。
+289,009:LS#0221,"Throw away that stick, young fool.",扔掉那根棍子，菜鳥。
+290,009:LS#0221,Your Weaver magic can't begin to touch me.,你的魔法根本傷不了我。
+291,009:LS#0223,"Thank goodness!\255\001Now, Bobbin, quickly: the threads you need are",謝天謝地！\255\001現在，Bobbin，快：你需要的線是
+292,009:LS#0223,Ducks are meant to be eaten. Not heard.,鴨子是拿來吃的。不是聽的。
+293,009:LS#0223,Now.,現在
+294,009:LS#0223,I believe we were discussing\255\001the secrets of the Loom.,我相信我們正在討論\255\001織機的秘密。
+295,009:LS#0224,"Ssh! Close your eyes now, Bobbin.\255\001But keep your ears open!",噓！現在閉上眼睛，Bobbin。\255\001但要豎起耳朵聽！
+296,009:LS#0224,Here descends the Third Shadow!,第三次陰影降臨了！
+297,009:LS#0224,"Now, my esteemed advisor,\255\001where were we before we were so rudely distracted?",現在，我尊敬的顧問，\255\001我們被粗魯地打斷前說到哪了？
+298,009:LS#0224,Hetchel's black feather!\255\001She left one behind!,海切爾的黑羽毛！\255\001她留下了一根！
+299,009:LS#0224,And so she did.,她確實留下了。
+300,009:LS#0224,I think I shall keep it as a souvenir\255\001of our little encounter.,我想我會把它當作紀念品，\255\001紀念我們的小邂逅。
+301,009:LS#0224,I want that feather. Give it to me.,我要那根羽毛。給我。
+302,009:LS#0224,"My, my, impudent, aren't we?",哎呀呀，我們真無禮，不是嗎？
+303,009:LS#0226,"Unmake the Loom, Bobbin! Now!",解開織機，Bobbin！現在！
+304,009:LS#0226,I can't distract her much longer!,我無法分散她注意力太久！
+305,009:LS#0231,That bird has annoyed me once to often.,那隻鳥煩我太多次了。
+306,009:LS#0233,Mother Hetchel! Where are you going?,海切爾媽媽！妳要去哪？
+307,009:LS#0233,"Goodbye, Bobbin!  I must follow the swans.",再見，Bobbin！我必須跟隨天鵝。
+308,009:SC#0047,There's my boy!,那是我的孩子！
+309,009:SC#0047,What's happening? The whole village\255\001has flown away - without us.,發生什麼事了？整個村子\255\001都飛走了 - 拋下了我們。
+310,009:SC#0047,"From the moment you came into this world,\255\001Bobbin, great and terrible things\255\001have been happening.",從你來到這世界的那一刻起，\255\001Bobbin，巨大且可怕的事就一直發生。
+311,009:SC#0047,The Elders hoped that\255\001your birth was the cause of it.,長老們希望你的出生是原因。
+312,009:SC#0047,Why would the Elders want to get rid of me?,為什麼長老們想除掉我？
+313,009:SC#0047,I'm such an awful weaver that they've\255\001never even let me study with the others.,我是個糟糕的織者，他們甚至從未讓我跟其他人一起學習。
+314,009:SC#0047,"They fear you, Bobbin.",他們怕你，Bobbin。
+315,009:SC#0047,"When the swan arrived, they were already\255\001trying to weave the same draft\255\001on you that they had worked on me.",白天鵝到來時，\255\001他們已經試圖對你施法，\255\001也就是對我施展過的那種織法。
+316,009:SC#0047,But the draft turned against them.,但織法反噬了他們。
+317,009:SC#0047,It means only one thing -- that\255\001the Pattern is failing of its own accord.,這只意味著一件事 --\255\001這織圖正在自行失效。
+318,009:SC#0047,No! Can't it be stopped?,什麼！？不能阻止嗎？
+319,009:SC#0047,Stop chaos?,阻止混沌？
+320,009:SC#0047,"The only thing to do is embrace it,\255\001and turn ourselves into creatures of shadow ^\255\001or plan our escape!",唯一能做的是擁抱它，並將我們變成暗影生物，\255\001或是…計劃逃跑！
+321,009:SC#0047,Escape? To where?\255\001,逃？逃去哪？\255\001
+322,009:SC#0047,"I don't know.  But if we are to\255\001survive, we must find out where that flock has\255\001flown, and join them, if we can!",我不知道。\255\001但如果我們想活下來，\255\001就必須找出那群天鵝飛去哪，並加入他們！
+323,009:SC#0047,You've already found Atropos' distaff. Good.,你已找到Atropos的織杖。很好。
+324,009:SC#0047,"Pick up Atropos' distaff, over there.",撿起那邊Atropos的織杖。
+325,009:SC#0047,"You won't be able to weave\255\001very much with it at first.\255\003But as you practice, its true power\255\001will be revealed to you.",一開始你無法用它紡織太多東西。\255\001\255\003但隨著練習，它將向你展現真正的力量。
+326,009:SC#0047,"It's time to leave this island, Loom Child.",該離開這座島了，織機之子。
+327,009:SC#0047,"Your destiny lies beyond the sunset,\255\001across the sea!",你的命運在日落之外，\255\001在海的另一邊！
+328,009:SC#0047,"Well.  This is a fine mess.\255\001Everybody's gone, and I still don't understand what's going on.",好吧。這真是一團糟。\255\001大家都走了，而我還是不懂發生了什麼事。
+329,009:SC#0047,And why did they keep calling me 'Loom Child'?\255\001Nobody's ever let me anywhere near a loom ^,為什麼他們一直叫我「織機之子」？\255\001從來沒人讓我靠近過織機
+330,009:SC#0101,"Eek!  Mind yourself, Bobbin!",呀！小心點，Bobbin！
+331,009:SC#0101,Get your distaff ready!,準備好你的織杖！
+332,009:SC#0101,You must unmake the Loom.\255\001NOW! Before Chaos takes control!,你必須解開織機。\255\001現在！在混沌控制之前！
+333,009:SC#0101,What? How? I don't know what draft to use!,什麼？怎麼做？我不知道要用什麼織法！
+334,009:SC#0101,Birds and children have no business\255\001wielding such power.,鳥和小孩沒有資格掌握這種力量。
+335,009:SC#0101,Weavers are the only ones who DO\255\001have the right to use this power!,織者是唯一有權使用這種力量的人！
+336,009:SC#0101,"Destiny has blessed you, young Threadbare -- ",命運眷顧了你，年輕的Threadbare -- 
+337,009:SC#0101,for you alone will live on to pass\255\001your Guild's secrets to others more worthy of them.,因為只有你能活下來，\255\001傳遞公會秘密給更配得上的人。
+338,009:SC#0101,I invite you to serve my new empire as advisor.,我邀請你擔任我新帝國的顧問。
+339,009:SC#0101,ME?  YOU?  ADVISOR?!,我？你？顧問？！
+340,009:SC#0101,"Of course, I will expect your full cooperation\255\001in this historic exchange of goodwill.",當然，我期望你能全力配合\255\001這歷史性的善意交流。
+341,009:SC#0101,"After all, anything else may bring harm to our relationship ^",畢竟，其他任何事都可能損害我們的『關係』
+342,009:SC#0101,"Don't listen to her, Bobbin!",別聽她的，Bobbin！
+343,009:SC#0101,"Heed me, now --\255\001here are the threads that will unmake the Loom ^",現在，聽我說 --\255\001這是能解開織機的線 ^
+344,009:SC#0101,Silence.,安靜。
+345,009:SC#0101,"Hetchel, say something, please!\255\001I need that draft!",海切爾，拜託說點什麼！\255\001我需要那個織法！
+346,009:SC#0101,Enough.  I lose patience in the presence\255\001of inferior beings.,夠了。在低等生物面前\255\001我失去了耐心。
+347,009:SC#0101,You will now instruct me in the use\255\001of this fascinating instrument.,你現在將指導我如何使用\255\001這件迷人的儀器。
+348,009:SC#0101,Over my dead body!,休想！除非我死了！
+349,009:SC#0101,Preference noted.,好喔～我知道了。
+350,009:SC#0105,Hetchel's black feather!\255\001She left one behind!,海切爾的黑羽毛！\255\001她留下了一根！
+351,009:SC#0105,And so she did.,她確實留下了。
+352,009:SC#0105,I think I shall keep it as a souvenir\255\001of our little encounter.,我想我會把它當作紀念品，\255\001紀念我們的小邂逅。
+353,009:SC#0105,I want that feather. Give it to me.,我要那根羽毛。給我。
+354,009:SC#0105,"My, my, impudent, aren't we?",哎呀呀，我們真無禮，不是嗎？
+355,010:ON#0221,clam,蛤蜊
+356,010:OC#0221,Yuck.,好噁.
+357,010:OC#0221,Looks as if breakfast is over.,看來早餐結束了。
+358,010:OC#0221,It's already open!,它已經開了！
+359,010:OC#0221,I'd hate to ruin the poor gull's breakfast.,我不想毀了可憐海鷗的早餐。
+360,010:OC#0221,I already closed it.,我已經關上它了。
+361,010:OC#0221,That didn't help at all.,那一點幫助也沒有。
+362,010:ON#0222,gull,海鷗
+363,010:ON#0223,gull,海鷗
+364,010:ON#0224,gull,海鷗
+365,010:ON#0225,gull,海鷗
+366,011:SC#0049,Perhaps I shouldn't try that again...,也許我不該再試一次...
+367,011:SC#0049,Is it over?,結束了嗎？
+368,012:OC#0247,"Now.  Let's try this again, shall we?",現在。我們再來一次好嗎？
+369,012:LS#0200,I'd better not wander off too far.,我最好別走太遠。
+370,013:ON#0250,waterspout,水龍捲
+371,013:OC#0250,I think that's close enough.,我想那夠近了。
+372,013:OC#0250,That didn't help at all.\255\001There must be some way I can untwist it ^,那毫無幫助。\255\001一定有辦法能解開它 ^
+373,013:OC#0250,"Well, that only twisted it tighter!",嗯，那只會讓它扭得更緊！
+374,013:OC#0250,That draft doesn't seem to work on waterspouts.,那織法對水龍捲似乎沒用。
+375,016:ON#0275,workers,工人
+376,016:LS#0203,What's going on up there?,上面發生了什麼事？
+377,016:LS#0204,"No, I think I already tried that draft once.",不，我想我試過那織法了。
+378,016:LS#0204,It doesn't seem to affect them at all.,這似乎對他們一點影響也沒有。
+379,016:LS#0204,Hmm. I wonder ^ did it work? Only one way to find out.,嗯…不知…有用嗎？試了就知道。
+380,016:LS#0206,It doesn't seem to affect them at all.,這似乎對他們一點影響也沒有。
+381,016:LS#0207,I doubt they'll see me from up there.,我懷疑他們從上面看得到我。
+382,017:ON#0282,grave,墳墓
+383,017:OC#0282,"\025Near this spot, Luscent Bottleblow,\255\001Founder of the Noble Guild of Glassmakers,\255\003attained his Final Clarity.\025","\025Luscent Bottleblow,\255\001高貴的玻璃匠公會創始人，\255\003在此處獲得最終的澄澈。\025"
+384,017:OC#0282,It doesn't seem to affect them at all.,這似乎對他們一點影響也沒有。
+385,017:ON#0283,grave,墳墓
+386,017:OC#0283,"\025Softshard, Wife of Luscent Bottleblow,\255\001here attained Final Clarity.\025","\025Softshard, Luscent之妻,\255\001在此獲得最終的澄澈。\025"
+387,017:OC#0283,It doesn't seem to affect them at all.,這似乎對他們一點影響也沒有。
+388,017:LS#0205,That's obviously not the right draft for graves.,那顯然不是用於墳墓的正確織法。
+389,017:LS#0206,I don't think I'll try that one again.,我想我不會再試那個了。
+390,018:ON#0294,bell,鐘
+391,018:OC#0294,That draft isn't working on the bell.,那織法對鐘沒用。
+392,018:ON#0295,sphere,法球
+393,018:OC#0295,That must not be the right draft.,那肯定不是正確的織法。
+394,018:ON#0296,crystal,水晶
+395,018:OC#0296,"It's already open, remember?",它已經打開了，記得嗎？
+396,018:ON#0299,crystal,水晶
+397,018:ON#0297,conversation,對話
+398,018:LS#0202,I guess I'm not supposed to go up there.,我想我不該上去。
+399,018:LS#0202,Those two are going to be a bit of a problem.,那兩個人會是個問題。
+400,018:LS#0202,I may have to do something ^ sneaky.,我也許得做點…偷偷摸摸的事。
+401,018:LS#0205,"Not so fast, here...",別急，這裡...
+402,018:LS#0205,Who's that?,那是誰？
+403,018:LS#0205,I can barely hear what they're saying ^,我幾乎聽不見他們在說什麼 ^
+404,018:SC#0064,Huh! A glass bell!,哈！玻璃鐘！
+405,018:SC#0064,Wonder what will happen if ...,想知道如果...會怎樣
+406,018:SC#0071,I'm dizzy!,我頭好暈！
+407,019:SC#0065,Aieeeeaaah!,啊啊啊啊啊
+408,020:ON#0313,bell,鐘
+409,020:ON#0314,bell,鐘
+410,020:ON#0311,scythe,鐮刀
+411,020:ON#0312,scythe,鐮刀
+412,020:ON#0315,workers,工人
+413,020:ON#0316,workers,工人
+414,020:LS#0202,That scythe is even sharper than a Weaver's spindle.,那鐮刀比織者的織杖還銳利。
+415,020:LS#0203,That scythe is even sharper than a Weaver's spindle.,那鐮刀比織者的織杖還銳利。
+416,020:LS#0207,Look!,看！
+417,020:LS#0207,"Who are you, lad?",你是誰，孩子？
+418,020:LS#0207,And just what do you think you're doing up here?,你以為你在上面做什麼？
+419,020:LS#0207,"I^I'm not sure. I just rang the bell, and",我^我不確定。我剛敲了鐘，然後
+420,020:LS#0207,"Well, I'm sorry, but you're not supposed to be here.",抱歉，你不該在這裡。
+421,020:LS#0207,"Step back under the lens, please.",請退回下層。
+422,020:LS#0207,This is a restricted area.,這是限制區。
+423,020:LS#0207,No visitors allowed.,禁止訪客。
+424,020:LS#0207,"Good day, sir ^",日安，先生 ^
+425,020:LS#0207,Stopper. Over there! I don't believe this ^,Stopper。在那邊！我真不敢相信 ^
+426,020:LS#0207,"Looking for trouble, are you?\255\001You're certainly about to find it ^",找碴是吧？\255\001你馬上就會找到了 ^
+427,020:LS#0207,He'll not be the only one in trouble if Crucible finds him up here.,如果Crucible發現他，他不是唯一有麻煩的。
+428,020:LS#0207,Not to mention what will happen if we get behind schedule.,更別提如果我們進度落後會怎樣。
+429,020:LS#0207,"Listen, here, lad. We have secret work to do,\255\001and not much time to do it.\255\001Do you undertand what SECRET means?",聽著，孩子。我們有秘密工作，\255\001而且時間不多。\255\001你懂秘密是什麼意思嗎？
+430,020:LS#0207,Yes. But it's very important that I ^,懂。但我必須 ^
+431,020:LS#0207,Good. Please step over to the lens. NOW.,很好。請走到透鏡那。立刻。
+432,020:LS#0207,Stupid brat.,蠢小鬼。
+433,020:LS#0207,You said it.,你說得對。
+434,020:LS#0207,Look here! You are not going to just waltz\255\001through here without our seeing you!,看這！你休想在\255\001不被我們看見的情況下溜走！
+435,020:LS#0207,GO. PLAY. SOMEWHERE. ELSE. GOODBYE.,去。別。處。玩。再。見。
+436,020:LS#0210,"Our esteemed Bishop Mandible\255\001cuts quite a figure, doesn't he?",我們尊敬的Mandible主教\255\001看起來真威風，不是嗎？
+437,020:LS#0210,I don't doubt that Crucible's getting\255\001tired of bowing and scraping to him.,我確信Crucible對\255\001向他卑躬屈膝感到厭倦了。
+438,020:LS#0210,"Why would the Clerics want a Scrying Sphere, anyway?",神職者要占卜水晶球做什麼？
+439,020:LS#0210,I thought they didn't believe in the future.,我以為他們不相信未來。
+440,020:LS#0210,"Your guess is as lucid as mine, Flute.",我跟你一樣不清楚，Flute。
+441,020:LS#0210,But Crucible appears to think that they're up to no good again.,但Crucible似乎認為他們又在圖謀不軌。
+442,020:LS#0210,Then why would he do business with them at all?,那他為什麼還要和他們做生意？
+443,020:LS#0210,Let alone sell them a sphere^,更別說賣給他們法球了^
+444,020:LS#0210,"Well, you know Crucible.",嗯，你了解Crucible的。
+445,020:LS#0210,He'd sell his own mother's spectacles\255\001if he thought there was a profit in it.,如果有利可圖，\255\001他連自己母親的眼鏡都會賣。
+446,020:LS#0210,And the Clerics are paying off in cash.,而且神職者付的是現金。
+447,020:LS#0210,^which should keep us in the clear for years to come!,^這能讓我們幾年內都不用愁了！
+448,020:LS#0210,"Still, I'm certainly pleased that\255\001Crucible's not taking any chances.",不過，我很高興\255\001Crucible不願意冒任何風險。
+449,020:LS#0210,This scythe might become very useful,這把鐮刀可能會變得非常有用
+450,020:LS#0210,if our friend the Bishop\255\001has been less than transparent with us.,如果我們的主教朋友\255\001對我們不夠坦白的話。
+451,020:LS#0210,OUCH!,哎喲!
+452,020:LS#0210,"Yes, very useful indeed ^",是的，確實非常有用 ^
+453,020:LS#0211,That draft is not going to help if they can't see me.,如果他們看不見我，那織法就沒用了。
+454,020:LS#0212,I'm glad I'm already invisible.,真高興我已經隱形了。
+455,020:LS#0214,That draft isn't working on the bell.,那織法對鐘沒用。
+456,020:LS#0218,"Our esteemed Bishop Mandible\255\001cuts quite a figure, doesn't he?",我們尊敬的Mandible主教\255\001看起來真威風，不是嗎？
+457,020:LS#0218,I don't doubt that Crucible's getting\255\001tired of bowing and scraping to him.,我確信Crucible對\255\001向他卑躬屈膝感到厭倦了。
+458,020:LS#0218,"Why would the Clerics want a Scrying Sphere, anyway?",神職者要占卜水晶球做什麼？
+459,020:LS#0218,I thought they didn't believe in the future.,我以為他們不相信未來。
+460,020:LS#0218,"Your guess is as lucid as mine, Flute.",我跟你一樣不清楚，Flute。
+461,020:LS#0218,But Crucible appears to think that they're up to no good again.,但Crucible似乎認為他們又在圖謀不軌。
+462,020:LS#0218,Then why would he do business with them at all?,那他為什麼還要和他們做生意？
+463,020:LS#0218,Let alone sell them a sphere^,更別說賣給他們法球了^
+464,020:LS#0218,"Well, you know Crucible.",嗯，你了解Crucible的。
+465,020:LS#0218,He'd sell his own mother's spectacles\255\001if he thought there was a profit in it.,如果有利可圖，\255\001他連自己母親的眼鏡都會賣。
+466,020:LS#0218,And the Clerics are paying off in cash.,而且神職者付的是現金。
+467,020:LS#0218,^which should keep us in the clear for years to come!,^這能讓我們幾年內都不用愁了！
+468,020:LS#0218,"Still, I'm certainly pleased that\255\001Crucible's not taking any chances.",不過，我很高興\255\001Crucible不願意冒任何風險。
+469,020:LS#0218,This scythe might become very useful,這把鐮刀可能會變得非常有用
+470,020:LS#0218,if our friend the Bishop\255\001has been less than transparent with us.,如果我們的主教朋友\255\001對我們不夠坦白的話。
+471,020:LS#0218,OUCH!,哎喲!
+472,020:LS#0218,"Yes, very useful indeed ^",是的，確實非常有用 ^
+473,022:ON#0330,chalice,聖杯
+474,022:OC#0330,Hmm.  I wonder where that dragon went\255\001with Bottleblow's other treasures.,嗯。我想知道那條龍\255\001把Bottleblow的其他寶藏帶去哪了。
+475,022:OC#0330,Hmm.  I wonder where that dragon went\255\001with Bottleblow's other treasures.,嗯。我想知道那條龍\255\001把Bottleblow的其他寶藏帶去哪了。
+476,022:OC#0330,It's still empty.,它還是空的。
+477,022:OC#0330,I've already done that.,我已經做過了。
+478,022:ON#0328,bell,鐘
+479,022:OC#0328,That draft isn't working on the bell.,那織法對鐘沒用。
+480,022:ON#0329,crystal,水晶
+481,022:SC#0108,That's beautiful!\255\001I've never seen anything sparkle like that ^,真美！\255\001我從沒見過閃閃發光的東西 ^
+482,022:SC#0108,Not even the Long Tapestry.\255\001What kind of glass is it?,甚至長掛毯也沒有。\255\001那是什麼玻璃？
+483,022:SC#0108,That chalice you've so irreverently filled\255\001was carved from a single diamond crystal.,你如此不敬地裝滿的那個聖杯\255\001是由一整塊鑽石雕刻而成的。
+484,022:SC#0108,It was carved from a single crystal of diamond.,它是由一整塊鑽石雕刻而成的。
+485,022:SC#0108,But I thought you were Glassmakers.,但我以為你們是玻璃匠。
+486,022:SC#0108,"We are, we are. Dear boy, this is none\255\001other than the famous Chromax Conundrum,",我們是啊。好孩子，這正是\255\001著名的Chromax謎題，
+487,022:SC#0108,wrought by our\255\001Distinguished Founder Luscent Bottleblow.,由我們\255\001傑出的創始人Luscent打造。
+488,022:SC#0108,"His works once filled an entire museum, you know.",你知道嗎，他的作品曾擺滿整座博物館。
+489,022:SC#0108,That was before the Great Dragon arrived in 7342,那是7342年龍到來之前
+490,022:SC#0108,"She blew through this city like a torch,",她像火炬一樣席捲這座城市，
+491,022:SC#0108,"melting and breaking our finest works,",融化並摧毀了我們最棒的作品，
+492,022:SC#0108,plundering our museums and treasuries\255\001until we had almost nothing left.,掠奪我們的博物館和金庫，\255\001直到我們一無所有。
+493,022:SC#0108,"It was awful, just terrible, really a miserable time.",太可怕了，真是段悲慘的時光。
+494,022:SC#0108,"Even Bottleblow's greatest masterpiece,",甚至Bottleblow最偉大的傑作，
+495,022:SC#0108,"the First Scrying Sphere, was lost forever.",第一個占卜水晶球，也永遠遺失了。
+496,022:SC#0108,But you still have the Conundrum ^,但你們還有謎題 ^
+497,022:SC#0108,"And a lucky thing, too! It was on loan\255\001to the Guild of Vintners at the time.\255\003It is the sole remaining example\255\001of our founder's transcendent genius",很幸運！它當時\255\001借給了酒商公會。\255\003這是我們創始人超凡天才的\255\001唯一倖存作品
+498,022:SC#0108,"But I'm still curious:\255\001why is it diamond, instead of glass?",但我很好奇：\255\001為什麼它是鑽石，而不是玻璃？
+499,022:SC#0108,"We've no idea, no idea at all.",我們不知道，一點也不知道。
+500,022:SC#0108,"That's the conundrum, you see.",這就是謎題所在，你懂吧。
+501,023:OC#0346,"Going somewhere, little wizard?",要去哪裡，小巫師？
+502,023:OC#0346,I was better off with the Elders back home!,我還不如跟家鄉的長老們在一起！
+503,023:ON#0347,shepherds,牧羊人
+504,023:ON#0348,shepherds,牧羊人
+505,023:ON#0349,shepherds,牧羊人
+506,023:ON#0350,shepherds,牧羊人
+507,023:LS#0202,He's back...,他回來了...
+508,023:LS#0202,So are we...,我們也是...
+509,023:LS#0209,I sure wish I knew a draft\255\001that would work on shepherds..,我真希望能知道一個\255\001對牧羊人有用的織法..
+510,023:LS#0210, , 
+511,023:LS#0210,"Well, that worked!  Funny, I don't feel very scary^",嗯，成功了！奇怪，我不覺得可怕^
+512,023:LS#0212,Halt!  Who goes?,站住！是誰？
+513,023:LS#0212,"Well, well, well^",哎呀呀^
+514,023:LS#0212,^looks like a scrawny runt trying to sneak into our flocks^,^看來是個想溜進我們羊群的瘦小鬼^
+515,023:LS#0212,Sneak?  You call that sneaking?,溜？你管那叫溜？
+516,023:LS#0212,I heard him coming all the way in from town!,他從鎮上過來時我就聽到了！
+517,023:LS#0212,"Thought you were going to fleece some shepherds, did ya?",你想敲詐牧羊人，是嗎？
+518,023:LS#0212,"Maybe we oughta take the shears to you, instead!",也許我們該拿剪刀對付你！
+519,023:LS#0212,Listen^I'm not looking for sheep.,聽著^我不是來找羊的。
+520,023:LS#0212,Or trouble.,或找麻煩。
+521,023:LS#0212,I'm looking for a flock of swans.,我在找一群天鵝。
+522,023:LS#0212,Swans.,天鵝。
+523,023:LS#0212,Swans.,天鵝。
+524,023:LS#0212,You know^,你知道^
+525,023:LS#0212,^birds^,^鳥類^
+526,023:LS#0212,"Oh, SWANS.  Of course.",喔，天鵝。當然。
+527,023:LS#0212,We should have known!,我們早該知道的！
+528,023:LS#0212,Everybody comes here when they want swans!,每個人想找天鵝時都會來這裡！
+529,023:LS#0212,"Next, you'll be telling us that you're some sort of wizard,",接下來你是不是要說你是個巫師，
+530,023:LS#0212,off to fly away with them birdies!,準備跟那些鳥兒一起飛走！
+531,023:LS#0212,Wizard?,巫師？
+532,023:LS#0212,Wizard?! You wouldn't happen to be the great wizard,巫師？ ！你不會碰巧成為偉大的巫師
+533,023:LS#0212,"that Fleece was telling us about, would you now?",Fleece跟我們提過的那個吧？
+534,023:LS#0212,Fleece?,Fleece?
+535,023:LS#0212,He is sort of dressed like a wizard.,他的穿著是滿像巫師的。
+536,023:LS#0212,I don't know.,我不知道。
+537,023:LS#0212,He doesn't look very powerful to me.,他看起來不怎麼厲害。
+538,023:LS#0212,Me neither.,我也是。
+539,023:LS#0212,I say we don't let him by until we know for sure.,我說在確定之前不讓他過。
+540,023:LS#0212,"Come on, then, Wizard, let's see some magic.\255\001OR ELSE.",來吧，巫師，讓我們看看你的魔法。\255\001否則。
+541,023:LS#0214,"Come on, lad, he's had enough. Let him go.",算了吧，他受夠了。讓他走。
+542,023:LS#0214,"Some kind of wizard, eh?",什麼巫師嘛，是吧？
+543,023:LS#0214,"Don't trip on your robe, little wizard!",別被長袍絆倒了，小巫師！
+544,023:LS#0214,"Get on, ya lazy buncha ewes! Back to work!",快點，你們這群懶羊！回去工作！
+545,023:LS#0231,"Well, that draft didn't seem to do much good.",那個織法似乎沒什麼用。
+546,023:LS#0232,There's nobody better at stealth than us shepherds!,沒有人比我們牧羊人更擅長隱蔽了！
+547,023:LS#0232,"Aye, you'll have to do better than that\255\001to get past us.",沒錯，你得做得更好\255\001才能通過我們這關。
+548,024:ON#0358,sheep,羊
+549,024:OC#0358,They're too smart to be so easily scared.,牠們太聰明了，沒那麼容易被嚇到。
+550,024:OC#0358,"Well, that didn't work.",嗯，沒用。
+551,024:OC#0358,That draft doesn't seem to work on sheep.,那織法對羊似乎沒用。
+552,024:ON#0359,sheep,羊
+553,024:OC#0359,Fleece was right.  They really are easy to spot.,Fleece是對的。牠們真的很顯眼。
+554,024:OC#0359,"No, no, that's not right.   They're already white.",不，不，那不對。牠們已經是白色的了。
+555,024:OC#0359,They're too smart to be so easily scared.,牠們太聰明了，沒那麼容易被嚇到。
+556,024:OC#0359,"Well, that didn't work.",嗯，沒用。
+557,024:OC#0359,That draft doesn't seem to work on sheep.,那織法對羊似乎沒用。
+558,024:ON#0360,dozing,打瞌睡
+559,024:OC#0360,Poor fella.  He must have had a long night.,可憐的傢伙。他昨晚一定很漫長。
+560,024:OC#0360,That's not going to work as long as he's sleeping.,只要他在睡覺，那就不會有用。
+561,024:OC#0360,"Well, that didn't work.",嗯，沒用。
+562,024:ON#0357,cemetery,墓園
+563,024:OC#0357,Some of these graves are really old.,這裡有些墳墓真的很舊。
+564,024:OC#0357,I've already done that.,我已經做過了。
+565,024:OC#0357,That draft doesn't seem to work in cemetaries.,那個織法在墓園似乎沒用。
+566,024:LS#0207,"Hey, you!",嘿，你！
+567,024:LS#0207,Green Sheep?  Who ever heard of green sheep!,綠色的羊？誰聽過綠色的羊！
+568,024:LS#0207,How am I supposed to watch sheep\255\001that I can hardly SEE?,我怎麼看守\255\001幾乎看不見的羊？
+569,024:LS#0207,Get away from here!,滾開！
+570,024:LS#0207,Now I've got to go and round them all up again.,現在我得去把它們全趕回來。
+571,024:LS#0207,And you'd better not be here when I get back ^,等我回來時你最好不在這裡 ^
+572,024:LS#0207,Go on now!,快走！
+573,024:LS#0211,It's much too green already.,已經太綠了。
+574,024:LS#0212,"No, no, that's not right.   They're already white.",不，不，那不對。牠們已經是白色的了。
+575,024:LS#0214,Perhaps I shouldn't try that again ^,也許我不該再試^
+576,025:ON#0373,lamb,小羊
+577,025:OC#0373,Perhaps I shouldn't bother her.,也許我不該打擾她。
+578,025:OC#0373,Perhaps I shouldn't bother her.,也許我不該打擾她。
+579,025:LS#0204,You've been avoiding my little friend here.,你一直在躲避我的小夥伴。
+580,025:LS#0204,You've been avoiding my little friend here.,你一直在躲避我的小夥伴。
+581,025:LS#0204,I see you've noticed my little friend.,看來你注意到我的小夥伴了。
+582,025:LS#0204,She doesn't look at all well.,她看起來一點也不好。
+583,025:LS#0204,She isn't.,她不好。
+584,025:LS#0204,And my Songs of Healing\255\001don't seem to be bringing her much comfort.,而我的治癒之歌\255\001似乎沒有帶給她多少安慰。
+585,025:LS#0204,I wish I were better with them.,我真希望我更擅長唱歌。
+586,025:LS#0205,"Her eyes opened, just a little.  Try it again.",她的眼睛張開了一點。再試一次。
+587,025:LS#0206,Her eyes are closed again.,她的眼睛又閉上了。
+588,025:LS#0206,Perhaps I should sing a bit slower ^,也許我該唱慢一點 ^
+589,025:LS#0206,No. It's no use.,不。沒用的。
+590,025:LS#0208,"The flock is out to pasture,\255\001you'll find them there.",羊群正在吃草，\255\001你可以在那找到牠們。
+591,025:LS#0208,"Go forth, Wizard!\255\001And may you return safely to our fold.",去吧，巫師！\255\001願你平安歸來。
+592,025:SC#0069,Hello there.,你好啊。
+593,025:SC#0069,Who said that?,誰說話？
+594,025:SC#0069,I did.,是我。
+595,025:SC#0069,"My name is Fleece, First Chosen of the Guild of Shepherds.",我是Fleece，牧羊人公會的首選。
+596,025:SC#0069,I wish we had time to chat awhile\255\001and trade some tales ^ ,我希望我們有時間聊聊\255\001並交換些故事 ^ 
+597,025:SC#0069,^ but we've got a serious problem on our hands.,^ 但我們手頭上有個大麻煩。
+598,025:SC#0069,What sort of trouble are you having?,你們遇到什麼麻煩了？
+599,025:SC#0069,It seems we've a dragon nearby\255\001who has an enormous appetite for fresh mutton.,附近似乎有條龍，\255\001她對新鮮羊肉有著驚人的胃口。
+600,025:SC#0069,We breed our sheep for extra whiteness\255\001so we can't keep them on the meadows;,我們為了讓羊更白而繁殖牠們，\255\001所以不能把牠們留在草地上；
+601,025:SC#0069,she can spot them miles away.,她在幾英里外就能發現牠們。
+602,025:SC#0069,"By now, the dragon's carried off so many that\255\001we may not be able to fill the Cleric's order.",現在，龍已經抓走太多羊了，\255\001我們可能無法完成神職者的訂單。
+603,025:SC#0069,The Clerics!\255\001I just saw the Bishop at the Glassmakers!,神職者！\255\001我剛在玻璃匠那看到主教！
+604,025:SC#0069,Bishop Mandible?  He placed the order for ten thousand sheep.,Mandible主教？他訂了一萬隻羊。
+605,025:SC#0069,Ten thousand sheep?!\255\001That's enough to feed an army ^,一萬隻羊？！\255\001那夠養活一支軍隊了 ^
+606,025:SC#0069,"Yes, that had occurred to us too.\255\001You noticed our increased patrol in the forest.",是啊，我們也想到了。\255\001你注意到我們增加了森林巡邏。
+607,025:SC#0069,We'll deliver the sheep to the clerics if we can\255\001but we won't trust them!,如果可以我們會把羊交給神職者\255\001但我們不會信任他們！
+608,025:SC#0069,I suppose fighting the dragon\255\001would be out of the question.,我想對付那條龍\255\001是不可能的了。
+609,025:SC#0069,Only a mage can save us.,只有法師能救我們。
+610,026:ON#0390,shepherds,牧羊人
+611,026:OC#0390,They never even had a chance.,他們甚至連機會都沒有。
+612,026:OC#0390,"That wouldn't be very respectful, now, would it?",那不是很尊重，不是嗎？
+613,026:OC#0390,That doesn't seem to be the right draft.,這似乎不是正確的草案。
+614,026:LS#0202,Fleece! What became of us?\255\001I was just walking among legions of dead!,羊毛！我們變成了什麼樣子？\255\001我只是行走在死亡軍團之中！
+615,026:LS#0202,You were saved by the mercy\255\001of yonder boy.,你因憐憫而得救\255\001那邊男孩的。
+616,026:LS#0202,His power is greater than ever\255\001since last we met.,他的力量比以往任何時候都更\255\001自從我們上次見面以來。
+617,026:LS#0202,"We have not had the chance to thank you properly, Wizard.",我們還沒有機會好好感謝你，巫師。
+618,026:LS#0202,"But our memories are long,\255\001and we will not forget you soon.",但我們的記憶很長\255\001我們不會很快忘記你。
+619,026:LS#0202,Hail and farewell.,冰雹和告別。
+620,026:LS#0202,"Come along, now,\255\001before the Dead Ones return to the harvest!",快來吧，現在，\255\001在死者回收穫之前！
+621,026:LS#0211,"You are too late, wizard.",你來得太晚了，巫師。
+622,026:LS#0211,The Dead have increased their numbers here.,死者在這裡的數量增加了。
+623,026:LS#0211,Those not dead are suffering.,那些沒有死的人正在受苦。
+624,026:LS#0211,And my songs were again useless.,我的歌又沒用了。
+625,026:LS#0211,All that's left for us is to put an end to their misery.,我們剩下的就是結束他們的痛苦。
+626,028:ON#0392,dragon,龍
+627,028:ON#0393,dragon,龍
+628,028:ON#0394,dragon,龍
+629,028:OC#0394,I guess I've got to wake her up again.,我想我必須再次叫醒她。
+630,028:ON#0395,dragon,龍
+631,028:OC#0395,I guess I've got to wake her up again.,我想我必須再次叫醒她。
+632,028:ON#0396,gold,金子
+633,028:ON#0397,gold,金子
+634,028:ON#0398,gold,金子
+635,028:ON#0399,straw,稻草
+636,028:ON#0400,straw,稻草
+637,028:ON#0401,straw,稻草
+638,028:LS#0200,Put it back the way you found it.  NOW.,將其放回原來的樣子。  現在。
+639,028:LS#0201,"Thanks, love.",謝謝，親愛的
+640,028:LS#0204,Now that looks a lot more comfortable.,現在看起來舒服多了。
+641,028:LS#0206,I thought she'd never get off to sleep.\255\001Chatty Old Firebag.,我以為她永遠也睡不著了。\255\001健談的老消防員。
+642,028:LS#0207,I didn't mean to make her any more awake.,I didn't mean to make her any more awake.
+643,028:LS#0208,I doubt that draft will make her sleep any more deeply.,我懷疑吃風會讓她睡得更深。
+644,028:LS#0209,Lovely nap!\255\001But it made me even hungrier ^,可愛的小睡！\255\001但這讓我更餓了^
+645,028:LS#0210,Yawn!,打哈
+646,028:LS#0212,Eeeek! Fire!,哎呀！火！
+647,028:LS#0215,Eeeek! Fire!,哎呀！火！
+648,028:LS#0215,Put it out! PUT IT OUT!,放出來吧！把它拿出來！
+649,028:LS#0215,"That wasn't the least bit funny, young man.",這一點都不好笑，年輕人。
+650,028:LS#0215,We are NOT amused.,我們不覺得好笑。
+651,028:LS#0216,That's not the right draft for gold.,這不是黃金的正確選擇。
+652,028:SC#0074,"Well, what 'ave we here?",好吧，我們這裡有什麼？
+653,028:SC#0074,"That's what comes of being in such a blazing hurry, I guess.",我想這就是如此匆忙的結果。
+654,028:SC#0074,"I thought you looked a bit scrawny.\255\001Why, you'd hardly make a decent kindling!",我覺得你看起來有點骨瘦如柴。\255\001哎呀，你很難做一個像樣的引火物！
+655,028:SC#0075,"Can't take your eyes off me, can you?",你的目光無法從我身上移開，好嗎？
+656,028:SC#0075,"Have you no manners, lad?\255\001Stop staring at me!",小伙子，你沒有禮貌嗎？\255\001別再盯著我看了！
+657,028:SC#0075,"Oh, was I staring? So sorry.",哦，我是在盯著看嗎？很抱歉。
+658,028:SC#0075,"Oh, don't mind me, love.",哦，別介意我，親愛的。
+659,028:SC#0075,I get rather crotchety on an empty stomach.,我空腹時會變得很暴躁。
+660,028:SC#0075,"Does that mean you're going to incinerate me, then?",那是不是代表你要燒死我？
+661,028:SC#0075,Incinerate you?\255\001My! Aren't you the foxy one!,燒死你？\255\001我的！你不就是那個狡猾的人嗎！
+662,028:SC#0075,I 'aven't created any fire since\255\001my last mating season. And you don't want to know\255\001how many centuries ago that was.,從那以後我就沒有生過任何火\255\001我的最後一個交配季節。而你不想知道\255\001那是多少個世紀前的事了。
+663,028:SC#0075,"No, no ^\255\001That's much too much heat for me these days.",不，不^\255\001這些天對我來說太熱了。
+664,028:SC#0075,You mean you can't breathe fire?,你的意思是說你不能噴火？
+665,028:SC#0075,Can't? Let's just say I WON'T.,不能？就說我不會吧。
+666,028:SC#0075,"Just between you and me, love,\255\001the stuff gives me the 'eebie-jeebies.",就在你我之間，親愛的，\255\001這些東西讓我感到「eebie-jeebies」。
+667,028:SC#0076,"You 'aven't heard the last of me, you cheeky brat!",你還沒聽到我最後一句話呢，你這個厚臉皮的小子！
+668,028:SC#0109,That's quite a bit of gold you have there.,你那裡有相當多的黃金。
+669,028:SC#0109,"Oh, that's nothing, compared\255\001to what used to be.",哦，相較之下，這不算什麼\255\001到過去的樣子。
+670,028:SC#0109,"Piled floor to ceiling it was.\255\001Everyone said it was the most beautiful lair anywhere, and\255\001right they were, too.",從地板到天花板都是堆起來的。\255\001每個人都說這是世界上最美麗的巢穴，\255\001沒錯，他們也是。
+671,028:SC#0109,"Then one day, last spring it was, comes along this\255\001third-rate wizard who botched up everything.\255\003He tried to get the volcano to blow,\255\001but only shook up the place in a  huge earthquake instead.",然後有一天，去年春天，出現了這個\255\001搞砸了一切的三流巫師。\255\003他試圖讓火山爆發，\255\001但只是發生了一場大地震。
+672,028:SC#0109,"Broke all my fancy glass, mind you,\255\001and made off with most of the gold, too.\255\003The only thing he left me\255\001was a gorgeous glass ball^",請注意，打破了我所有精美的玻璃，\255\001並搶走了大部分黃金。\255\003他留給我的唯一的東西\255\001是華麗的玻璃球^
+673,028:SC#0109,It's gold again. What useless stuff!,又是金子了什麼無用的東西！
+674,030:OC#0432,It appears I can't get there from here.,看來我無法從這裡到達那裡。
+675,031:ON#0449,pool,水池
+676,031:OC#0449,What was I trying to do?  Flood the whole cave?,我想做什麼？  淹沒整個山洞？
+677,031:OC#0449,That must not be the right draft.,那肯定不是正確的織法。
+678,031:ON#0450,dry hole,乾洞
+679,031:OC#0450,It's already dry as a bone.,已經乾得像骨頭了。
+680,031:OC#0450,It's already dry as a bone.,已經乾得像骨頭了。
+681,031:OC#0450,That must not be the right draft.,那肯定不是正確的織法。
+682,031:ON#0451,sphere,法球
+683,031:OC#0451,"Spheres work well enough without drafts, remember?",球體在沒有氣流的情況下也能很好地工作，還記得嗎？
+684,031:LS#0200,My own reflection.,我自己的反思。
+685,031:SC#0082,Guess I won't be going back that way.,我想我不會再那樣回去了。
+686,033:ON#0468,cave,洞穴
+687,033:ON#0470,steps,步驟
+688,033:OC#0470,There. That ought to get me across.,那裡。這應該能讓我明白。
+689,033:OC#0470,Repair costs must be spiraling.,維修成本必定呈螺旋式上升。
+690,033:OC#0470,"Well, that only twisted it even tighter!",好吧，這只會讓事情變得更緊！
+691,033:OC#0470,It's not as though I could untwist them any more.,好像我再也無法解開它們了。
+692,034:ON#0487,boy@@,男生@
+693,034:OC#0487,He's already fast asleep.,他已經睡得很熟了。
+694,034:OC#0487,That didn't help at all.,那一點幫助也沒有。
+695,034:ON#0512,Rusty,生鏽
+696,034:OC#0512,There's nothing left but bones!,除了骨頭什麼都沒有了！
+697,034:OC#0512,"I think I'd rather look like myself, thanks!",我想我寧願看起來像我自己，謝謝！
+698,034:OC#0512,That's not going to help him now.,現在這對他沒有幫助。
+699,034:OC#0512,He's already asleep. Permanently.,他已經睡著了。永久地。
+700,034:OC#0512,I guess that draft isn't going to help me here.,我想織法在這裡幫不上忙。
+701,034:ON#0488,grave,墳墓
+702,034:OC#0488,These grave markers are forged from solid bronze!,這些墓碑由實心青銅鍛造而成！
+703,034:OC#0488,That draft doesn't seem to work in cemetaries.,那個織法在墓園似乎沒用。
+704,034:EN#0034,Rusty,生鏽
+705,034:EN#0034,boy@@,男生@
+706,034:LS#0201,"Nice trick, Weaver!",好技巧，韋弗！
+707,034:LS#0201,Me own mum wouldn't know the difference.,我自己的媽媽不會知道其中的差別。
+708,034:LS#0201,"Soft robes, though.\255\003Just the thing for sleeping in. Do you mind, then?",不過，柔軟的長袍。\255\003只是用來睡覺的東西。那你介意嗎？
+709,034:LS#0201,"Leave me be, will you?",讓我這樣吧，好嗎？
+710,034:LS#0201,Can't you find somebody else to annoy?,你就不能找個人來煩嗎？
+711,034:LS#0205,I'd better not wander off too far.,我最好別走太遠。
+712,034:LS#0207,Not so fast there.  You are not leaving me like this.\255\001I mean it!,那裡沒那麼快。  你不會就這樣離開我。\255\001我是認真的！
+713,034:LS#0207,"Thanks, but no thanks, friend.",謝謝，但不用了，朋友。
+714,034:LS#0207,It was you and your stupid stick that got me into this mess.,是你和你那愚蠢的棍子讓我陷入了困境。
+715,034:LS#0209,You did it.,你做到了。
+716,034:LS#0209,You brought me back.,你把我帶回來了。
+717,034:LS#0209,"It IS what you wanted, isn't it?",這就是你想要的，不是嗎？
+718,034:LS#0209,"Believe me, being alive is a LOT more fun than being dead.",相信我，活著比死了有趣多了。
+719,034:LS#0209,But how did you do it?,但你是怎麼做到的呢？
+720,034:LS#0209,"Well, healing your body was easy.",嗯，治癒你的身體很容易。
+721,034:LS#0209,You're alive because the Pattern is torn\255\001and your soul was free to return to this side.,你還活著，因為織圖被撕裂了\255\001你的靈魂可以自由地回到這一邊。
+722,034:LS#0209,"I must go, Bobbin.",我必須走了，鮑賓。
+723,034:LS#0209,I've got to know what happened to the rest of my Guild.,我必須知道我的公會其他成員發生了什麼事。
+724,034:LS#0209,And I must do the same.,我也必須這樣做。
+725,034:LS#0209,"Good luck, Rusty.  And be careful.",祝你好運，魯斯蒂。  並且要小心。
+726,034:LS#0209,"Good fortune to you, too, my friend.",我的朋友，也祝你好運。
+727,034:LS#0216,Zzzzzz ...,茲茲茲茲..
+728,034:LS#0218,I'm not sure I should try that ^,我不確定我是否應該嘗試一下^
+729,034:SC#0085,"Hullo, there!  What's that? Your music woke me up!",哈嘍，那裡！  那是什麼？你的音樂喚醒了我！
+730,034:SC#0085,"Hullo, there!  What's that? Your music woke me up!",哈嘍，那裡！  那是什麼？你的音樂喚醒了我！
+731,034:SC#0085,"Oh, sorry.",哦，抱歉。
+732,034:SC#0085,Not to worry.  I'm Rusty ^,不用擔心。  我生鏽了^
+733,034:SC#0085,Rusty Nailbender.,生鏽的釘釘器。
+734,034:SC#0085,"I'm Bobbin Threadbare, of the Weavers.",我是織布工的梭賓‧斯萊巴雷。
+735,034:SC#0085,"Weavers, eh?",織布工，是嗎
+736,034:SC#0085,Our folk are blacksmiths.,我們的人民是鐵匠。
+737,034:SC#0085,"I'm supposed to be getting firewood\255\001for the master, but this plateau's been\255\001picked cleaner than a new blade.",我應該去撿柴火\255\001對主人來說，但這個高原已經\255\001挑選的刀片比新刀片更乾淨。
+738,034:SC#0085,Come over here.,過來吧。
+739,034:SC#0085,That's us down there.,那就是我們下面的人。
+740,034:SC#0085,The Forge - that's what we call it -,熔爐——我們就是這麼稱呼它的——
+741,034:SC#0085,I've heard you Weavers don't get out much.,我聽說你們織工不常出去。
+742,034:SC#0085,What's your business here?,你來這裡做什麼？
+743,034:SC#0085,I've been looking for a flock of swans ^,我一直在尋找一群天鵝^
+744,034:SC#0085,Swans?,天鵝？
+745,034:SC#0085,"No, no swans around here.",不，這附近沒有天鵝。
+746,034:SC#0085,"Say, all this talk has made me sleepy.",話說，這些談話讓我昏昏欲睡。
+747,034:SC#0085,"A real pleasure, though.  Let me know if you find your swans.",不過，這確實是一種樂趣。  如果你找到你的天鵝請告訴我。
+748,034:SC#0085,Rusty,生鏽
+749,034:SC#0088,I don't believe this!\255\001Real nice of that Weaver kid ^,我不相信這個！\255\001織布小子真是太好了^
+750,034:SC#0088,Just wait until his turn comes!,就等著輪到他吧！
+751,034:SC#0088,I'll be waiting for him on the Outside.,我會在外面等他。
+752,034:SC#0088,Back to the Pattern!,回到模式！
+753,034:SC#0088,Pity that poor child had to die for me to return.,可惜那個可憐的孩子必須死才能讓我回來。
+754,034:SC#0088,"Now, where has Bobbin gone?",現在，鮑賓去哪了？
+755,034:SC#0088,"No, no ^ he couldn't be there.",不，不^他不能在那裡。
+756,034:SC#0088,Those Smiths are a suspicious lot.\255\001They'd never let a Weaver inside.,那些史密斯夫婦是一群可疑的人。\255\001他們永遠不會讓韋弗進來。
+757,034:SC#0088,"Oh, dear.",哦親愛的
+758,034:SC#0088,That means trouble.,那意味著麻煩。
+759,034:SC#0098,Rusty?,生鏽了
+760,034:SC#0098,Is that you?  You don't look at all well ^,那是你嗎？  你看起來不太好^
+761,034:SC#0098,"I'm NOT well. Actually, I'm dead.",我不太好。事實上，我已經死了。
+762,034:SC#0098,I don't ^ I don't know what to say.,我不知道^我不知道該說什麼。
+763,034:SC#0098,You don't have to say a thing!\255\001What do I matter?\255\001I'm just another one of the Dead.,你什麼都不用說！\255\001我有什麼關係？\255\001我只是另一位死者。
+764,034:SC#0098,"Oh, Rusty.  I feel terrible. I didn't know ^",哦，魯斯蒂。  我感覺很糟。我不知道^
+765,034:SC#0098,And that's not even the end of it!,這還沒結束！
+766,034:SC#0098,"I go Outside to wait for Doomsday like a good little ghost, see.",我像個善良的小幽靈一樣到外面等待世界末日，瞧。
+767,034:SC#0098,"But no sooner do I get settled again,\255\001but some stupid idiot shreds the universe apart\255\001and hauls us all back Inside!",但當我重新安頓好後\255\001但一些愚蠢的白痴將宇宙撕碎\255\001並把我們全部拉回裡面！
+768,034:SC#0098,"There are a lot of very\255\001unhappy Dead wandering around here, let me tell you ^",有很多非常\255\001不快樂的死者在這裡徘徊，讓我告訴你^
+769,034:SC#0098,I know.  I was there when it happened.,我知道。  事情發生時我就在場。
+770,034:SC#0098,I might have known this was all your fault!,我可能就知道這都是你的錯！
+771,034:SC#0098,"No, no!  It wasn't me!  The Bishop managed this one all on his own.",不，不！  不是我！  主教獨自完成了這一切。
+772,034:SC#0098,"Yeah? Well.  There's going to be hell to pay, literally.",是的？出色地。  從字面上看，付出的代價將是地獄般的。
+773,034:SC#0098,There's talk among the Dead that they're going to take over the world.,死者之間有傳言說他們將接管世界。
+774,034:SC#0098,Starting with the Forge.,從熔爐開始。
+775,034:SC#0098,"My home.  Where we used to build strong things, good things ^",我的家。  我們曾經在那裡建造強大的東西，美好的東西^
+776,034:SC#0112,He's fast asleep.,他睡熟了。
+777,034:SC#0112,He's fast asleep.,他睡熟了。
+778,035:ON#0522,gate,門
+779,035:OC#0522,It's already open.,它已經開了！
+780,035:OC#0522,"Well, that draft didn't seem to do much good.",那個織法似乎沒什麼用。
+781,035:ON#0515,gate,門
+782,035:OC#0515,It's locked.,它被鎖了。
+783,035:OC#0515,I already closed it.,我已經關上它了。
+784,035:OC#0515,"Well, that didn't work.",嗯，沒用。
+785,035:LS#0204,"Hello, young Nailbender!",你好，年輕的釘甲師！
+786,035:LS#0204,'Bout time you were comin' home.,“你該回家了。”
+787,035:LS#0204,"Stoke's been lookin' for you,\255\001and he ain't real happy!",斯托克城一直在尋找你\255\001他其實並不快樂！
+788,035:LS#0204,You better get in there right now.,你最好現在就進去。
+789,035:LS#0204,"You still out here, lad?",你還在外面嗎，小伙子？
+790,035:LS#0204,"I wouldn't keep Stoke waiting, if I were you.",如果我是你，我不會讓斯托克等你。
+791,035:LS#0204,You better get in there right now.,你最好現在就進去。
+792,035:LS#0204,Who keeps closing the blasted gate?,是誰一直關著那扇該死的大門？
+793,035:LS#0204,Sigh.,嘆。
+794,035:LS#0204,"I wouldn't keep Stoke waiting, if I were you.",如果我是你，我不會讓斯托克等你。
+795,035:LS#0204,Halt! Who are you?,停止！你是誰？
+796,035:LS#0204,Just me. A friendly stranger.,只有我。一個友善的陌生人。
+797,035:LS#0204,"This is a private Guild, my\255\001strange young friend.",這是一個私人公會，我的\255\001奇怪的年輕朋友。
+798,035:LS#0204,The gate only opens for members.,大門只對會員開放。
+799,035:LS#0204,"Well, well.",好吧，好吧
+800,035:LS#0204,It's the Friendly Stranger again!,又是友善的陌生人！
+801,035:LS#0204,I guess I didn't make my point ^,我想我沒有表達我的意思^
+802,035:LS#0204,This gate is closed.  Do you understand?\255\001CLOSED.  Now GO AWAY.,這扇門是關閉的。  你明白嗎？\255\001關閉。  現在走開。
+803,035:LS#0204,This gate is closed.  Do you understand?\255\001CLOSED.  Now GO AWAY.,這扇門是關閉的。  你明白嗎？\255\001關閉。  現在走開。
+804,035:LS#0204,Sigh.,嘆。
+805,035:LS#0204,This gate is closed.  Do you understand?\255\001CLOSED.  Now GO AWAY.,這扇門是關閉的。  你明白嗎？\255\001關閉。  現在走開。
+806,037:OC#0527,I probably shouldn't go back there dressed like this.,我可能不應該穿著這樣的衣服回去。
+807,037:ON#0530,woodbin,木箱
+808,037:OC#0530,Not a stick left.,一根棍子都沒有剩
+809,037:OC#0530,Now that's more like it.,現在更像是這樣了。
+810,037:OC#0530,"No, I think I tried that draft once.",不，我想我曾經嘗試過那份草稿。
+811,037:OC#0530,"Well, that didn't work.",嗯，沒用。
+812,037:SC#0086,"Well, it's about time, you lazy idiot!",好吧，是時候了，你這個懶惰的白痴！
+813,037:SC#0086,"I sent you out FOUR HOURS ago for\255\001 firewood, and you bring me back one scrawny stick?",我四小時前就派你出去了\255\001柴火，你帶回來一根瘦骨嶙峋的木棍給我？
+814,037:SC#0086,"If your father weren't the foreman, I'd toss YOU in the furnace.",如果你父親不是工頭，我就把你丟進爐子裡。
+815,037:SC#0086,You're just lucky he's downstairs with the Bishop right now.,你很幸運他現在和主教一起在樓下。
+816,037:SC#0086,"If that fire goes out, and the Clerics' swords \255\001don't get done ^",如果火熄滅了，牧師的劍\255\001別完成^
+817,037:SC#0086,I'm sorry.  I had a bit of trouble ^,對不起。  我遇到了一點麻煩^
+818,037:SC#0086,Perhaps you'd like to offer your confessions to the Bishop in person!,也許您想親自向主教懺悔！
+819,037:SC#0086,I'd be happy to arrange it.\255\001Now give me that stick!,我很樂意安排。\255\001現在把那根棍子給我！
+820,037:SC#0086,"I'm done dealing with the likes of you, Nailbender.",我受夠了像你這樣的人，釘子匠。
+821,037:SC#0086,I'll be back ^,我會回來的^
+822,037:SC#0086,^ and you'd better hope the furnace doesn't go out.,^ 你最好希望爐子不會熄滅。
+823,037:SC#0086,What a mess.  I can't do anything without my distaff.,真是一團糟。  沒有我的手下我什麼都做不了。
+824,038:ON#0536,straw,稻草
+825,038:OC#0536,It's gold again. What useless stuff!,又是金子了什麼無用的東西！
+826,038:OC#0536,No time for another nap.\255\001I've got to get out of here!,沒有時間再睡午覺了。\255\001我必須離開這裡！
+827,038:OC#0536,I've already spun all that.,我已經把這一切都轉完了。
+828,038:OC#0536,That must not be the right draft.,那肯定不是正確的織法。
+829,038:ON#0542,door,門
+830,038:OC#0542,It's already open.,它已經開了！
+831,038:OC#0542,It's already open.,它已經開了！
+832,038:OC#0542,That must not be the right draft.,那肯定不是正確的織法。
+833,038:ON#0543,door,門
+834,038:OC#0543,I already closed it.,我已經關上它了。
+835,038:OC#0543,That must not be the right draft.,那肯定不是正確的織法。
+836,038:ON#0537,distaff,織杖
+837,038:EN#0038,gold@,金子
+838,038:EN#0038,straw,稻草
+839,038:LS#0202,straw,稻草
+840,038:LS#0202,gold@,金子
+841,038:LS#0204,It's locked.,它被鎖了。
+842,038:LS#0204,It's locked!  And me with no distaff ^,它被鎖了！  而我則毫無顧忌^
+843,038:SC#0087,"That straw looks awfully comfortable, though^",不過那根吸管看起來很舒服^
+844,038:SC#0087,^must have a sleep draft woven into it^,^必須織入睡眠通風^
+845,038:SC#0087,"Tsk, tsk, tsk.",嘖嘖嘖。
+846,038:SC#0087,"Imagine frightening a poor, defenseless old thing like me! Cor!",想像我這樣可憐、手無寸鐵的老東西會受到驚嚇吧！科爾！
+847,038:SC#0087,"Well, I may not be much good with fire, love ^",好吧，我可能不太擅長用火，親愛的^
+848,038:SC#0087,"^ but I still enjoy the taste of tender, firm young meat!",^ 但我還是很喜歡嫩嫩緊實的嫩肉的味道！
+849,038:SC#0087,One blasted stick of wood left ^\255\001curse that lad ^,剩下一根被炸毀的木頭^\255\001詛咒那個小伙子^
+850,038:SC#0087,"Ten thousand swords to forge,\255\001and the furnace is about as cold as my chances for promotion.",萬劍待鑄，\255\001熔爐的溫度與我升遷的機會一樣冷。
+851,038:SC#0087,I don't believe this!\255\001Real nice of that Weaver kid ^,我不相信這個！\255\001織布小子真是太好了^
+852,038:SC#0087,Just wait until his turn comes!,就等著輪到他吧！
+853,038:SC#0087,I'll be waiting for him on the Outside.,我會在外面等他。
+854,038:SC#0087,"Oh, dear.",哦親愛的
+855,038:SC#0087,That means trouble.,那意味著麻煩。
+856,038:SC#0087,"If Elder Atropos saw his staff treated so\255\001he'd have something to say about it, you could be sure of that!",如果阿特羅波斯長老看到他的員工受到如此對待\255\001他對此有話要說，你可以肯定這一點！
+857,038:SC#0087,"Careful, now, old bird, let's not singe the feathers^",小心點，老鳥，別把羽毛燒焦了^
+858,041:ON#0559,sword,劍
+859,041:OC#0559,It's about time he stopped.\255\001That hammering was making my head hurt.,他是時候停下來了。\255\001那錘子敲得我頭痛。
+860,041:OC#0559,I need to choose my drafts more carefully.,我必須更謹慎選擇織法。
+861,041:ON#0560,sword,劍
+862,041:ON#0558,conversation,對話
+863,041:ON#0557,conversation,對話
+864,041:LS#0204,What?! ^ What evil is this?,什麼？ ！ ^ 這是什麼邪惡？
+865,041:LS#0204,A witch's curse has twisted the final blade!,女巫的詛咒扭曲了最後的劍！
+866,041:LS#0204,"A curse, Edgewise? I think not.",詛咒，Edgewise？我認為不是。
+867,041:LS#0204,It would take more than a mere witch's\255\001curse to ruin my plans.,這需要的不僅僅是女巫的力量\255\001詛咒破壞我的計劃。
+868,041:LS#0204,"You, there!\255\003Could it be that this little prank is of your doing?",你在那裡！\255\003難道這個小惡作劇是你幹的嗎？
+869,041:LS#0204,"Yes? Well, then. I would be honored to\255\001have you as my guest at the cathedral.",是的？好吧，那麼。我將很榮幸\255\001請你作為我在大教堂的客人。
+870,041:LS#0204,I know some other curses that may amuse you^,我還知道一些其他的咒語可能會讓你覺得有趣^
+871,041:LS#0206, , 
+872,041:LS#0210,"The final blade is even\255\001now in the hands of our most skilled bladeshaper, Your Excellency.",最後的刀片是均勻的\255\001現在交到了我們最熟練的刀片成型師閣下手中。
+873,041:LS#0210,"How's it coming there, Edgewise?",那裡怎麼樣，Edgewise？
+874,041:LS#0210,Edgewise! Is that blade not\255\001ready yet? His Excellency is still waiting!,沿邊！那把刀不是嗎\255\001準備好了嗎？陛下還在等待！
+875,041:LS#0210,"I'm just putting the edge\255\001on the last sword, sir!",我只是把邊緣\255\001最後一劍，先生！
+876,041:LS#0210,Good to hear it!,很高興聽到它！
+877,041:LS#0210,"No slacking off, now!",現在不能鬆懈！
+878,041:LS#0210,Let's get it finished!,讓我們把它完成吧！
+879,041:LS#0210,"You share with me a\255\001historic moment, Foreman.",你與我分享一個\255\001歷史性的時刻，福爾曼。
+880,041:LS#0210,The forging of the ten thousandth\255\001sword marks the end of our preparations.,萬分之一的鍛造\255\001劍標誌著我們準備工作的結束。
+881,041:LS#0210,How much longer must I wait?,我還要等多久？
+882,041:LS#0210,"The steel will ring out it's final defeat, sir.",鋼鐵將宣告它的最終失敗，長官。
+883,041:LS#0210,"Not much longer, now!",不多時了，現在！
+884,041:LS#0210,"Very good, then.",那麼很好。
+885,041:LS#0210,Carry on!,繼續！
+886,041:LS#0210,"The metal is proud, sir.\255\001It does not yield easily to my blows.",金屬很自豪，先生。\255\001它不會輕易屈服於我的打擊。
+887,041:LS#0210,"More sweat will soften it, I trust?",更多的汗水會軟化它，我相信嗎？
+888,041:LS#0210,It shall be a blade to be reckoned with!,這將是一把不可忽視的刀片！
+889,041:LS#0210,\025The Blade of Reckoning.\025,\025清算之刃。\025
+890,041:LS#0210,It does have a certain\255\001apocalyptic ring to it.,它確實有一定的\255\001世界末日的戒指。
+891,041:LS#0210,I trust I will not be kept\255\001waiting much longer?,我相信我不會被保留\255\001還要等更長的時間嗎？
+892,041:LS#0210,"Good metal rewards\255\001patience, Exalted One.",良好的金屬獎勵\255\001耐心等待，尊者。
+893,041:LS#0210,"And our client rewards\255\001quick service. Now, POUND!",以及我們的客戶獎勵\255\001快速的服務。現在，磅！
+894,043:ON#0569,cage,籠
+895,043:OC#0569,It's locked.,它被鎖了。
+896,043:OC#0569,"Well, that didn't work.",嗯，沒用。
+897,043:OC#0569,I need to choose my drafts more carefully.,我必須更謹慎選擇織法。
+898,043:ON#0568,beast,獸
+899,043:OC#0568,She looks hungry.\255\001I think I'll stay out of her way.,她看起來很餓。\255\001我想我會遠離她。
+900,043:ON#0566,sphere,法球
+901,043:OC#0566,"Spheres work well enough without drafts, remember?",球體在沒有氣流的情況下也能很好地工作，還記得嗎？
+902,043:ON#0576,orb,球
+903,043:ON#0567,Cob,科
+904,043:OC#0567,"Going somewhere, Weaver boy?",要去什麼地方嗎，織布男孩？
+905,043:OC#0567,"Going somewhere, Weaver boy?",要去什麼地方嗎，織布男孩？
+906,043:SC#0090,I'm getting really tired of this...,我真的厭倦了這個...
+907,043:SC#0090,Allow me to introduce myself.,請容許我自我介紹一下。
+908,043:SC#0090,"I am Bishop Mandible, Transultimate Apostle\255\001of the Antisecular Conclave of Clerics.",我是下顎主教，終極使徒\255\001神職人員反世俗秘密會議的成員。
+909,043:SC#0090,I know.,我知道
+910,043:SC#0090,Am I expected to kneel?,難道我要跪下嗎？
+911,043:SC#0090,"Silence, you impudent punk!",安靜，你這個無禮的小混混！
+912,043:SC#0090,"This is my assistant, Cob.",這是我的助手，科布。
+913,043:SC#0090,"Charmed, I'm sure.",我確信，很著迷。
+914,043:SC#0090,And you require no introduction.\255\001Your cloak and staff betray your origins.,而且你不需要介紹。\255\001你的斗篷和手杖背叛了你的出身。
+915,043:SC#0090,"But I must say, I'm surprised to find you here^",但我必須說，我很驚訝在這裡找到你^
+916,043:SC#0090,It's been quite a long time since any Weaver\255\001bothered to leave that dreary little rock you call home.,已經有很長一段時間沒有織布工了\255\001不厭其煩地離開那塊你稱之為家的沉悶的小石頭。
+917,043:SC#0090,\025Loom.\025,\025織布\025
+918,043:SC#0090,So provincial.\255\003I can't help but wonder what impelled you\255\001to leave it now.,如此省級。\255\003我忍不住想知道是什麼促使你\255\001現在就離開它。
+919,043:SC#0090,His Excellency asked you a question!,閣下問你一個問題！
+920,043:SC#0090,I know. I'm ignoring it.,我知道。我忽略它。
+921,043:SC#0090,Ah. Recalcitrance. I see.,啊。頑抗。我懂了。
+922,043:SC#0090,"Shall I fetch the Instruments of\255\001Persuasion, Master?",我可以去拿以下的儀器嗎\255\001大師勸說？
+923,043:SC#0090,Please forgive my assistant his^eagerness.\255\001I fear Cob is not very worldly.,請原諒我的助手的熱心。\255\001我擔心科布不太世故。
+924,043:SC#0090,He does not understand the\255\001dangerous power of a Weaver.,他不明白\255\001編織者的危險力量。
+925,043:SC#0090,Dangerous?,危險的？
+926,043:SC#0090,Your Reverence^,尊敬的閣下^
+927,043:SC#0090,HIM?,他？
+928,043:SC#0090,"Quite dangerous indeed, my dear Cob.",確實很危險，我親愛的科布。
+929,043:SC#0090,"In fact, he could burst this flimsy\255\001iron cage open with hardly a second thought.",事實上，他可以打破這個脆弱\255\001鐵籠毫不猶豫地打開了。
+930,043:SC#0090,"That's impossible, Most Exalted One!",這是不可能的，至尊！
+931,043:SC#0090,I inspect the locks personally every fortnight!,我每兩週親自檢查一次鎖！
+932,043:SC#0090,"Observe and learn, then.",那就觀察、學習吧。
+933,043:SC#0090,"For even now, your prisoner plans his escape.",即使現在，你的囚犯也在計畫逃跑。
+934,043:SC#0091,"You see, Cob? An elusive breed,\255\001these Weavers.",你看到了嗎，科布？一個難以捉摸\255\001這些織者。
+935,043:SC#0091,"Fortunately, however, they are quite helpless\255\001without their weaving sticks.",不過幸運的是，他們也很無助\255\001沒有他們的編織棒。
+936,043:SC#0091,That distaff will NEVER work for you!,那個員工永遠不會為你工作！
+937,043:SC#0091,"Oh, no, my young friend.\255\001You're quite wrong about that.",哦，不，我的年輕朋友。\255\001你這一點就大錯特錯了。
+938,043:SC#0091,Come. Let me show you why.,來。讓我告訴你原因。
+939,043:SC#0091,Consider the common graveyard.,考慮一下常見的墓地。
+940,043:SC#0091,"There, the boundary between the\255\001Living and the Dead is ... indistinct.",在那裡，之間的邊界\255\001生與死是……模糊不清的。
+941,043:SC#0091,Every graveyard's like that.  So?,每個墓地都是這樣。  所以？
+942,043:SC#0091,"Now, imagine what might happen if this\255\001delicate boundary was somehow breached.",現在，想像一下如果這會發生什麼\255\001微妙的界線不知何故被打破了。
+943,043:SC#0091,"\025Torn open,\025 so to speak.",\025撕開，\025可以這麼說。
+944,043:SC#0091,It's not that simple.,事情沒那麼簡單。
+945,043:SC#0091,You can't just rip the Pattern\255\001apart like an old rag.,你不能只是撕毀模式\255\001像一塊舊抹布一樣分開。
+946,043:SC#0091,"But it IS that simple, my boy. I can.",但這就是這麼簡單，我的孩子。我可以。
+947,043:SC#0091,"I have only to lift this rod,\255\001and the legions of the Dead\255\001will stream forth onto the plane of the Living.",我只要舉起這根桿子，\255\001和亡靈軍團\255\001將流向生者的位面。
+948,043:SC#0091,"A vast army of the Dead,\255\001nourished by the Shepherds' flocks^",龐大的亡靈大軍，\255\001由牧羊人的羊群滋養^
+949,043:SC#0091,^armed by the artisanship of the Blacksmiths^,^由鐵匠的手藝武裝^
+950,043:SC#0091,^guided by the Glassmakers' Sphere^,^由玻璃製造商領域指導^
+951,043:SC#0091,^all under the spiritual leadership of\255\001one supreme commander^\255\003ME!,^一切都在精神領導下\255\001一位最高指揮官^\255\003我！
+952,043:SC#0091,The final hour is now at hand!,最後的時刻即將來臨！
+953,043:SC#0091,The Age of the Clerics is upon us!,牧師的時代即將來臨！
+954,043:SC#0091,I have preparations to attend to.,我有準備工作要參加。
+955,043:SC#0091,Cob -- don't let this boy out of your sight.\255\001He is to touch NOTHING. Do you understand me?,科布——別讓這個男孩離開你的視線。\255\001他不能碰任何東西。你了解我嗎？
+956,043:SC#0091,"Perfectly, Your Excellence.",完美，您的卓越。
+957,043:SC#0091,Lord Mandible. Ruler of the Universe!,下顎勳爵。宇宙的主宰！
+958,043:SC#0091,Mmm ^ I do like the sound of it.,嗯 ^ 我確實喜歡它的聲音。
+959,043:SC#0091,I'll have to change my stationery.,我得換一下我的文具了。
+960,043:SC#0091,"You're not so dangerous now, then, are you?",那你現在沒那麼危險了，是嗎？
+961,043:SC#0093,Keep away from that!,遠離那個！
+962,043:SC#0093,His Eminence said not to touch anything.,陛下吩咐不要碰任何東西。
+963,043:SC#0093,"I wasn't going to touch it.\255\001Just looking, Cob. That's all.",我本來不想碰它的。\255\001只是看看，科布。就這樣。
+964,043:SC#0093,"Just looking, eh? Hmm ...",只是看看，嗯？唔 ...
+965,043:SC#0093,"Well, then.  Perhaps we can do a bit of a trade.",好吧，那麼。  也許我們可以做一點交易。
+966,043:SC#0093,How about if I let you look in the Sphere if ^,如果我讓你看看球體怎麼樣^
+967,043:SC#0093,If what?,如果什麼
+968,043:SC#0093,^ well ^ the Legends say that to gaze\255\001upon an uncloaked Weaver brings death.,^ 嗯 ^ 傳說中說凝視\255\001降臨在不穿斗篷的編織者身上會帶來死亡。
+969,043:SC#0093,"Naturally, we Clerics aren't given to such\255\001silly superstitions ^ but I'm ^ curious.",當然，我們神職人員不喜歡這樣\255\001愚蠢的迷信^但我很好奇。
+970,043:SC#0093,"Let's answer this one once and\255\001for all, shall we?",我們來回答這個問題一次\255\001為了所有人，我們可以嗎？
+971,043:SC#0093,No ... NO! ... AIEEEEEEEEEEE!,不不！...AIEEEEEEEEEEE！
+972,043:SC#0093,May we have some QUIET please?!,我們可以安靜一下嗎？
+973,043:SC#0093,I can't even begin to invoke the Dead\255\001with all that screaming ^,我甚至無法開始召喚死者\255\001伴隨著所有的尖叫^
+974,043:SC#0093,"Well, he can't say he wasn't warned.",好吧，他不能說他沒有受到警告。
+975,044:ON#0579,Mandible,下顎骨
+976,044:SC#0095,I see Cob has been lax in his duty.,我發現科布的職責很鬆懈。
+977,044:SC#0095,I see Cob has been lax in his duty.,我發現科布的職責很鬆懈。
+978,044:SC#0095,No matter.,不管。
+979,044:SC#0095,You're just in time to witness the dawn of a new era.,您正好見證了新時代的黎明。
+980,044:SC#0095,You don't have the slightest idea of what you're doing!!,你根本不知道自己在做什麼！ ！
+981,044:SC#0095,The Pattern is already worn and frayed.,織圖已經磨損。
+982,044:SC#0095,"If you rip a hole in it now,",如果你現在在上面撕開一個洞
+983,044:SC#0095,the consequences will be beyond anything you can imagine --,後果將超乎你的想像——
+984,044:SC#0095,"Spare me your Weaver mysticism, boy.",孩子，別再用你的韋弗神秘主義了。
+985,044:SC#0095,The time has come when the Dead shall no longer envy the Living!,死者不再嫉妒生者的時刻已經到來！
+986,044:SC#0095,You've torn the Pattern completely open!,你已經把織圖完全撕開了！
+987,044:SC#0095,And with it the eyes of the Dead.,還有死者的眼睛。
+988,044:SC#0095,BEHOLD!,看哪！
+989,044:SC#0095,I have a very bad feeling about this^,我有一種很不好的預感^
+990,044:SC#0095,Who dares disturb the peace of Those Who Sleep?,誰敢擾亂沉睡者的安寧？
+991,044:SC#0095,"I welcome and greet you, noble spirit.",我歡迎並問候你，高貴的靈魂。
+992,044:SC#0095,"I am Bishop Mandible, Transultimate Apostle of the Antisecular Conclave of Clerics.",我是曼迪布爾主教，反世俗神職人員秘密會議的最終使徒。
+993,044:SC#0095,And whom have I the honor of summoning?,我有幸召喚誰？
+994,044:SC#0095,I don't think I want to be part of this conversation...,我想我不想參與這個對話......
+995,044:SC#0095,"No one obeyed any summoning of yours, foolish mortal.",沒有人聽從你的任何召喚，愚蠢的凡人。
+996,044:SC#0095,I have summoned you.,我已經召喚你了。
+997,044:SC#0095,I am Choas.,我是喬阿斯
+998,044:SC#0095,"You have merely opened the door, and I have passed through it.\255\003For this you shall be rewarded.",你只是打開了門，我就進去了。\255\003為此，你將得到獎勵。
+999,044:SC#0095,Join me now -- ,現在就加入我吧
+1000,044:SC#0095,-- as my SLAVE!,——身為我的奴
+1001,044:SC#0095,I see it has been much too long since my last visit...,我發現距離上次訪問已經過太久了…
+1002,045:ON#0582,distaff,織杖
+1003,045:OC#0582,Can't seem to hold on to this thing.,看來這個東西是抓不住了。
+1004,045:ON#0583,?,?
+1005,045:SC#0096,STOP!  AIEEEEEE!,停止！  啊啊啊啊
+1006,046:ON#0608,hole,洞
+1007,046:ON#0609,hole,洞
+1008,046:ON#0610,hole,洞
+1009,046:ON#0611,hole,洞
+1010,046:OC#0611,I think I'll stay out of there ^\255\001that dragon looked rather hungry!,我想我會遠離那裡^\255\001那條龍看起來很餓！
+1011,046:EN#0046,"Well, that didn't do a thing.",嗯，那沒有任何作用。
+1012,046:LS#0201,"It's already open.\255\001Maybe I should try to close it, instead.",已經開放了。\255\001也許我應該嘗試關閉它。
+1013,046:LS#0202,"Let's take a look around, first.",讓我們先四處看看。
+1014,046:LS#0204,"That's the last hole.\255\001Now, let's go find Hetchel!",那是最後一個洞。\255\001現在，我們去找海切爾吧！
+1015,046:LS#0205,That doesn't seem to be the right draft.,這似乎不是正確的草案。
+1016,047:ON#0623,swan,天鵝
+1017,047:OC#0623,Her eyes -- they're just like mine!,她的眼睛──就像我的一樣！
+1018,047:OC#0623,"Your drafts have no power over me, Bobbin.",你的草稿對我沒有影響力，鮑賓。
+1019,047:LS#0205,"Welcome, Bobbin!  You have joined us here at last!",欢迎，鲍宾！  你終於加入我們了！
+1020,047:LS#0205,Where am I?,我在哪裡？
+1021,047:LS#0205,You are outside the Pattern.,你在模式之外。
+1022,047:LS#0205,"The home of the Dead, and of those Transcended.",死者和超凡者的家園。
+1023,047:LS#0205,\025The Shore of Wonder?\025,\025奇蹟之岸？\025
+1024,047:LS#0205,"Yes, Bobbin.  The Shore of Wonder.\255\001And you are the first to behold it with mortal eyes.",是的，鮑賓。  奇蹟之岸。\255\001而你是第一個用凡人的眼睛看到它的人。
+1025,047:LS#0205,"Good work, Bobbin! You've repaired\255\001much of that Bishop's mischief.",幹得好，鮑賓！你已經修復了\255\001主教的大部分惡作劇。
+1026,047:LS#0205,"Now, perhaps, you can approach the Loom\255\001without Chaos spotting you first.",現在，也許你可以接近 Loom\255\001不會讓混沌先發現你。
+1027,047:LS#0205,"Excellent, my son!\255\001Only one hole remains to be sealed!",太棒了，我的兒子！\255\001只剩下一個洞要封住了！
+1028,047:LS#0205,"Well done, Bobbin! Half the holes are sealed.\255\001But hurry - much depends on you now!",幹得好，鮑賓！一半的洞被封住了。\255\001但快點——現在很大程度上取決於你！
+1029,047:LS#0205,All of the holes must be sealed\255\001before you dare approach the Loom.,所有孔都必須密封\255\001在你敢於接近織機之前。
+1030,047:LS#0207,All of the holes must be sealed\255\001before you dare approach the Loom.,所有孔都必須密封\255\001在你敢於接近織機之前。
+1031,047:LS#0207,"Good work, Bobbin! You've repaired\255\001much of that Bishop's mischief.",幹得好，鮑賓！你已經修復了\255\001主教的大部分惡作劇。
+1032,047:LS#0207,All of the holes must be sealed\255\001before you dare approach the Loom.,所有孔都必須密封\255\001在你敢於接近織機之前。
+1033,047:SC#0100,"Your journey has been long,",你的旅程還很漫長
+1034,047:SC#0100,"Your journey has been long,",你的旅程還很漫長
+1035,047:SC#0100,and you must have many questions.,你一定有很多問題。
+1036,047:SC#0100,"You're the swan that appeared each year\255\001on my birthday, aren't you?",你是每年出現的天鵝\255\001我生日那天，你不是嗎？
+1037,047:SC#0100,"You saw me clearly, then! I was never sure.\255\001But those visits meant so much ^ my only chance to watch you grow.",那你就看清楚我了！我一直不确定。\255\001但那些訪問意義重大，是我見證你成長的唯一機會。
+1038,047:SC#0100,"You see, the Elders forbade me to set foot\255\001on Loom Island just after you were born.",你看，長老們禁止我踏足\255\001你出生後不久就在盧姆島上。
+1039,047:SC#0100,"I thought you came to visit me,\255\001but I never quite believed it.",我以為你是來看我的\255\001但我一直不太相信。
+1040,047:SC#0100,Call it ^ a mother's curiosity.,稱為^母親的好奇心。
+1041,047:SC#0100,"For indeed, Loom Child, that is who I am.",事實上，織機之子，我就是這樣的人。
+1042,047:SC#0100,My mother is a swan?,我的媽媽是天鵝？
+1043,047:SC#0100,"Indeed.  In mortal life, however, I was\255\001Lady Cygna Threadbare.",的確。  然而，在凡人的生命中，我\255\001西格娜夫人衣衫襤褸。
+1044,047:SC#0100,Banished by the Elders seventeen long years ago\255\001for drawing an unforseen infant out of the Loom.,十七年前被長老放逐\255\001從織機中拉出一個未被預見的嬰兒。
+1045,047:SC#0100,"How I've longed to know you, and\255\001you to know me, my son.",我多麼渴望認識你，\255\001你要認識我，我的兒子。
+1046,047:SC#0100,Liar!,說謊
+1047,047:SC#0100,That's just not true!\255\001My mother is buried in the Weaver's Graveyard!,那不是真的！\255\001我的母親就葬在織女墓園裡！
+1048,047:SC#0100,Dear Hetchel.,親愛的海切爾
+1049,047:SC#0100,She and the Elders put that stone there\255\001so you wouldn't ask too many questions.,她和長老們把那塊石頭放在那裡\255\001所以你不會問太多問題。
+1050,047:SC#0100,"Hetchel vowed to protect you forever, Bobbin.\255\001She is my dearest friend and she loves you very much.",海切爾發誓要永遠保護你，鮑賓。\255\001她是我最親愛的朋友，她很愛你。
+1051,047:SC#0100,But I fear her love has driven her\255\001to recklessness.,但我擔心她的愛驅使著她\255\001到魯莽。
+1052,047:SC#0100,What do you mean? Where is she?,你是什​​麼意思？她在哪裡？
+1053,047:SC#0100,She flew off to Loom Island\255\001to confront the Dead Ones!,她飛往盧姆島\255\001對抗死者！
+1054,047:SC#0100,The Dead Ones are after her?,死者在追殺她？
+1055,047:SC#0100,"It's not Hetchel they're after, my son.\255\001They want the Loom itself.",我的兒子，他們追尋的不是海切爾。\255\001他們想要織機本身。
+1056,047:SC#0100,"If Chaos masters its secrets, the Pattern\255\001will be hers to control.",如果混沌掌握了它的秘密，模式\255\001將由她掌控。
+1057,047:SC#0100,Hetchel plans to destroy the Loom ^,海切爾計劃摧毀織機 ^
+1058,047:SC#0100,If Chaos doesn't consume her first.,如果混沌沒有先吞噬她的話。
+1059,047:SC#0100,NO! I've got to go back there - NOW!,不！ I've got to go back there - NOW
+1060,047:SC#0100,You won't get far in that direction.\255\001The Loom lies beyond the lake.,往那個方向你走不遠的。\255\001織機位於湖的另一邊。
+1061,047:SC#0100,"No, you must try a more subtle strategy.",不，你必須嘗試更微妙的策略。
+1062,047:SC#0100,Oh?  What do you propose?,哦？  你有什麼建議？
+1063,047:SC#0100,The Dead Ones move between the holes your\255\001Bishop friend rent in the Pattern.,死者在你的洞之間移動\255\001主教朋友租在模式。
+1064,047:SC#0100,"If you weave the holes closed,\255\001it will be harder for them to follow you.",如果你把孔編織封閉，\255\001他們會更難跟隨你。
+1065,049:ON#0633,Goodmold,古德模德
+1066,049:LS#0201,It appears I can't get there from here.,看來我無法從這裡到達那裡。
+1067,049:SC#0099,Master Goodmold!,古德莫德大師！
+1068,049:SC#0099,"Ah, the Weaver boy^",啊，織工男孩^
+1069,049:SC#0099,At least you've escaped the terror of the Dead Ones^,至少你逃離了死者的恐懼^
+1070,049:SC#0099,It appears that Crystalgard has not been\255\001so fortunate.,看來 Crystalgard 還沒有\255\001太幸運了。
+1071,049:SC#0099,"But, I don't understand:",但是，我不明白：
+1072,049:SC#0099,Why did you not use the Great Scythe?,為什麼不使用大鐮刀？
+1073,049:SC#0099,We never doubted that the Scythe\255\001could save us.,我們從不懷疑鐮刀\255\001可以拯救我們。
+1074,049:SC#0099,"never, no, indeed^",從來沒有，不，確實
+1075,049:SC#0099,Even Chaos must fall under its blade.,就連混沌也必須倒在它的刀下。
+1076,049:SC#0099,But we could not do it.\255\001To unleash such merciless evil would show us\255\001to be no better than our enemies.,但我們做不到。\255\001釋放如此無情的邪惡將向我們展示\255\001並不比我們的敵人好。
+1077,049:SC#0099,The entire world would have feared\255\001us when it was done.,全世界都會害怕\255\001當它完成時我們。
+1078,049:SC#0099,And to have become so much like our enemy was\255\001unthinkable ^ just unthinkable ^,變得如此像我們的敵人\255\001不可想像^簡直不可想像^
+1079,049:SC#0099,And so you didn't use it.,所以你沒有使用它。
+1080,049:SC#0099,We knew the price.,我們知道價格。
+1081,049:SC#0099,The best we could hope for was to defend it bravely.,我們所能期望的最好的結果就是勇敢地捍衛它。
+1082,049:SC#0099,But we are not warriors^,但我們不是戰士^
+1083,049:SC#0099,You mean ^ Chaos stole the Scythe?,你是說^混沌偷了鐮刀？
+1084,049:SC#0099,"We did what we could, but it was not enough.",我們做了我們能做的，但這還不夠。
+1085,049:SC#0099,"Remember us, my young friend.",請記得我們，我的年輕朋友。
+1086,049:SC#0099,"Tell the world we fought with courage,\255\001and chose death with clarity.",告訴世界我們勇敢地戰鬥，\255\001並清晰地選擇了死亡。
+1087,049:SC#0099,Above all else ... clarity.,最重要的是…清晰度。
+1088,051:ON#0669,feather,羽毛
+1089,051:ON#0668,Dead One,死者
+1090,051:OC#0668,I was close ^ but not close enough ^,我很接近^但還不夠接近^
+1091,051:SC#0102,"Leaving so soon, Weaver?\255\001I was looking forward to spending more time with you!",韋弗，這麼快就走了？\255\001我期待與您共度更多時光！
+1092,051:SC#0103,"It's no use, Bobbin.  That side of the Pattern\255\001is now beyond the reach of our threads.",這是沒有用的，鮑賓。  織圖的那一面\255\001現在超出了我們線程的範圍。
+1093,051:SC#0104,"Bobbin! Bobbin, you did it!",線軸！博賓，你做到了！
+1094,051:SC#0104,The Loom is unmade!,織機未製作！
+1095,051:SC#0104,You ignorant fools!\255\001Do you comprehend what you have done?,你們這些無知的傻瓜！\255\001你明白你所做的事嗎？
+1096,051:SC#0104,None of us can pass\255\001across this rift your\255\001Weaver mischief has\255\001so blindly created!,我們誰也無法通過\255\001跨越這條裂痕你的\255\001韋弗惡作劇有\255\001就這麼盲目地創造了！
+1097,051:SC#0104,Your pious meddling\255\001has brought the end\255\001of my dream ^,你虔誠的干涉\255\001已經帶來了結局\255\001我的夢想^
+1098,051:SC#0104,"You will hear for all eternity\255\001the cries of those you have abandoned, Bobbin Threadbare.",你將永遠聽到\255\001那些被你拋棄的人的哭聲，梭賓‧斯萊貝爾。
+1099,051:SC#0104,You will always know that you have left them under my rule!,你將永遠知道你已經把他們置於我的統治之下！
+1100,051:SC#0104,"We abandon no one!\255\001When our side of the Pattern is mended,\255\001we will return and put an end to your evil!",我們不拋棄任何人！\255\001當我們的模式被修補時，\255\001我們會回來結束你們的邪惡！
+1101,051:SC#0104,"Come, Loom Child.\255\001It is time for us to begin our destinies anew.",來吧，織機孩子。\255\001我們是時候重新開始我們的命運了。
+1102,056:SC#0068,"Welcome to Crystalgard, stranger!",歡迎來到水晶加德，陌生人！
+1103,056:SC#0068,"I'm Master Goodmold, thirty-first in the Noble Guild of Glass Makers.",我是古德莫爾德大師，貴族玻璃製造商公會第三十名。
+1104,056:SC#0068,And who might you be?,你可能是誰？
+1105,056:SC#0068,My name is Bobbin --,我的名字是鮑賓——
+1106,056:SC#0068,"Bobbin Threadbare, of the, uh^",線軸，呃^
+1107,056:SC#0068,^Noble Guild of Weavers.,^高貴織工公會。
+1108,056:SC#0068,A Weaver?!,織工？ ！
+1109,056:SC#0068,"Tell me, is it true that to peer beneath a Weaver's hood",告訴我，窺視編織者的兜帽下面是真的嗎？
+1110,056:SC#0068,"brings instant, agonizing death?!",帶來瞬間的、痛苦的死亡？ ！
+1111,056:SC#0068,I honestly don't know.\255\001Nobody's ever tried it with me.,老實說我不知道。\255\001從來沒有人跟我一起嘗試過。
+1112,056:SC#0068,You have such a wonderful view of the sky here.,在這裡你可以看到如此美妙的天空景色。
+1113,056:SC#0068,Have you noticed a flock of swans\255\001flying this way?,你有沒有註意到一群天鵝\255\001往這邊飛？
+1114,056:SC#0068,Swans?,天鵝？
+1115,056:SC#0068,Swans.,天鵝。
+1116,056:SC#0068,You know^,你知道^
+1117,056:SC#0068,^birds.,^鳥。
+1118,056:SC#0068,"Yes, yes, swans.",是的，是的，天鵝
+1119,056:SC#0068,"No, haven't heard of any swan sightings --",不，還沒聽過任何天鵝目擊事件——
+1120,056:SC#0068,"Look around to your heart's content, Weaver Threadbare.",環顧四周，隨心所欲，Weaver Threadbare。
+1121,056:SC#0068,"and remember: if you break it, you buy it!",請記住：如果你打破了它，你就買它！
+1122,056:SC#0117,Music Flag __ \255\004\014\000 __,音樂旗幟__\255\004\014\000__
+1123,062:ON#0740,gold@,金子
+1124,062:OC#0740,Don't these people ever clean up\255\001after themselves?,難道這些人從來不打掃嗎？\255\001在他們自己之後？
+1125,062:OC#0740,It's gold again. What useless stuff!,又是金子了什麼無用的東西！
+1126,062:OC#0740,Maybe I should spin this back.,也許我應該把這個轉回來。
+1127,062:ON#0741,straw,稻草
+1128,062:OC#0741,I've already spun all that.,我已經把這一切都轉完了。
+1129,062:OC#0741,Don't these people ever clean up\255\001after themselves?,難道這些人從來不打掃嗎？\255\001在他們自己之後？
+1130,062:OC#0741,Back to straw again.\255\001This gets much easier with practice!,再次回到稻草。\255\001透過練習這會變得容易得多！
+1131,062:ON#0742,wheel,車輪
+1132,062:ON#0743,wheel,車輪
+1133,062:EN#0062,gold@,金子
+1134,062:EN#0062,straw,稻草
+1135,062:EN#0062,gold@,金子
+1136,062:EN#0062,straw,稻草
+1137,062:LS#0201,straw,稻草
+1138,062:LS#0201,straw,稻草
+1139,062:LS#0202,gold@,金子
+1140,062:LS#0202,gold@,金子
+1141,062:LS#0203,gold@,金子
+1142,062:LS#0203,gold@,金子
+1143,062:LS#0204,straw,稻草
+1144,062:LS#0204,straw,稻草
+1145,062:LS#0207,I've already spun all that.,我已經把那些都整理好了。
+1146,062:LS#0208,I've already spun all that.,我已經把那些都整理好了。
+1147,062:LS#0209,That's not the right draft for gold.,那可不是製作金子的織法。
+1148,063:ON#0752,gold,金子
+1149,063:OC#0752,Don't these people ever clean up after themselves?,這些人從來都不會清理一下自己嗎？
+1150,063:OC#0752,That must not be the right draft.,那肯定不是正確的織法。
+1151,063:ON#0753,darkness,黑暗
+1152,063:ON#0754,darkness,黑暗
+1153,063:ON#0756,gold,金子
+1154,063:LS#0201,Wonderful.  I can't see a thing.,太棒了。我什麼都看不見。
+1155,064:LS#0200,"Destiny shall draw\255\001the Lightning down from Heaven,.",命運將引導閃電\255\001從天而降，
+1156,064:LS#0200,"Roll its thunder Far across the Sea,.",雷聲滾滾，橫跨大海，
+1157,064:LS#0200,"To where I wait upon the Shore of Wonder,.",降臨我等待的奇蹟海岸，
+1158,064:LS#0200,On the day the Sky is Opened,當天空敞開的那一天，
+1159,064:LS#0200,And the Tree is split asunder,當巨木被劈開之時，
+1160,065:OC#0761,It appears I can't get there from here.,看似我無法從這裡到達那裡。
+1161,065:ON#0760,darkness,黑暗
+1162,065:OC#0760,Wonderful.  I can't see a thing.,太棒了。我什麼都看不見。
+1163,065:OC#0760,I guess that draft doesn't work in the dark.,我猜這個草案在黑暗中不起作用。
+1164,066:ON#0765,myself,我
+1165,066:OC#0765,That draft doesn't work on me.,那個草稿對我沒效。
+1166,066:SC#0106,"Fly away while you can, young Threadbare!",趁還可以飛走吧，年輕的斯雷巴雷！
+1167,066:SC#0106,And know that we will most assuredly meet again.,並且知道我們一定會再見面。
+1168,066:SC#0106,I am ready ^ Mother.  Let's go.,I am ready ^ Mother. 我們走吧。
+1169,069:OC#0808,PRACTICE,學徒
+1170,069:OC#0808,PRACTICE,學徒
+1171,069:OC#0808, , 
+1172,069:OC#0809,STANDARD,指導者
+1173,069:OC#0809,STANDARD,指導者
+1174,069:OC#0809, , 
+1175,069:OC#0810,EXPERT,大師
+1176,069:OC#0810,EXPERT,大師
+1177,069:OC#0810, , 
+1178,069:LS#0201,Throw,丟
+1179,069:LS#0201,Beat,打
+1180,069:LS#0201,Treadle,踏板
+1181,069:LS#0201,Rest,休息
+1182,069:LS#0202,STANDARD,指導者
+1183,069:LS#0202,PRACTICE,學徒
+1184,069:LS#0202,EXPERT,大師
+1185,069:LS#0202,Please choose your skill level.,請選擇遊戲難度.
+1186,069:LS#0203,Entering demonstration mode.,進入演示模式。
+1187,086:SC#0111,Bishop Mandible! What in the world is he up to?,下顎主教！他到底在搞什麼鬼？
+1188,090:LS#0200,I trust Your Excellency is pleased\255\001with our progress?,我相信閣下會很高興\255\001隨著我們的進步？
+1189,090:LS#0201,"Four hours, most assuredly.\255\001Perhaps six, with a bit of luck.",肯定是四個小時。\255\001如果運氣好的話，也許有六個。
+1190,090:LS#0202,"Every sphere is unique, Bishop.",每個領域都是獨一無二的，主教。
+1191,090:LS#0202,It is impossible to accurately\255\001predict how well this sphere will perform.,不可能準確地\255\001預測這個球體的表現如何。
+1192,090:LS#0203,That all depends ^,這一切都取決於^
+1193,090:LS#0203,on how far this sphere can help me see ^,這個球體可以幫助我看到多遠^
+1194,090:LS#0204,Only six hours? But I expressly requested eight.,只有六個小時？ But I expressly requested eight.
+1195,090:LS#0205,I need at least eight hours.,我至少需要八個小時。
+1196,090:LS#0205,"EIGHT hours, Master Crucible. See to it.",八小時，坩堝大師。留意它。
+1197,090:SC#0122,"Every sphere is unique, Bishop.",每個領域都是獨一無二的，主教。
+1198,090:SC#0122,It is impossible to accurately\255\001predict how well this sphere will perform.,不可能準確地\255\001預測這個球體的表現如何。
+1199,090:SC#0122,I need at least eight hours.,我至少需要八個小時。
+1200,090:SC#0122,"EIGHT hours, Master Crucible. See to it.",八小時，坩堝大師。留意它。
+1201,093:ON#0900,shepherds,牧羊人
+1202,093:OC#0900,They never even had a chance.,他們甚至連機會都沒有。
+1203,093:OC#0900,"That wouldn't be very respectful, now, would it?",那不是很尊重，不是嗎？
+1204,093:LS#0200,Fleece! What became of us?\255\001I was just walking among legions of dead!,羊毛！我們變成了什麼樣子？\255\001我只是行走在死亡軍團之中！
+1205,093:LS#0200,You were saved by the mercy\255\001of yonder boy.,你因憐憫而得救\255\001那邊男孩的。
+1206,093:LS#0200,"We have not had the chance to thank you properly, Wizard.",我們還沒有機會好好感謝你，巫師。
+1207,093:LS#0200,"But our memories are long,\255\001and we will not forget you soon.",但我們的記憶很長\255\001我們不會很快忘記你。
+1208,093:LS#0200,Hail and farewell.,冰雹和告別。
+1209,093:LS#0200,"Come along, now,\255\001before the Dead Ones return to the harvest!",快來吧，現在，\255\001在死者回收穫之前！
+1210,093:LS#0201,"You are too late, wizard.",你來得太晚了，巫師。
+1211,093:LS#0201,The Dead have increased their numbers here.,死者在這裡的數量增加了。
+1212,093:LS#0201,Those not dead are suffering.,那些沒有死的人正在受苦。
+1213,093:LS#0201,And my songs were again useless.,我的歌又沒用了。
+1214,093:LS#0201,All that's left for us is to put an end to their misery.,我們剩下的就是結束他們的痛苦。
+1215,093:LS#0201,"Come, and extend your help, if you can...",如果可以的話，來吧，伸出你的幫助…
+1216,095:LS#0204,"No one obeyed any summoning of yours, foolish mortal.",沒有人聽從你的任何召喚，愚蠢的凡人。
+1217,095:LS#0204,I have summoned you.,我已經召喚你了。
+1218,095:LS#0204,I am Choas.,我是喬阿斯

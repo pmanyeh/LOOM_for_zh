@@ -1,0 +1,19 @@
+# Excluded folders
+/from steam/
+/from FM Towers/
+/CDDA_Slices/
+/Voice_for_train/
+/rvc_workspace/
+
+# Large binaries and archives
+*.zip
+*.wav
+*.SOU
+*.exe
+*.pdf
+*.flac
+*.mp3
+
+# Portable builds
+/LOOM_FM-TOWNS_ZH_Portable/
+/LOOM_Steam_ZH_Portable/

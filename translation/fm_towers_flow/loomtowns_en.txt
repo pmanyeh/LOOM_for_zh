@@ -1,0 +1,1264 @@
+;; ScummTR note: every line starting with this prefix is ignored
+;; ScummTR note: file encoding is Windows-1252/ISO-8859-1 (¡café-piñata Straße!)
+[001:SC#0001]Game paused. Press SPACEBAR to continue.
+[001:SC#0001]Insert disk %c and press ENTER to continue.
+[001:SC#0001]Unable to find %02d.LFL, (%c%d). Press ENTER.
+[001:SC#0001]ERROR: Insert disk %c, (%c%d). Press ENTER.
+[001:SC#0001]Are you sure you want to restart? (Y or N)Y
+[001:SC#0001]Are you sure you want to quit? (Y or N)Y
+[001:SC#0004](Music off. Sound effects on.)
+[001:SC#0004](Music and sound effects off.)
+[001:SC#0004](Music and sound effects on.)
+[001:SC#0004](Text speed \255\004\165\000.)
+[001:SC#0004](Normal speed. Full animation.)
+[001:SC#0004](Fast speed. Limited animation.)
+[001:SC#0004]LOOM]^ 1.00 (\255\004\041\000) 14 Mar 91 
+[001:SC#0006]\255\006\000\064
+[001:SC#0007]\255\006\000\064
+[001:SC#0010]That thread is too high for me!\255\001Guess I need more experience.
+[001:SC#0011]Maybe I ought to stand a bit closer.
+[001:SC#0012]I suppose I ought to point\255\001at something first.
+[001:SC#0017]\016
+[001:SC#0017]_
+[001:SC#0017]`
+[001:SC#0017]\017
+[001:SC#0017]_
+[001:SC#0017]`
+[001:SC#0017]\018
+[001:SC#0017]_
+[001:SC#0017]`
+[001:SC#0017]\019
+[001:SC#0017]_
+[001:SC#0017]`
+[001:SC#0017]\020
+[001:SC#0017]_
+[001:SC#0017]`
+[001:SC#0017]\021
+[001:SC#0017]_
+[001:SC#0017]`
+[001:SC#0017]\022
+[001:SC#0017]_
+[001:SC#0017]`
+[001:SC#0017]\023
+[001:SC#0017]<
+[001:SC#0017]=
+[001:SC#0021]Can't spin any drafts in here.\255\001Too much noise!
+[001:SC#0021]Hmm. I guess that isn't a draft.
+[001:SC#0025]I don't think I spun that quite right.
+[001:SC#0025]That didn't do anything useful.
+[001:SC#0026]\016
+[001:SC#0026]\017
+[001:SC#0026]\018
+[001:SC#0026]\019
+[001:SC#0026]\020
+[001:SC#0026]\021
+[001:SC#0026]\022
+[001:SC#0026]\023
+[001:SC#0026]\016
+[001:SC#0026]\017
+[001:SC#0026]\018
+[001:SC#0026]\019
+[001:SC#0026]\020
+[001:SC#0026]\021
+[001:SC#0026]\022
+[001:SC#0026]\023
+[001:SC#0034]Those threads didn't feel quite right.
+[001:SC#0034]Think I'm on the right track, though.
+[001:SC#0035]\016
+[001:SC#0035]\017
+[001:SC#0035]\018
+[001:SC#0035]\019
+[001:SC#0035]\020
+[001:SC#0035]\021
+[001:SC#0035]\022
+[001:SC#0035]\023
+[001:SC#0043]Can't save your game in demo mode. Sorry.
+[001:SC#0117]The Secret Weave is incorrect.
+[001:SC#0117]Entering demonstration mode.
+[001:SC#0117]Welcome to the Age of the Great Guilds.
+[002:ON#0154]leaf
+[002:OC#0154]Last leaf of the year.
+[002:OC#0154]That draft won't work on a leaf.
+[002:ON#0156]sky
+[002:OC#0156]Dawn.
+[002:OC#0156]Seems to have closed itself.
+[002:OC#0156]I'd have to open it first.
+[002:OC#0156]Got enough light out of it already!
+[002:OC#0156]Didn't work. Oh, well.\255\001Dawn's coming anyway.
+[002:OC#0156]That draft won't work on the sky.
+[002:EN#0002]The End
+[002:LS#0203]The End
+[002:LS#0205]A Fantasy by Brian Moriarty\255\001\255\001Illustrated by Mark Ferrari.\255\001256 color artwork by\255\001Avril Harrison, James Dollar\255\001Steve Purcell, and Mike Ebert
+[002:LS#0206]Characters Designed and Animated by\255\001Gary Winnick and Steve Purcell
+[002:LS#0207]Visual Effects Animation by\255\001Ken Macklin, Gary Winnick, Steve Purcell\255\001and Mark Ferrari\255\001256 color enhancements by Brent Anderson
+[002:LS#0208]Music of Tchaikovsky\255\001Transcribed by George Alistair Sanger\255\001and Gary Hammond
+[002:LS#0209]FUJITSU TOWNS CONVERSION\255\001\255\001CD Music by\255\001Earwax Productions, San Francisco\255\001\255\001Sound Effects by\255\001Earwax Productions and Jim Leiterman
+[002:LS#0210]Additional Programming by\255\001Kalani Streicher
+[002:LS#0211]SCUMM Story System by\255\001Ron Gilbert and Aric Wilmunder
+[002:LS#0212]Fujitsu Towns\015 Edition by\255\001Jim Leiterman, Jenny Sward and Sean Clark
+[002:LS#0213]Lead Tester\255\001Kirk Roulston\255\001\255\001Fujitsu Towns\015 Lead Tester\255\001Jon Van
+[002:LS#0214]Testers\255\001Bret Barrett, Terry Bratcher, Tom Canham,\255\001Eric Christensen, Carla Green, Jon Gubman,\255\001Tony Hsieh, Tim Huber, Eric Liu
+[002:LS#0215]Testers\255\001Judith Lucero Turchi, Ezra Palmer-Persen,\255\001Alice Rosen, Jenny Sward, Aileen Treadwell,\255\001Dave Popovich, Steven Saunders, Maniac Maxo,\255\001Aaron Muszalski, James Hampton\255\001Marc Cartwright and Jo Ashburn
+[002:LS#0216]\255\001Produced by Gregory D. Hammond\255\001\255\001Fujitsu Towns\015 Project Directed by\255\001Douglas Crockford\255\001The guy in the white coat!
+[002:LS#0217]Thanks to Noah Falstein, David Fox,\255\001Akila J. Redmer, James Wood, Andrea Siegel\255\001and Orson Scott Card
+[002:LS#0218]\255\001Special Thanks to George Lucas
+[002:LS#0219]\255\001A Lucasfilm Games]^ Production
+[002:LS#0220]Created and Produced at Skywalker Ranch\255\001Marin County, California\255\001\255\001Additional programming in San Rafael\255\001and Soulsbyville
+[002:LS#0221]]^ & >* 1990 LucasArts Entertainment Co.\255\001All rights reserved.
+[002:SC#0044]Rise, son of Cygna.
+[002:SC#0044]It is the dawn of your\255\001seventeenth year.
+[002:SC#0044]I am sent by the Elders\255\001to summon you.
+[002:SC#0044]The High Council awaits your\255\001presence in the Sanctuary.
+[002:SC#0044]A messenger nymph!
+[002:SC#0044]Never seen one so bright before.
+[002:SC#0044]One of the Elders must've woven it.
+[002:SC#0044]Better get down to the village.
+[002:SC#0049]Once was plenty for me.
+[002:SC#0049]Is it over now?
+[003:ON#0165]sky
+[003:OC#0165]The view from the cliff is better.
+[003:OC#0165]Think I'll have to get closer first.
+[004:ON#0175]owl
+[004:OC#0175]Sound asleep.
+[004:OC#0175]That draft won't work on an owl.
+[004:ON#0176]thorns
+[004:OC#0176]Ouch!
+[004:OC#0176]They're about as open as thorns can get.
+[004:OC#0176]They're about as closed as thorns can get.
+[004:OC#0176]That draft won't work on thorns.
+[004:ON#0171]hole
+[004:ON#0172]hole
+[004:ON#0173]hole
+[004:ON#0174]hole
+[004:ON#0177]grave
+[004:OC#0177]I can't read this gravestone.
+[004:OC#0177]The owl's tail feathers are\255\001blocking my view.
+[004:OC#0177]Already done, I guess.
+[004:OC#0177]That draft won't work on a grave.
+[004:ON#0197]sky
+[004:OC#0197]The view from the cliff is better.
+[004:OC#0197]Think I'll have to get closer first.
+[004:EN#0004]+The day the sky is opened./ Hmm.
+[004:LS#0200]There's an owl in there!
+[004:LS#0200]This hole has an owl too.
+[004:LS#0200]Another owl! The woods must be full of 'em.
+[004:LS#0200]Looks as if all the holes are full now.
+[004:LS#0200]This hole is empty.
+[004:LS#0200]Still there.
+[004:LS#0200]Hasn't left yet.
+[004:LS#0200]It's still in there.
+[004:LS#0200]Still empty.
+[004:LS#0202]Poor little fella.
+[004:LS#0206]That draft won't work on the hole.
+[004:LS#0207]The hole's already wide open.
+[004:LS#0208]Whatever lives in the hole\255\001might not like that.
+[004:LS#0209]Maybe I'd better not try that.
+[006:ON#0206]wool
+[006:OC#0206]Grassy green. Hate that color.
+[006:OC#0206]Green again. Yuck.
+[006:OC#0206]Looks better in white.
+[006:ON#0207]wool
+[006:OC#0207]Yuck. I hate green.
+[006:OC#0207]This wool hasn't been dyed yet.
+[006:OC#0207]White again. That's more like it.
+[006:ON#0210]heap
+[006:OC#0210]Green. My least favorite color.
+[006:OC#0210]This pile still needs dyeing.
+[006:OC#0210]I like it better in white.
+[006:ON#0211]cloth rack
+[006:OC#0211]Ugly green.
+[006:OC#0211]Ugly green again.
+[006:OC#0211]White's an improvement.
+[006:ON#0214]flask
+[006:OC#0214]That draft won't work on a flask.
+[006:ON#0205]dye pot
+[006:OC#0205]The pot doesn't have a cover.
+[006:OC#0205]That draft won't work on a pot.
+[006:ON#0209]book
+[006:OC#0209]This is the Book of Patterns that\255\001Hetchel lets me read sometimes.
+[006:OC#0209]Better take it with me.
+[006:OC#0209]It's already closed.
+[006:OC#0209]I already know what's in it.
+[006:OC#0209]That draft won't work on a book.
+[006:LS#0200]I changed the color!
+[006:LS#0201]It's bubbling.
+[006:LS#0211]It's plenty green enough already.
+[006:LS#0212]It already looks about as pale\255\001as it can get.
+[006:LS#0215]Oops!
+[006:LS#0215]Still dripping. What a mess.
+[006:LS#0216]That draft won't work on wool.
+[008:ON#0256]tapestry
+[008:OC#0256]The threads describe the creation of the world\255\001and the passage of the Two Shadows.
+[008:OC#0256]This tapestry describes the world's creation\255\001and the passage of the Two Shadows.
+[008:ON#0257]tapestry
+[008:OC#0257]The pattern shows the rise of the Guilds,\255\001and the story of the Weavers' founding.
+[008:OC#0257]This tapestry shows the rise of the Guilds,\255\001and the story of the Weavers' founding.
+[008:ON#0258]tapestry
+[008:OC#0258]This is the last section of\255\001the Long Tapestry.
+[008:OC#0258]It illustrates the decline of the Guilds,\255\001and the gathering of a Third Shadow.
+[008:OC#0258]Odd. The end of this tapestry\255\001is torn completely off.
+[008:LS#0204]This is a section of the Long Tapestry.
+[008:LS#0205]Here's another section of\255\001the Long Tapestry.
+[008:LS#0208]This tapestry's already as colorful\255\001as it can get.
+[008:LS#0209]I've already spun all the green out.
+[008:LS#0209]Doubt if I could spin much color\255\001out of it now.
+[008:LS#0210]That draft won't work on a tapestry.
+[008:LS#0217]I changed the color!
+[008:SC#0046]Looks as if the Elders are busy.
+[008:SC#0046]Wouldn't want to interrupt ...
+[008:SC#0046]You have heard the findings of the\255\001High Council, Dame Hetchel.
+[008:SC#0046]What have you to say in your defense?
+[008:SC#0046]I have no defense or excuses,\255\001Elder Atropos.
+[008:SC#0046]My actions speak for themselves.
+[008:SC#0046]No defense? Not the slightest remorse?
+[008:SC#0046]This reckless defiance is intolerable.
+[008:SC#0046]Why do you disobey us, Hetchel?
+[008:SC#0046]You have always upheld the\255\001Rules of Membership to the letter.
+[008:SC#0046]Tell us what is in your heart.
+[008:SC#0046]The boy must be told\255\001the truth about his\255\001birth, Elder Clothos.
+[008:SC#0046]His talent awakens!
+[008:SC#0046]Soon he will wield\255\001the power of Weaving,\255\001whether we choose\255\001to guide him or not.
+[008:SC#0046]We dare not desert Bobbin now.
+[008:SC#0046]Stubborn old fool!
+[008:SC#0046]The secrets you reveal to Cygna's son\255\001may be turned against us.
+[008:SC#0046]That is why his training was\255\001forbidden by this Council!
+[008:SC#0046]Enough, Lachesis.
+[008:SC#0046]We need not explain our decisions.
+[008:SC#0046]It grieves me to see\255\001your many years of\255\001faithful service\255\001end in this disgrace.
+[008:SC#0046]But the wisdom of\255\001the Elders may not\255\001be questioned.\255\001\255\001That is the\255\001final Rule of\255\001Membership.
+[008:SC#0046]Another one of your\255\001students, Lady Cygna,\255\001learned the terrible\255\001price of defiance in\255\001this very chamber\255\001seventeen years ago.\255\001\255\001Better that\255\001you had heeded\255\001that lesson.
+[008:SC#0046]My destiny is in your hands, Elders.
+[008:SC#0046]Our hands are empty, Hetchel.
+[008:SC#0046]Gaze once more upon the Great Loom\255\001if you would know your destiny.
+[008:SC#0046]For behold! That destiny is upon you.
+[008:SC#0046]A swan's egg. Curious destiny.
+[008:SC#0046]That draft has never failed before.
+[008:SC#0046]Hark!
+[008:SC#0046]I heard a cry. Outside!
+[008:SC#0046]The Guild is under attack!
+[008:SC#0046]Who dares to desecrate the\255\001Loom of the Weavers?
+[008:SC#0046]This is the work of the demon boy.
+[008:SC#0046]Kill it while you still can, Atropos!
+[008:SC#0046]Cursed forever be the name of Cygna's son,\255\001the Loom-Child ... Bobbin Threadbare!
+[008:SC#0046]Oh, wonderful.
+[008:SC#0046]Everyone's flown away!
+[008:SC#0046]No explanations. No goodbyes.
+[008:SC#0046]Why do they always leave me behind?
+[009:ON#0270]egg
+[009:OC#0270]That draft won't work on an egg.
+[009:ON#0271]distaff
+[009:OC#0271]Feels heavier than it looks.
+[009:ON#0272]loom
+[009:OC#0272]That draft won't work on the Loom.
+[009:ON#0273]Hetchel
+[009:OC#0273]Strange. Her beak is moving, but\255\001she can't make a sound!
+[009:OC#0273]Poor Hetchel.
+[009:OC#0273]That didn't help. She must be under\255\001some kind of magic spell.
+[009:ON#0274]feather
+[009:ON#0275]Dead One
+[009:LS#0209]It's quiet. The echoes in the Loom\255\001have all died away.
+[009:LS#0209]Those are the same four threads\255\001the swan spun on the Elders.
+[009:LS#0209]Those are the same four threads\255\001I heard a few moments ago.
+[009:LS#0209]They're still echoing in the Loom!
+[009:LS#0213]It's trying to open!
+[009:LS#0214]That egg just made a sound.
+[009:LS#0214]The egg is opening!
+[009:LS#0216]Do not approach too closely, Weaver.
+[009:LS#0221]Throw away that stick, young fool.
+[009:LS#0221]Your Weaver magic cannot trouble me.
+[009:LS#0222]Hmm. That didn't do her any good.
+[009:LS#0223]Thank goodness! I can talk again!
+[009:LS#0223]Ducks are meant to be eaten. Not heard.
+[009:LS#0223]I believe we were discussing\255\001the secrets of the Loom.
+[009:LS#0224]Begone from this chamber, Evil One.\255\001The Loom shall never be yours!
+[009:LS#0224]This boy holds the power to destroy it!
+[009:LS#0224]I do?
+[009:LS#0224]Ssh! Close your eyes now, little Bobbin.\255\001But keep your ears open!
+[009:LS#0224]Here descends the Third Shadow!
+[009:LS#0224]So much for distractions.
+[009:LS#0226]Unmake the Loom, Bobbin! Quickly!
+[009:LS#0226]I can't distract this creature\255\001much longer!
+[009:LS#0226]I need the threads, Mother Hetchel!\255\001Tell me which four to use!
+[009:LS#0231]This bird has annoyed me once too often.
+[009:LS#0233]Mother Hetchel! Where are you going?
+[009:LS#0233]To follow the swans!
+[009:SC#0047]Thank goodness you're still here.
+[009:SC#0047]Mother Hetchel? Is that you?
+[009:SC#0047]You know perfectly well it's me.\255\001I saw you watching us.
+[009:SC#0047]What's been happening here, Hetchel?\255\001The whole village has flown away!
+[009:SC#0047]I'd hoped the swan might come\255\001to save you.
+[009:SC#0047]But I never expected her to weave\255\001as much mischief as this!
+[009:SC#0047]Save me? From what?
+[009:SC#0047]From the Elders.\255\001\255\001They were going to turn\255\001you into a swan, as they\255\001tried to do to me.
+[009:SC#0047]Looks as if a cygnet was\255\001the best they could manage\255\001with these old bones.
+[009:SC#0047]Why do the Elders want to get rid of me?\255\001I haven't broken any Rules.
+[009:SC#0047]They fear you, Bobbin.
+[009:SC#0047]But why should anyone be afraid of me?
+[009:SC#0047]Ever since you came into our world,\255\001the Elders have watched chaos spread\255\001across the Pattern in the Loom.
+[009:SC#0047]They believed - hoped - that your birth\255\001was the cause of this chaos, and that\255\001order might return if you were banished.
+[009:SC#0047]But now the Elders are banished,\255\001and you are still here!\255\001This can mean only one thing.
+[009:SC#0047]The Pattern is failing\255\001of its own accord.\255\001\255\001Soon it will come to\255\001an end ... and with it,\255\001all that is hemmed into\255\001its threads.
+[009:SC#0047]A third Shadow is nigh!
+[009:SC#0047]Is there any way to stop it?
+[009:SC#0047]Stop chaos? The Elders thought they could.
+[009:SC#0047]Now they know better. So should you.
+[009:SC#0047]If we can't stop the chaos,\255\001what CAN we do?
+[009:SC#0047]We can embrace it.\255\001\255\001Or ... escape!
+[009:SC#0047]The swan has rescued the\255\001rest of our Guild from the\255\001coming time of darkness.\255\001\255\001The way before us now\255\001is clear.\255\001\255\001We must find out where\255\001our flock has flown, and\255\001join them if we can!
+[009:SC#0047]You've already found\255\001the Elder's distaff.\255\001Good.\255\001\255\001Never let it out of\255\001your grasp!
+[009:SC#0047]Pick up the Elder's\255\001distaff lying here.\255\001It is yours now.\255\001\255\001Never let it out of\255\001your grasp!
+[009:SC#0047]You won't be able to\255\001weave very much with it\255\001at first, I expect.\255\001\255\001But as you gain practice,\255\001more and more of its power\255\001will reveal itself to you.
+[009:SC#0047]As long as the distaff\255\001remains in your hands,\255\001I'll know you are safe.\255\001\255\001If you ever lose it,\255\001take heart! I'll come to\255\001help you if I can.
+[009:SC#0047]Leave this island, Loom-Child.\255\001It's too small for you now.
+[009:SC#0047]Your destiny lies beyond the sea!
+[009:SC#0047]Wish I knew why everyone keeps\255\001calling me +Loom-Child./
+[009:SC#0101]Eek! Look out!
+[009:SC#0101]Uh oh.
+[009:SC#0101]Bobbin! Get your distaff ready!
+[009:SC#0101]Mother Hetchel!
+[009:SC#0101]There's not a moment to lose!
+[009:SC#0101]You must unmake the Loom. NOW, Bobbin.\255\001Before the Dead Ones take control!
+[009:SC#0101]How? I don't know what draft to spin!
+[009:SC#0101]It is just as well, young Weaver.
+[009:SC#0101]Birds and children have no business\255\001wielding such power.
+[009:SC#0101]My informants told\255\001me that all of the\255\001Weavers had fled.\255\001\255\001I see they were\255\001mistaken.
+[009:SC#0101]Destiny has been kind,\255\001my young friend.\255\001\255\001You will live to pass\255\001on your Guild's secrets\255\001to others more worthy\255\001of the knowledge.
+[009:SC#0101]In return, you will be\255\001allowed to serve my new\255\001empire as advisor.\255\001\255\001Naturally, I expect your\255\001full cooperation in this\255\001historic exchange of\255\001goodwill.
+[009:SC#0101]Anything less will\255\001risk harm to our\255\001relationship.
+[009:SC#0101]Don't listen to him, Bobbin!
+[009:SC#0101]The threads to unmake the Loom are ...
+[009:SC#0101]Silence.
+[009:SC#0101]Hetchel? Hetchel, what's the matter?\255\001Say something!
+[009:SC#0101]What did you do to her!
+[009:SC#0101]I lose patience easily in the proximity\255\001of inferior beings.
+[009:SC#0101]You will now instruct me in the use\255\001of this fascinating instrument.
+[009:SC#0101]Over my dead body!
+[009:SC#0101]Preference noted.
+[009:SC#0105]Hetchel's feather! It's still there!
+[009:SC#0105]So it is, young Weaver.
+[009:SC#0105]I shall keep it as a souvenir\255\001of our encounter.
+[009:SC#0105]You leave that feather alone!
+[009:SC#0105]Make me. Heh heh heh.
+[010:ON#0296]clam
+[010:OC#0296]Closed tight as a ... clam.
+[010:OC#0296]Yuck.
+[010:OC#0296]Looks as if breakfast is over.
+[010:OC#0296]It's already wide open.
+[010:OC#0296]Shame to ruin the gull's breakfast.
+[010:OC#0296]It's already shut tight.
+[010:OC#0296]That draft won't work on the clam.
+[010:ON#0297]gull
+[010:ON#0298]gull
+[010:ON#0299]gull
+[010:ON#0300]gull
+[010:LS#0210]That draft won't work on a gull.
+[012:OC#0322]Here we go again.
+[012:LS#0200]Better not swim too far.
+[013:ON#0325]waterspout
+[013:OC#0325]Don't want to get any closer.
+[013:OC#0325]Whew! Listen to that twisty wind!
+[013:OC#0325]That didn't work. It's twisting too fast.\255\001Must be SOME way to untwist it ...
+[013:OC#0325]It's twisting hard enough already!\255\001Must be SOME way to untwist it ...
+[013:OC#0325]That draft won't work on the waterspout.
+[016:ON#0350]workers
+[016:LS#0203]Looks as if somebody's\255\001working up there.
+[016:LS#0204]I already spun that draft on them!
+[016:LS#0204]That draft wouldn't affect them now.
+[016:LS#0204]That felt right. I think it worked.
+[016:LS#0206]That draft won't work on the workers.
+[016:LS#0207]I doubt if they'd see me\255\001from up there.
+[017:ON#0357]grave
+[017:OC#0357]+Near this spot, Luscent Bottleblower,\255\001Founder of the Noble Guild of Glassmakers,\255\001attained his Final Clarity./
+[017:OC#0357]Already done.
+[017:ON#0358]grave
+[017:OC#0358]+Softshard, Wife of Luscent Bottleblower,\255\001here attained Final Clarity./
+[017:OC#0358]Already done.
+[017:LS#0205]That draft won't work on the grave.
+[017:LS#0206]Maybe I ought not to try that.
+[017:SC#0066]Greetings, stranger.
+[017:SC#0066]But remember: You break it, you buy it!
+[018:ON#0369]bell
+[018:OC#0369]That draft won't work on the bell.
+[018:ON#0370]sphere
+[018:OC#0370]That draft won't work on the sphere.
+[018:ON#0371]bell
+[018:OC#0371]It's already open.
+[018:OC#0371]That draft won't work on the bell.
+[018:ON#0374]bell
+[018:ON#0372]conversation
+[018:LS#0202]Guess I'm not supposed to go up there.
+[018:LS#0202]Those guys are going to be a problem.
+[018:LS#0202]Looks as if I'll have to try\255\001something sneaky.
+[018:LS#0205]Wait a minute!
+[018:LS#0205]Who ARE these two guys, anyway?
+[018:LS#0205]I can just make out what\255\001they're saying ...
+[018:LS#0205]I trust Your Excellency is pleased\255\001with our progress?
+[018:LS#0205]That depends.
+[018:LS#0205]How far ahead will I be able to see?
+[018:LS#0205]At least four hours. With luck, maybe six.
+[018:LS#0205]Six hours? I thought we agreed to eight.
+[018:LS#0205]Each of the Spheres is unique,\255\001Bishop Mandible.
+[018:LS#0205]It is impossible to predict how deeply\255\001this particular Sphere will look.
+[018:LS#0205]I need to see at least eight hours ahead.
+[018:LS#0205]EIGHT hours. See to it, Master Crucible.
+[018:LS#0205]The customer is always right.
+[018:LS#0205]+See ahead?/
+[018:SC#0064]There's a little glass bell in here.
+[018:SC#0064]Wonder what'll happen if ...
+[018:SC#0071]My head is swimming.
+[019:SC#0065]Aieeeeaaah!
+[020:ON#0388]bell
+[020:ON#0389]bell
+[020:ON#0386]scythe
+[020:ON#0387]scythe
+[020:ON#0390]workers
+[020:ON#0391]workers
+[020:LS#0202]That thing is SHARP.
+[020:LS#0203]They're REALLY sharpening that thing.
+[020:LS#0207]Look!
+[020:LS#0207]Who are you?
+[020:LS#0207]How did you get up here?
+[020:LS#0207]Well, I rang this little bell, see, and ...
+[020:LS#0207]Sorry, kid.
+[020:LS#0207]Step back under the lens, please.
+[020:LS#0207]This is a restricted area.
+[020:LS#0207]That means NO visitors.
+[020:LS#0207]Hit it, Flute.
+[020:LS#0207]Oh, no!
+[020:LS#0207]You again!
+[020:LS#0207]Stopper, didn't I ask this kid to leave?
+[020:LS#0207]But this is the only way to ...
+[020:LS#0207]Look, you're NOT supposed to be\255\001up here, okay?
+[020:LS#0207]Back under the lens.
+[020:LS#0207]We'll all be in BIG trouble\255\001if anybody sees you.
+[020:LS#0207]So forget what you saw here\255\001and SCRAM.
+[020:LS#0207]I don't believe it.
+[020:LS#0207]Back AGAIN?
+[020:LS#0207]The kid's gonna blow our schedule!
+[020:LS#0207]C'mon, guys! I just want to ...
+[020:LS#0207]Listen, we have secret work to do up here.\255\001You know what SECRET means?
+[020:LS#0207]Lens. NOW.
+[020:LS#0207]You are NOT going to waltz through here\255\001without us seeing you.
+[020:LS#0207]Go play somewhere ELSE.
+[020:LS#0210]Did you get a load o'that Bishop Mandible?
+[020:LS#0210]Swishin' 'round here like he owns the place!
+[020:LS#0210]What do the Clerics want with a\255\001Sphere of Scrying, anyway?
+[020:LS#0210]Thought they didn't believe\255\001in the future.
+[020:LS#0210]Your guess is good as mine.
+[020:LS#0210]Crucible thinks they're up to\255\001no good again.
+[020:LS#0210]So why's he selling 'em one?
+[020:LS#0210]You know Crucible.
+[020:LS#0210]He'd sell his own mother's spectacles\255\001if the terms were cash up front.
+[020:LS#0210]Cash up front? Whew!
+[020:LS#0210]Spheres ain't what you call cheap.
+[020:LS#0210]Still, Crucible's not takin' any chances.
+[020:LS#0210]He figures if the Clerics are lookin'\255\001for trouble, we're gonna be ready.
+[020:LS#0210]That's why you and me's up here\255\001doin' major overtime.
+[020:LS#0210]Ouch! ... I see whatcha mean.
+[020:LS#0210]One look at THIS little baby'll make them\255\001Clerics think twice 'bout messin' with US.
+[020:LS#0211]That draft won't do much good\255\001if they can't see me.
+[020:LS#0212]I guess I'm already invisible.
+[020:LS#0213]That draft won't work on them.
+[020:LS#0214]That draft won't work on the bell.
+[020:LS#0215]That draft won't work on the scythe.
+[022:ON#0405]chalice
+[022:OC#0405]Wish I was old enough to drink.
+[022:OC#0405]Wonder where that dragon went with\255\001Bottleblow's other treasures.
+[022:OC#0405]It's already empty.
+[022:OC#0405]It's already full to the brim.
+[022:OC#0405]The chalice doesn't have a lid.
+[022:OC#0405]That draft won't work on a chalice.
+[022:ON#0403]bell
+[022:OC#0403]That draft won't work on the bell.
+[022:ON#0404]bell
+[022:OC#0404]That draft won't work on the bell.
+[022:SC#0067]Greetings, stranger.
+[022:SC#0067]But remember: You break it, you buy it!
+[022:SC#0108]Nice! Never seen glass sparkle like this.
+[022:SC#0108]It is not glass, Weaver Threadbare.
+[022:SC#0108]The chalice you've so irreverently filled\255\001was carved from a diamond crystal.
+[022:SC#0108]This chalice was carved from a\255\001single crystal of diamond.
+[022:SC#0108]Impressive!
+[022:SC#0108]But I thought you were Glassmakers.
+[022:SC#0108]Indeed. Behold the\255\001Chromax Conundrum!\255\001\255\001It was wrought by\255\001the hand of our\255\001founding member,\255\001Luscent Bottleblow,\255\001whose works once\255\001filled a museum.
+[022:SC#0108]Three centuries ago,\255\001our fair city was\255\001plundered by a dragon.\255\001\255\001The greedy beast emptied\255\001our museum and treasury.\255\001\255\001Even Bottleblow's great\255\001masterpiece, the First\255\001Scrying Sphere, was lost.
+[022:SC#0108]Fortunately, the\255\001Conundrum was on\255\001loan to the Guild of\255\001Vintners at the time.\255\001\255\001It is our only\255\001remaining example\255\001of Bottleblow's\255\001transcendent genius.
+[022:SC#0108]But why is it made of diamond\255\001instead of glass?
+[022:SC#0108]We don't know.
+[022:SC#0108]That's the Conundrum.
+[023:OC#0421]Going somewhere?
+[023:ON#0422]shepherds
+[023:ON#0423]shepherds
+[023:ON#0424]shepherds
+[023:ON#0425]shepherds
+[023:LS#0202]He's back.
+[023:LS#0202]So are we.
+[023:LS#0209]They don't look very friendly.
+[023:LS#0210]Aieeeee!
+[023:LS#0210]What fun.
+[023:LS#0212]Halt!
+[023:LS#0212]Who goes there?
+[023:LS#0212]This runt was trying to sneak\255\001into our realm!
+[023:LS#0212]Sneak? You call that sneaking?
+[023:LS#0212]I heard him coming two hills away.
+[023:LS#0212]State your business with the\255\001Guild of Shepherds!
+[023:LS#0212]I'm looking for a flock of swans.
+[023:LS#0212]Swans.
+[023:LS#0212]Right.
+[023:LS#0212]Swans don't live in the woods, kid.
+[023:LS#0212]Say! You don't suppose this is the wizard\255\001Fleece told us about, do you?
+[023:LS#0212]Hmm. He's dressed kind of like a wizard.
+[023:LS#0212]Doesn't look very powerful to me.
+[023:LS#0212]C'mon, wizard! Show us your stuff.
+[023:LS#0212]Prove you're a wizard or you're not\255\001getting any farther.
+[023:LS#0214]He's leaving.
+[023:LS#0214]Not much of a wizard, eh?
+[023:LS#0214]Better luck next time!
+[023:LS#0214]C'mon, fellas. Back to work.
+[023:LS#0231]That draft won't work on the shepherds.
+[023:LS#0232]We are the masters of stealth,\255\001little wizard.
+[023:LS#0232]That camouflage trick won't work on us.
+[024:ON#0432]sheep
+[024:OC#0432]They're too smart to scare that easily.
+[024:OC#0432]Didn't work. Guess they don't want\255\001to look at me anyway.
+[024:OC#0432]That draft won't work on the sheep.
+[024:ON#0433]sheep
+[024:OC#0433]Fleece was right. They really do stick out.
+[024:OC#0433]They're white as they can get already.
+[024:OC#0433]They're too smart to scare that easily.
+[024:OC#0433]Didn't work. Guess they don't want\255\001to look at me anyway.
+[024:OC#0433]That draft won't work on the sheep.
+[024:ON#0434]dozing
+[024:OC#0434]Must've had a long night.
+[024:OC#0434]Wouldn't do any good while he's sleeping.
+[024:OC#0434]That draft won't work on him.
+[024:ON#0431]cemetery
+[024:OC#0431]Some of those graves look really old.
+[024:OC#0431]Already done.
+[024:OC#0431]That draft won't work on the cemetery.
+[024:LS#0207]Hey!
+[024:LS#0207]Look at my sheep! LOOK at them!
+[024:LS#0207]What did you do to them?\255\001They look ridiculous!
+[024:LS#0207]How am I supposed to watch sheep\255\001I can barely SEE?
+[024:LS#0207]What's the big idea?
+[024:LS#0207]You've got my sheep all upset!
+[024:LS#0207]Now I gotta round 'em up again.
+[024:LS#0207]C'mon, you guys! Move it!
+[024:LS#0211]Plenty green enough already.
+[024:LS#0212]They already look about as pale\255\001as they can get.
+[024:LS#0214]Perhaps I shouldn't be trying that.
+[025:ON#0447]lamb
+[025:OC#0447]Awwww! A cute little lamb.
+[025:OC#0447]Hope she gets better.
+[025:OC#0447]This lamb doesn't look too well.\255\001Maybe I shouldn't bother her.
+[025:OC#0447]That draft won't work on the lamb.
+[025:LS#0204]Not a very curious wizard, are you?
+[025:LS#0204]Sure I am!
+[025:LS#0204]You've shown not the slightest interest\255\001in my little patient here.
+[025:LS#0204]You've only just glanced at\255\001my little patient here.
+[025:LS#0204]Ah! You've noticed my little patient.
+[025:LS#0204]Patient? Is she sick?
+[025:LS#0204]Very. I don't think she's going to make it.
+[025:LS#0204]Her mother was carried off by the dragon\255\001the day after she gave birth.
+[025:LS#0204]My Songs of Healing don't seem to\255\001be doing enough good.
+[025:LS#0204]Songs?
+[025:LS#0204]We Shepherds are known for them.\255\001At least, I thought we were.
+[025:LS#0204]My grandsire taught me the magic notes.
+[025:LS#0204]He said we got them from some other Guild\255\001in exchange for the secret of stealth.
+[025:LS#0204]I guess I'm not very good yet.
+[025:LS#0205]I think she opened her eyes a little.
+[025:LS#0205]You're right!
+[025:LS#0205]I'll try it again.
+[025:LS#0206]Her eyes are closed again.
+[025:LS#0206]Maybe if I sing a bit slower ...
+[025:LS#0206]No difference. Oh, well.
+[025:LS#0208]The flock has been led to pasture, Wizard.\255\001Good luck with the dragon!
+[025:SC#0069]Hello there.
+[025:SC#0069]Who said that?
+[025:SC#0069]I did.
+[025:SC#0069]Oh.
+[025:SC#0069]Who are you?
+[025:SC#0069]I am she who sent for you.
+[025:SC#0069]Huh?
+[025:SC#0069]I am named Fleece, First Chosen\255\001of the Guild of Shepherds.
+[025:SC#0069]And you are obviously the mighty wizard\255\001I hired from the Guild of Mages.
+[025:SC#0069]There must be some mistake.
+[025:SC#0069]Your modesty is\255\001very charming.\255\001\255\001But there is no\255\001mistake.
+[025:SC#0069]My border guards\255\001were extremely\255\001impressed with\255\001your display\255\001of magic power.
+[025:SC#0069]They did not\255\001tell me that you\255\001are also young,\255\001and quite\255\001well-mannered.
+[025:SC#0069]Were our plight\255\001not so serious,\255\001it might amuse\255\001me to know you\255\001better.
+[025:SC#0069]Plight?
+[025:SC#0069]One of our clients placed an order\255\001for ten thousand fattened sheep.
+[025:SC#0069]That's enough to feed an army!
+[025:SC#0069]I fear that may be exactly what\255\001the Clerics have in mind.
+[025:SC#0069]But we do not concern ourselves with\255\001how our customers use our products.
+[025:SC#0069]They probably won't get their sheep anyway.
+[025:SC#0069]No? Why not?
+[025:SC#0069]Our local dragon seems to have acquired\255\001a taste for fresh mutton.
+[025:SC#0069]Our sheep are bred for extra whiteness.\255\001It can see them from miles away.
+[025:SC#0069]Only a mage can save us from\255\001this winged pestilence.
+[025:SC#0069]Thank you for answering my\255\001summons so quickly.
+[026:ON#0464]shepherds
+[026:OC#0464]Never had a chance.
+[026:OC#0464]That wouldn't be very respectful.
+[026:OC#0464]That draft won't work on the shepherds.
+[026:LS#0202]Fleece! What happened? We were overrun!
+[026:LS#0202]You were saved by the mercy\255\001of yonder boy.
+[026:LS#0202]His power has grown since last we met.
+[026:LS#0202]Shepherds have long memories, wizard.\255\001I shall not forget your kindness.
+[026:LS#0202]Come! Before the Dead Ones return\255\001to reap us again!
+[026:LS#0211]You are too late, wizard.
+[026:LS#0211]The Dead increased their numbers here.
+[026:LS#0211]My Songs ... useless.
+[026:LS#0211]Those few not killed are suffering.
+[026:LS#0211]At least we can end their misery.\255\001Extend your powers if you can!
+[028:ON#0466]dragon
+[028:ON#0467]dragon
+[028:ON#0468]dragon
+[028:OC#0468]Guess I'll have to wake it first.
+[028:ON#0469]dragon
+[028:OC#0469]Guess I'll have to wake it first.
+[028:ON#0470]gold
+[028:ON#0471]gold
+[028:ON#0472]gold
+[028:ON#0473]straw
+[028:ON#0474]straw
+[028:ON#0475]straw
+[028:LS#0200]My! Aren't we clever today!
+[028:LS#0200]Just put it back before you leave.
+[028:LS#0201]Thanks, sweetie.
+[028:LS#0201]Glad you remembered how to do it.
+[028:LS#0204]Looks a lot more comfortable.
+[028:LS#0205]This pile's already spun that way.
+[028:LS#0206]Fast asleep.
+[028:LS#0207]It's already wide awake.
+[028:LS#0208]It's already sound asleep.
+[028:LS#0209]Yawn! That nap made me hungry.
+[028:LS#0210]Yawn!
+[028:LS#0212]Uh-oh. It's snoring on the straw!
+[028:LS#0212]Eeeek! Fire!
+[028:LS#0214]That draft won't work on the dragon.
+[028:LS#0215]Eeeek! Fire!
+[028:LS#0215]Put it out! PUT IT OUT!
+[028:LS#0215]That was NOT funny, young man.
+[028:LS#0215]We do NOT approve.
+[028:LS#0216]That draft won't work on the gold.
+[028:LS#0217]That draft won't work on the straw.
+[028:SC#0074]Well, well. Silly me.
+[028:SC#0074]This is what I get for being in a hurry.
+[028:SC#0074]Thought you felt a little scrawny.
+[028:SC#0075]Can't keep your eyes off me, eh?
+[028:SC#0075]Where'd you get your manners?\255\001Stop staring at me! Really!
+[028:SC#0075]Was I staring? Sorry.
+[028:SC#0075]Aw, forget it. Don't pay any\255\001attention to me.
+[028:SC#0075]I get crabby on an empty stomach.
+[028:SC#0075]Oh.
+[028:SC#0075]Are you gonna incinerate me now?
+[028:SC#0075]Incinerate you?\255\001My! Aren't you the\255\001foxy one!\255\001\255\001You've come to the\255\001wrong lair if THAT's\255\001what you're after.
+[028:SC#0075]Listen, sweetie.\255\001I haven't done\255\001FIRE since my last\255\001mating season.\255\001\255\001And you don't WANT\255\001to know how long\255\001ago THAT was.
+[028:SC#0075]Those little tongues\255\001of flame running up\255\001and down my nostrils?\255\001Please!\255\001\255\001Too much heat for\255\001this old reptile.
+[028:SC#0075]You mean you can't breathe fire?
+[028:SC#0075]WON'T, honey. Doesn't fit my lifestyle.
+[028:SC#0075]Just between you and me, the stuff\255\001gives me the willies.
+[028:SC#0109]Wow!
+[028:SC#0109]Wondering who my decorator is, right?\255\001Well, you're looking at her.
+[028:SC#0109]This pile is SAD\255\001compared to what I\255\001USED to have lying\255\001around here.\255\001\255\001I picked up a load of\255\001crystal once that was\255\001to DIE for. Honestly!
+[028:SC#0109]Then wouldn't you know?\255\001\255\001This third-rate wizard\255\001tries to rip apart my\255\001volcano. We're talking\255\001MAJOR earthquake here.\255\001\255\001Ruined ALL my fancy\255\001glassware. I made that\255\001boy very, VERY sorry,\255\001let me tell you.
+[028:SC#0109]Did manage to save one\255\001little knickknack.\255\001\255\001The loveliest glass ball.\255\001It was SO precious.\255\001\255\001So what did I do? Ha!\255\001Lost it in the caves\255\001under the mountain.\255\001Rolled away before I\255\001could grab it.
+[028:SC#0109]Never did find that puppy.\255\001C'est la vie.
+[030:OC#0506]Can't get there from here.
+[031:ON#0525]sphere
+[031:OC#0525]That draft won't work on the sphere.
+[031:ON#0523]pool
+[031:OC#0523]Plenty full enough already.
+[031:OC#0523]That draft won't work on the pool.
+[031:ON#0524]dry hole
+[031:OC#0524]Dry as a bone.
+[031:OC#0524]Already dry as a bone.
+[031:OC#0524]That draft won't work on the pool.
+[031:LS#0200]Is that MY reflection? Ugh.
+[031:SC#0082]Guess I won't be going back that way.
+[033:ON#0542]cave
+[033:ON#0544]steps
+[033:OC#0544]This arrangement's a bit more usable.
+[033:OC#0544]Repair costs must be spiraling.
+[033:OC#0544]They look twisted enough already.
+[033:OC#0544]Doubt if I could untwist them any more.
+[033:OC#0544]That draft won't work on the steps.
+[034:ON#0561]boy@@@@@
+[034:OC#0561]He's already sound asleep.
+[034:OC#0561]That draft won't work on him.
+[034:ON#0586]Rusty
+[034:OC#0586]Torn to pieces. Ugh.
+[034:OC#0586]Ugh. Don't want to look like him now!
+[034:OC#0586]He's not sleeping. He's dead!
+[034:OC#0586]He's already sleeping. Permanently.
+[034:OC#0586]That draft won't work on him.
+[034:ON#0562]grave
+[034:OC#0562]These grave markers are made\255\001from blocks of metal.
+[034:OC#0562]Already done.
+[034:OC#0562]That draft won't work on the grave.
+[034:EN#0034]Rusty
+[034:EN#0034]boy@@
+[034:LS#0201]Hey! You look just like me.
+[034:LS#0201]And you look like me.
+[034:LS#0201]Cute trick, Weaver.
+[034:LS#0201]Just don't forget to switch us back\255\001when you're done fooling around.
+[034:LS#0201]Yawn! These robes sure are soft.
+[034:LS#0201]Why'd you wake me up again?
+[034:LS#0201]Let me sleep, will you?
+[034:LS#0201]Would you PLEASE let me get some sleep?
+[034:LS#0201]Pest.
+[034:LS#0205]Better not wander too far.
+[034:LS#0207]You're NOT leaving. I mean it!
+[034:LS#0207]Oh, no you don't!
+[034:LS#0207]You and your stick got me into this mess.
+[034:LS#0207]You're not going anywhere until\255\001you help me out!
+[034:LS#0209]You did it.
+[034:LS#0209]You brought me back.
+[034:LS#0209]That's what you want, isn't it?
+[034:LS#0209]You can bring people back?
+[034:LS#0209]From the DEAD?
+[034:LS#0209]You were hurt. I healed you.\255\001That's all.
+[034:LS#0209]I guess I ought to ... thank you.
+[034:LS#0209]Don't. It's all my fault anyway.
+[034:LS#0209]Can you come with me, Bobbin?
+[034:LS#0209]I've gotta find out what happened\255\001to the rest of my Guild.
+[034:LS#0209]Sorry. I have to do the same thing.
+[034:LS#0209]Good luck, though. And be careful.
+[034:LS#0209]You too. Good luck, my ... friend.
+[034:LS#0213]So I go Outside to wait for doomsday\255\001like a good little ghost.
+[034:LS#0213]And what do you suppose happens then?
+[034:LS#0216]Zzzzzz ...
+[034:LS#0218]I'm not sure I should be trying that.
+[034:SC#0085]Who's playing music? You woke me up!
+[034:SC#0085]Yawn! Caught me napping.
+[034:SC#0085]Never saw anyone dressed like you before.
+[034:SC#0085]What's your name?
+[034:SC#0085]Bobbin Threadbare, of the Weavers.
+[034:SC#0085]Weavers, huh?\255\001\255\001No wonder your\255\001cloak is so nice.
+[034:SC#0085]My real name is\255\001Wellwrought, but\255\001everyone calls me\255\001Rusty.\255\001\255\001Rusty Nailbender.
+[034:SC#0085]I'm supposed to be\255\001gathering firewood.\255\001\255\001But this plateau's\255\001been picked clean.
+[034:SC#0085]What's your Guild, Rusty?
+[034:SC#0085]Follow me. I'll show you.
+[034:SC#0085]That's us. The Guild of Blacksmiths.
+[034:SC#0085]Never would have guessed.
+[034:SC#0085]Our city's been here since before\255\001the Shadows.
+[034:SC#0085]We call it the Forge.
+[034:SC#0085]So. What brings a Weaver to these parts?
+[034:SC#0085]I'm looking for a flock of swans.\255\001Did you see any pass this way?
+[034:SC#0085]Sorry. No swans around here.\255\001Plenty of vultures, though.
+[034:SC#0085]Yawn! All this talk makes me sleepy.
+[034:SC#0085]Wake me if you find your swans.\255\001Never seen one before.
+[034:SC#0085]Rusty
+[034:SC#0088]That Weaver kid did this to me!
+[034:SC#0088]Now I have to wait Outside.
+[034:SC#0088]If I ever get my hands on him ...
+[034:SC#0088]Back to the Pattern! That was easy.
+[034:SC#0088]Pity that someone has to die\255\001for me to return.
+[034:SC#0088]Dragon. Sigh. Poor child.
+[034:SC#0088]Now where can Bobbin have gone?
+[034:SC#0088]Couldn't be there.
+[034:SC#0088]Those Smiths are a suspicious lot.\255\001They'd never let a Weaver inside.
+[034:SC#0088]Uh oh.
+[034:SC#0088]Uh oh.
+[034:SC#0088]Perhaps I ought to look into this.
+[034:SC#0098]Well, well. Look who's here.
+[034:SC#0098]Rusty?
+[034:SC#0098]My old pal. Bobbin Threadbare.
+[034:SC#0098]Rusty, this is awful!
+[034:SC#0098]How did it happen?
+[034:SC#0098]Well, Bobbin, old buddy,\255\001I think it went something\255\001like this.\255\001\255\001I'm lying here, minding\255\001my own business, when this\255\001strange new kid shows up\255\001and decides he wants to\255\001switch clothes with me.
+[034:SC#0098]I figure, +Hey! So what?\255\001Have a little fun, right?\255\001We can always switch back\255\001again later./\255\001\255\001So this kid walks away\255\001looking just like me.\255\001\255\001Fine. Only one problem.
+[034:SC#0098]The kid forgets to\255\001mention that he has a\255\001FORTY-FOOT DRAGON out\255\001to get him.\255\001\255\001And what happens when\255\001that very same dragon\255\001sees me lying here?\255\001\255\001Looking JUST LIKE YOU?
+[034:SC#0098]I don't know what to say.
+[034:SC#0098]Anyway, I end up like this. Dead.
+[034:SC#0098]Gulp.
+[034:SC#0098]Some idiot rips the universe apart\255\001and hauls us all back Inside!
+[034:SC#0098]A lot of Dead Ones are really upset.
+[034:SC#0098]That's understandable.
+[034:SC#0098]In fact, some of them have decided\255\001to take over the world.
+[034:SC#0098]Starting with my hometown.
+[034:SC#0112]Still napping.
+[034:SC#0112]Strange place to take a nap.
+[035:ON#0596]gate
+[035:OC#0596]Wide open.
+[035:OC#0596]That draft won't work on the gate.
+[035:ON#0589]gate
+[035:OC#0589]Shut tight.
+[035:OC#0589]It's already shut tight.
+[035:OC#0589]That draft won't work on the gate.
+[035:LS#0204]Hail, young Nailbender!
+[035:LS#0204]Hail!
+[035:LS#0204]Stoke is looking for you.\255\001He sure looks mad!
+[035:LS#0204]You'd better get in there quickly!
+[035:LS#0204]Let me open the gate for you.
+[035:LS#0204]Still out here, Nailbender?
+[035:LS#0204]Stoke's looking for you in there.
+[035:LS#0204]I'll open up for you again.
+[035:LS#0204]Stoke's getting REAL mad, Nailbender!
+[035:LS#0204]I'd get in there NOW if I were you.
+[035:LS#0204]Who keeps closing this thing?
+[035:LS#0204]Sigh.
+[035:LS#0204]You're asking for it, Nailbender.
+[035:LS#0204]Halt! Who goes there?
+[035:LS#0204]Just me. A friendly stranger.
+[035:LS#0204]+A friendly stranger./ Haw!
+[035:LS#0204]This is a private Guild, my\255\001strange young friend.
+[035:LS#0204]The gate opens for members only.
+[035:LS#0204]Now go away and play somewhere else.
+[035:LS#0204]Well, well.
+[035:LS#0204]If it isn't the Friendly Stranger. Haw!
+[035:LS#0204]Thought I told you to go play\255\001somewhere else.
+[035:LS#0204]This gate is CLOSED to strangers.\255\001Get the idea?
+[035:LS#0204]Still around, eh?
+[035:LS#0204]You may be friendly, kid, but you're\255\001not too bright.
+[035:LS#0204]You are NOT going past this gate.\255\001Understand?
+[035:LS#0204]Members! Only!
+[035:LS#0204]Sigh.
+[035:LS#0204]I get all the kooks on my shift.
+[035:LS#0211]Out.
+[035:LS#0211]I said OUT.
+[035:LS#0211]O - U - T.
+[035:LS#0211]Are you deaf? OUT!
+[035:LS#0211]Persistent, aren't you?
+[037:OC#0601]I'd better not go back there dressed like this.
+[037:ON#0604]woodbin
+[037:OC#0604]It's empty.
+[037:OC#0604]Full as it can get.
+[037:OC#0604]It's already as full as it can get.
+[037:OC#0604]It's already as empty as it can get.
+[037:OC#0604]That draft won't work on the wood bin.
+[037:SC#0086]Well, well, well.
+[037:SC#0086]If it isn't my faithful, TIRELESS\255\001apprentice, Rusty Nailbender.
+[037:SC#0086]Hello, er, Mr. Stoke.
+[037:SC#0086]And look! He's brought me a stick of wood.
+[037:SC#0086]Exactly ONE crooked old stick of firewood\255\001for my poor, starving furnace.
+[037:SC#0086]Firewood?
+[037:SC#0086]You lazy idiot!\255\001\255\001I sent you out FOUR\255\001HOURS ago to gather\255\001firewood, and you\255\001DARE to come back with\255\001ONE LOUSY STICK?
+[037:SC#0086]If your father wasn't\255\001the Foreman, I'd toss\255\001YOU in the furnace.\255\001\255\001Lucky for you he's\255\001downstairs with the\255\001Bishop right now.
+[037:SC#0086]If that furnace goes\255\001out, the Clerics'\255\001swords will be LATE.\255\001\255\001Perhaps you'd care\255\001to ask the Bishop for\255\001forgiveness in person?\255\001\255\001Happy to arrange it!
+[037:SC#0086]Give me that stick.
+[037:SC#0086]I know what to do with you.
+[037:SC#0086]I'll be back, Nailbender.
+[037:SC#0086]And I won't be alone.
+[038:ON#0610]straw
+[038:OC#0610]Guess my distaff still works.
+[038:OC#0610]Had enough sleep for now.
+[038:OC#0610]All the straw's been spun out already.
+[038:OC#0610]All the gold's been spun out already.
+[038:OC#0610]That draft won't work on the pile.
+[038:ON#0616]door
+[038:OC#0616]Wide open.
+[038:OC#0616]It's already wide open.
+[038:OC#0616]That draft won't work on the door.
+[038:ON#0617]door
+[038:OC#0617]It's already closed.
+[038:OC#0617]That draft won't work on the door.
+[038:ON#0611]distaff
+[038:OC#0611]Now I'm back in business!
+[038:EN#0038]gold@
+[038:EN#0038]straw
+[038:LS#0202]straw
+[038:LS#0202]gold@
+[038:LS#0204]Closed.
+[038:LS#0204]Locked. And me without a distaff!
+[038:SC#0087]Looks kinda comfortable.
+[038:SC#0087]Yawn!
+[038:SC#0087]This straw must have a sleep draft\255\001spun into it.
+[038:SC#0087]Can't do much without my\255\001distaff anyway ...
+[038:SC#0087]Zzzzzz ...
+[038:SC#0087]Tsk, tsk, tsk.
+[038:SC#0087]Imagine frightening a poor, defenseless\255\001old thing like me! Honestly!
+[038:SC#0087]Well, I may not be much good\255\001with fire, sweetie.
+[038:SC#0087]But young, firm MEAT is something\255\001I can REALLY sink my teeth into!
+[038:SC#0087]Huh?
+[038:SC#0087]My robe's not reflecting anymore.
+[038:SC#0087]Something must've happened to Rusty.
+[038:SC#0087]Hope he's okay.
+[038:SC#0087]Look at this.
+[038:SC#0087]One stick of wood left.\255\001One!
+[038:SC#0087]Furnace won't keep much longer.
+[038:SC#0087]Ten thousand swords to forge,\255\001and the furnace almost cold!
+[038:SC#0087]Sigh.
+[038:SC#0087]Here goes my new office furniture.
+[038:SC#0087]The things I go through ...
+[038:SC#0087]What would Elder Atropos say if\255\001he saw his distaff treated so?
+[038:SC#0087]Got it! Mustn't singe the feathers.
+[041:ON#0633]sword
+[041:OC#0633]Thank goodness he stopped banging on it!
+[041:OC#0633]That draft won't work on the sword.
+[041:ON#0634]sword
+[041:OC#0634]That's gonna be one nasty sword when\255\001he's done banging on it.
+[041:ON#0632]conversation
+[041:OC#0632]Hard to be nosy with all this noise!
+[041:OC#0632]Good thing they have to shout\255\001to hear themselves.
+[041:ON#0631]conversation
+[041:LS#0200]The final blade is being sharpened\255\001even as we speak, Your Excellency.
+[041:LS#0200]My most skillful bladeshaper is\255\001seeing to it personally.
+[041:LS#0200]Then this is an historic moment,\255\001Foreman Nailbender.
+[041:LS#0200]The forging of the ten thousandth sword\255\001marks the end of our preparations.
+[041:LS#0200]How goes the sharpening, Edgewise?
+[041:LS#0200]This metal is proud, Foreman!\255\001It does not yield easily.
+[041:LS#0200]More sweat will soften it, I trust?
+[041:LS#0200]It shall be a blade to be reckoned with!
+[041:LS#0200]+The Blade of Reckoning./ I like it.
+[041:LS#0200]It has a certain apocalyptic flair.
+[041:LS#0200]I assume your bladeshaper won't\255\001keep me waiting much longer?
+[041:LS#0200]Does the metal yield, Edgewise?
+[041:LS#0200]I shall pound it into submission!
+[041:LS#0200]Harder pounding may shorten your labor.\255\001Our generous client grows impatient.
+[041:LS#0200]Only time can shape such noble steel.\255\001But I will double my efforts!
+[041:LS#0200]Skulls will cleave at the mere sight of\255\001the edge he is sharpening, Bishop!
+[041:LS#0200]You wax poetic, Foreman.
+[041:LS#0200]I have never doubted the workmanship\255\001of your merchandise.
+[041:LS#0200]In fact, you Blacksmiths have caused me\255\001less trouble than any other Guild.
+[041:LS#0200]Your loyal service will not be forgotten\255\001in the hour of judgement soon to come.
+[041:LS#0204]Foreman! What evil is this?
+[041:LS#0204]A witch's curse has befallen the blade!
+[041:LS#0204]The edge has been mischievously twisted!
+[041:LS#0204]The edge has been mischievously blunted!
+[041:LS#0204]A curse, Edgewise? I think not.
+[041:LS#0204]I'd hate to believe that a witch's curse\255\001could so thoroughly ruin my schedule.
+[041:LS#0204]You don't suppose that fellow who's been\255\001spying on us has anything to do with it?
+[041:LS#0204]Perhaps he'd care to accompany me back\255\001to my cathedral.
+[041:LS#0204]I may have new curses to teach him.
+[041:LS#0205]Maybe that isn't such a good idea.
+[041:LS#0210]Still pounding, Edgewise?
+[041:LS#0210]Edgewise! Is that blade sharp yet?
+[041:LS#0210]His Excellence awaits your pleasure!
+[041:LS#0210]It is nearly finished, Foreman!
+[041:LS#0210]Must I wait much longer?
+[041:LS#0210]Only time can improve this fearsome\255\001blade, O Reverent One.
+[041:LS#0210]Enough talk. Pound!
+[041:LS#0210]Not as sharp as my skill can make it!
+[041:LS#0210]How will you know when it's finished?
+[041:LS#0210]The steel will ring out its defeat,\255\001Most Exalted One.
+[041:LS#0210]Make it ring, then! Pound harder!
+[041:LS#0210]Shall we crown the Bishop's hilt with\255\001less than the finest of blades?
+[041:LS#0210]I appreciate your artistry, Edgewise.\255\001But can't you speed things up a bit?
+[041:LS#0210]Good metal rewards patience,\255\001Inextinguishable One.
+[041:LS#0210]Our clients reward quick service! POUND!
+[043:ON#0641]Cob
+[043:OC#0641]Going somewhere, Weaver boy?
+[043:OC#0641]Charming fellow, aren't you?
+[043:ON#0643]cage
+[043:OC#0643]Closed. And locked.
+[043:OC#0643]It's already closed tight.
+[043:OC#0643]That draft won't work on the cage.
+[043:ON#0642]beast
+[043:OC#0642]Looks hungry.
+[043:ON#0640]sphere
+[043:OC#0640]That draft won't work on the sphere.
+[043:ON#0650]orb
+[043:SC#0090]Allow me to introduce myself.
+[043:SC#0090]I am Bishop Mandible, Transultimate Apostle\255\001of the Antisecular Conclave of Clerics.
+[043:SC#0090]Am I supposed to kneel or something?
+[043:SC#0090]Silence, prisoner!
+[043:SC#0090]My assistant, Cob.
+[043:SC#0090]Charming.
+[043:SC#0090]Your cloak and staff\255\001betray your origin.\255\001\255\001I studied the lore\255\001of your Guild at\255\001university.
+[043:SC#0090]It's been quite a\255\001long time since any\255\001Weaver dared to set\255\001foot off that dreary\255\001rock you call home.\255\001\255\001+Loom./\255\001\255\001So provincial.
+[043:SC#0090]I can't help but\255\001wonder what impelled\255\001you to leave it now.
+[043:SC#0090]His Excellency asked you a question!
+[043:SC#0090]I know. I'm ignoring it.
+[043:SC#0090]Ah. Recalcitrance. I see.
+[043:SC#0090]Shall I fetch the Instruments of\255\001Persuasion, Excellence?
+[043:SC#0090]Forgive the hostility of my assistant.\255\001I fear Cob is not very worldly.
+[043:SC#0090]He does not realize how dangerous\255\001a Weaver can be.
+[043:SC#0090]Dangerous?
+[043:SC#0090]HIM?
+[043:SC#0090]Do you think this iron cage of yours\255\001is enough to hold the boy captive?
+[043:SC#0090]Why, he could burst it wide open\255\001with hardly a second thought.
+[043:SC#0090]But Excellence! I inspect the locks\255\001every Tuesday!
+[043:SC#0090]Observe and learn, my servant.
+[043:SC#0090]Even now, your prisoner plans his escape.
+[043:SC#0091]I already opened it.
+[043:SC#0091]You see, Cob? An elusive breed,\255\001these Weavers.
+[043:SC#0091]Luckily, they are quite helpless\255\001without their weaving sticks.
+[043:SC#0091]Give me that!
+[043:SC#0091]You dare raise your voice\255\001at His Excellency?
+[043:SC#0091]Now, now, Cob! We mustn't be\255\001rude to our guest.
+[043:SC#0091]Not after he was kind enough to bring\255\001us such a magnificent gift.
+[043:SC#0091]Mandible! That distaff will\255\001never work for you.
+[043:SC#0091]You are wrong, my arrogant young friend.
+[043:SC#0091]Come. Let me show you why.
+[043:SC#0091]You heard the Exalted One. Move it!
+[043:SC#0091]Consider the common graveyard.
+[043:SC#0091]In a graveyard, the boundary between the\255\001Living and the Dead is ... indistinct.
+[043:SC#0091]You Weavers would say that the Pattern\255\001here is fragile. Thin as gauze.
+[043:SC#0091]Not just here. Every graveyard is like that.
+[043:SC#0091]I suspected as much.
+[043:SC#0091]Now, imagine what might happen if this\255\001delicate boundary was somehow breached.
+[043:SC#0091]+Torn open,/ so to speak.
+[043:SC#0091]Forget it, Mandible.
+[043:SC#0091]You can't just rip the Pattern\255\001apart like an old rag.
+[043:SC#0091]But I can. I can!\255\001\255\001All I require is a\255\001Weaver's distaff, and\255\001the four threads of\255\001an Opening draft.\255\001\255\001Thank you for supplying\255\001both so readily.
+[043:SC#0091]When the boundary is\255\001breached, the Dead\255\001will stream back onto\255\001the plane of the Living,\255\001eager to reclaim their\255\001place among us!\255\001\255\001And I will be waiting\255\001for them. Ready to offer\255\001my vast expertise in\255\001spiritual leadership.
+[043:SC#0091]I shall preside over\255\001a teeming multitude\255\001of restless shades.\255\001\255\001Immortal. Invincible.\255\001\255\001An Army of the Dead!\255\001With myself as its\255\001supreme commander.
+[043:SC#0091]An army nourished by the\255\001meat of the Shepherds.
+[043:SC#0091]Armed with the swords\255\001of the Blacksmiths.
+[043:SC#0091]And guided by the\255\001Sphere of the Glassmakers!
+[043:SC#0091]I was preparing to invoke the Dead\255\001by other, more forceful means.
+[043:SC#0091]Then the Glassmakers delivered my Sphere.\255\001It foretold your convenient arrival.
+[043:SC#0091]Now it shows me the Smiths repairing\255\001the sword you tried to ruin.
+[043:SC#0091]The Age of the Clerics will soon\255\001be upon us!
+[043:SC#0091]Cob, don't let him out of your sight.
+[043:SC#0091]I won't, Excellency.
+[043:SC#0091]And don't let him touch anything.
+[043:SC#0091]Lord Mandible. Ruler of the Universe!
+[043:SC#0091]Time to change my stationery.
+[043:SC#0091]Not so dangerous now, are you?\255\001Heh, heh, heh.
+[043:SC#0093]Keep away from that, you!
+[043:SC#0093]His Excellence said not to touch anything.
+[043:SC#0093]I wasn't going to touch it.\255\001Just looking. That's all.
+[043:SC#0093]Just looking, eh? Hmm ...
+[043:SC#0093]Tell you what.
+[043:SC#0093]I'll let you look into the Sphere\255\001if you let ME look at something.
+[043:SC#0093]Ahem.
+[043:SC#0093]What did you have in mind?
+[043:SC#0093]Legends say it is\255\001death to gaze upon\255\001a Weaver uncloaked.
+[043:SC#0093]Naturally, we Clerics\255\001pay little heed to such\255\001foolish rumors.\255\001\255\001Still, I'm ... curious.
+[043:SC#0093]I'll let you look into\255\001this Sphere if you let\255\001me lift your hood.\255\001\255\001Deal?
+[043:SC#0093]I wouldn't try that if I were you.
+[043:SC#0093]Why not? There's nothing to fear under\255\001that fine robe of yours, is there?
+[043:SC#0093]If you fear Nothing, then you'd\255\001better not touch me.
+[043:SC#0093]Ah, a riddle! I like riddles.
+[043:SC#0093]Let's answer this little riddle\255\001once and for all, shall we?
+[043:SC#0093]No ... NO! ... AIEEEEEEEEEEE!
+[043:SC#0093]Fools!
+[043:SC#0093]How am I supposed to invoke the Dead\255\001with all that screaming in there?
+[043:SC#0093]Laymen ...
+[043:SC#0093]Can't say I didn't warn him.
+[044:ON#0653]Mandible
+[044:SC#0095]I see Cob is being lax in his duties.
+[044:SC#0095]No matter. You're just in time to\255\001witness the dawn of a new era.
+[044:SC#0095]You don't know what you're\255\001doing, Mandible!
+[044:SC#0095]The Pattern is worn enough already.\255\001If you rip a hole in it now ...
+[044:SC#0095]Spare me your Weaver mysticism.
+[044:SC#0095]No more shall the Dead envy the Living!
+[044:SC#0095]Wow! You must've opened everything\255\001within fifty miles of here!
+[044:SC#0095]Including the eyes of the Dead. Behold!
+[044:SC#0095]I have a very bad feeling about this.
+[044:SC#0095]Who dares disturb the peace\255\001of Those Who Sleep?
+[044:SC#0095]Greetings, noble spirit.
+[044:SC#0095]I am Bishop Mandible, Transultimate Apostle\255\001of the Antisecular Conclave of Clerics.
+[044:SC#0095]Who have I the honor of summoning?
+[044:SC#0095]EeeaaarrrRRRGH!
+[044:SC#0095]I see it has been too long\255\001since my last visit.
+[045:ON#0656]distaff
+[045:OC#0656]Can't seem to hold on to this thing.
+[045:ON#0657]?
+[045:LS#0203]I am Chaos.
+[045:LS#0203]Join me.
+[045:SC#0096]Yipes!
+[046:ON#0682]hole
+[046:ON#0683]hole
+[046:ON#0684]hole
+[046:ON#0685]hole
+[046:OC#0685]That beast looked hungry.\255\001Better stay out here!
+[046:EN#0046]Looks as if my reflection threads\255\001don't work out here.
+[046:LS#0201]This hole is already wide open.
+[046:LS#0202]Maybe I should do some more\255\001exploring first.
+[046:LS#0204]Last hole. Now I can go after Hetchel!
+[046:LS#0205]That draft doesn't work on the hole.
+[047:ON#0697]swan
+[047:OC#0697]Her eyes. Just like mine ...
+[047:OC#0697]That draft won't work on her.
+[047:LS#0205]We've been expecting you, Bobbin.
+[047:LS#0205]Welcome!
+[047:LS#0205]Welcome!
+[047:LS#0205]Where am I? What is this place?
+[047:LS#0205]Outside the Pattern.
+[047:LS#0205]Home of the Dead, and of those Transcended.
+[047:LS#0205]+The Shore of Wonder./
+[047:LS#0205]Yes, Bobbin! And you are the first\255\001to behold it with mortal eyes.
+[047:LS#0205]Good work, Bobbin! You've repaired\255\001much of that Bishop's mischief.
+[047:LS#0205]Perhaps now you can approach the Loom\255\001without being detected.
+[047:LS#0205]Excellent, my son. Only one hole\255\001awaits your attention!
+[047:LS#0205]Well done, son! Half the holes are sealed.\255\001Soon you will be ready to continue.
+[047:LS#0205]Do not fail to seal all of the holes\255\001behind you, my son.
+[047:LS#0205]You dare not approach the Loom otherwise.
+[047:LS#0207]Bobbin! There's still one hole\255\001you have yet to seal.
+[047:LS#0207]There are still a few holes you\255\001haven't sealed, Bobbin.
+[047:LS#0207]All of the holes should be sealed\255\001before you dare approach the Loom.
+[047:SC#0100]You must have many questions, Bobbin.
+[047:SC#0100]Perhaps I can answer some of them.
+[047:SC#0100]You're the swan that came to visit me\255\001on my birthdays, aren't you?
+[047:SC#0100]You saw me clearly, then!\255\001I was never quite sure.\255\001\255\001The Elders forbade me to\255\001set foot on Loom island.\255\001But they said nothing\255\001about flying over it!
+[047:SC#0100]Once a year, I managed\255\001to gain enough strength\255\001to pass Inside for a\255\001few brief moments.\255\001\255\001Those are the times\255\001that you saw me.
+[047:SC#0100]You are wondering why\255\001I should bother to\255\001visit at all ... and\255\001only on YOUR birthdays.\255\001\255\001Call it a mother's\255\001curiosity.
+[047:SC#0100]For that is who I am.
+[047:SC#0100]In life, I was Lady\255\001Cygna Threadbare.\255\001\255\001Banished by the Elders\255\001for drawing an unforeseen\255\001infant out of the Loom.\255\001\255\001Seventeen long years ago.
+[047:SC#0100]I've missed you ... my son.
+[047:SC#0100]Liar!
+[047:SC#0100]My mother is buried in the cemetery.\255\001I visit her gravestone every day!
+[047:SC#0100]Hetchel's doing, no doubt.
+[047:SC#0100]She and the Elders put that there so\255\001you wouldn't ask too many questions.
+[047:SC#0100]Hetchel vowed to protect you forever.\255\001She loves you very much, Bobbin.
+[047:SC#0100]But I fear her love has driven her\255\001to recklessness.
+[047:SC#0100]What do you mean? Where is she?
+[047:SC#0100]She has set off for\255\001the island, and\255\001the Loom Sanctuary.\255\001\255\001The Dead Ones are\255\001right behind her!
+[047:SC#0100]Their leader knows of\255\001the Loom's power.\255\001\255\001If he learns its\255\001secrets, the Pattern\255\001itself will be his\255\001to manipulate.\255\001\255\001Who knows what havoc\255\001he might wreak?
+[047:SC#0100]Hetchel hopes to\255\001reach the Loom\255\001before him.\255\001\255\001She intends to\255\001destroy it!
+[047:SC#0100]If Chaos doesn't\255\001consume her first.
+[047:SC#0100]No! I have to get back there!
+[047:SC#0100]You won't get far in that direction.\255\001The Loom lies beyond the lake.
+[047:SC#0100]Besides, a more subtle strategy may\255\001improve your chances of success.
+[047:SC#0100]What strategy? What should I do?
+[047:SC#0100]The Dead Ones move between the holes your\255\001Bishop friend made in the Pattern.
+[047:SC#0100]If you repair those holes, it will make\255\001it harder for them to follow you.
+[049:ON#0707]Goodmold
+[049:LS#0201]I can't go this way. The exit's blocked!
+[049:SC#0099]Save your magic for the Dead Ones,\255\001Weaver boy.
+[049:SC#0099]Master Goodmold! You're still ...
+[049:SC#0099]Alive. At the moment, yes.
+[049:SC#0099]Master Goodmold. You're hurt.
+[049:SC#0099]Ah. Weaver boy. Returned?
+[049:SC#0099]You, at least, have escaped the\255\001attention of the Dead Ones.
+[049:SC#0099]Crystalgard ... not so fortunate.
+[049:SC#0099]I don't understand.
+[049:SC#0099]You're the keepers of the Great Scythe!\255\001Why didn't you use it?
+[049:SC#0099]We never doubted that the Scythe\255\001could save us.
+[049:SC#0099]Even the Dead would have fallen\255\001in the wake of its wrath!
+[049:SC#0099]But to unleash such merciless evil would\255\001make us as cowardly as they.
+[049:SC#0099]We wished not to become like our enemy.
+[049:SC#0099]And so we stayed our hand.\255\001We knew the price.
+[049:SC#0099]Can I do anything?
+[049:SC#0099]Remember us, my young friend.
+[049:SC#0099]Tell the world we fought with courage,\255\001and chose death with clarity.
+[049:SC#0099]Above all else ... clarity.
+[051:ON#0743]feather
+[051:ON#0742]Dead One
+[051:OC#0742]Close. But not close enough ...
+[051:SC#0102]Leaving so soon, Weaver boy?
+[051:SC#0103]No use, Bobbin. That side of the Pattern\255\001is beyond the reach of our threads now.
+[051:SC#0104]Bobbin! Bobbin, you did it!
+[051:SC#0104]The Loom is unmade, beyond Evil's reach!
+[051:SC#0104]Ignorant fools! What have you done?
+[051:SC#0104]None of us can pass\255\001across this rift your\255\001Weaver mischief has\255\001so blindly created!
+[051:SC#0104]Your pious meddling\255\001has foiled my dream\255\001of an eternal empire,\255\001bound together under\255\001One Rule ...
+[051:SC#0104]... MINE!
+[051:SC#0104]The Dead One is\255\001correct, my son.\255\001\255\001Your final draft\255\001tore the Pattern\255\001in half.
+[051:SC#0104]This is a sad fate\255\001indeed for the\255\001innocents trapped\255\001on the other side.
+[051:SC#0104]However, it is\255\001also a chance for\255\001we on THIS side\255\001to begin a second\255\001Pattern, cleansed\255\001of wickedness!
+[051:SC#0104]Come.\255\001\255\001It is time for us\255\001to weave our\255\001destinies anew.
+[051:SC#0104]But we can't just abandon\255\001half the universe!
+[051:SC#0104]I fear we have no choice.
+[051:SC#0104]Until our side of the Pattern is mended,\255\001we cannot return to the other.
+[051:SC#0104]Take your rightful place\255\001among us now.
+[056:SC#0068]Welcome to Crystalgard.
+[056:SC#0068]I am Master Goodmold, thirty-first in\255\001the Noble Guild of Glassmakers.
+[056:SC#0068]Who have I the honor of meeting?
+[056:SC#0068]My name's Bobbin. Bobbin Threadbare,\255\001of the, er, Noble Guild of Weavers.
+[056:SC#0068]Guild of Weavers?\255\001\255\001I don't remember\255\001having a Weaver\255\001visit us before.
+[056:SC#0068]I see now why your\255\001fabrics are so prized.\255\001\255\001The cloak you wear\255\001is unlike anything\255\001I have ever beheld.\255\001\255\001Remarkable workmanship.
+[056:SC#0068]Crystalgard's wisdom\255\001includes many legends\255\001concerning your Guild.\255\001\255\001One is particularly\255\001strange and amusing.\255\001\255\001They say it is death\255\001to peer beneath the\255\001hood of a Weaver.
+[056:SC#0068]Can this be true?
+[056:SC#0068]Don't know. Nobody ever tried it on me.
+[056:SC#0068]Ha! An unclear reply if I ever heard one.
+[056:SC#0068]We value clarity here above all else.
+[056:SC#0068]But fear not! Your legend is safe with us.
+[056:SC#0068]Imagine my relief.
+[056:SC#0068]By the way. Did you happen to notice\255\001a flock of swans passing this way?
+[056:SC#0068]Swans?\255\001\255\001I've heard nothing\255\001of swan sightings.
+[056:SC#0068]The city's been so\255\001busy of late, I doubt\255\001if anyone's had time\255\001for bird-watching.
+[056:SC#0068]However, our Guild\255\001catalog offers a fine\255\001selection of binoculars,\255\001telescopes and other\255\001precision optics that\255\001may help you in your\255\001search for swans.
+[056:SC#0068]Thanks. I'll browse through it later.
+[056:SC#0068]I'm sure you'll be delighted.
+[056:SC#0068]Look around as much as you want,\255\001Weaver Threadbare.
+[062:ON#0808]gold@
+[062:OC#0808]People ought to clean up\255\001after themselves.
+[062:OC#0808]Gold again. What a nuisance.
+[062:OC#0808]Maybe I should spin this back.
+[062:ON#0809]straw
+[062:OC#0809]This pile is spun.
+[062:OC#0809]This pile hasn't been spun yet.
+[062:OC#0809]Back to straw again.
+[062:ON#0810]wheel
+[062:OC#0810]That draft won't work on a spinning wheel.
+[062:ON#0811]wheel
+[062:EN#0062]gold@
+[062:EN#0062]straw
+[062:EN#0062]gold@
+[062:EN#0062]straw
+[062:LS#0200]This old wheel is pretty squeaky.
+[062:LS#0201]straw
+[062:LS#0201]straw
+[062:LS#0202]gold@
+[062:LS#0202]gold@
+[062:LS#0203]gold@
+[062:LS#0203]gold@
+[062:LS#0204]straw
+[062:LS#0204]straw
+[062:LS#0207]All the straw's been spun out\255\001of this pile.
+[062:LS#0208]All the gold's been spun out\255\001of this pile.
+[062:LS#0209]That draft won't work on\255\001a pile of gold.
+[062:LS#0210]That draft won't work on\255\001a pile of straw.
+[063:ON#0820]gold
+[063:OC#0820]People ought to clean up\255\001after themselves.
+[063:OC#0820]That draft won't work on the gold.
+[063:ON#0821]darkness
+[063:ON#0822]darkness
+[063:ON#0824]gold
+[063:LS#0201]I can't see a thing.
+[064:LS#0200]In Memory Of\255\001LADY CYGNA THREADBARE\255\0017983-8004\255\001\255\001Destiny shall draw the Lightning\255\001Down from Heaven; roll its thunder\255\001Far across the Sea, to where I\255\001Wait upon the Share of Wonder,\255\001On the day the Sky is Opened\255\001And the Tree is split asunder.
+[065:OC#0829]Can't get there from here.
+[065:ON#0828]darkness
+[065:OC#0828]Great. I can't see a thing.
+[065:OC#0828]That draft won't work on the darkness.
+[066:ON#0833]myself
+[066:OC#0833]Guess I'm ready to go.
+[066:OC#0833]That draft won't work on me.
+[066:SC#0106]Fly away while you can, Weaver boy.
+[066:SC#0106]One day we will meet again!
+[066:SC#0106]Bobbin. It's time!
+[069:OC#0876]PRACTICE
+[069:OC#0876]PRACTICE
+[069:OC#0877]STANDARD
+[069:OC#0877]STANDARD
+[069:OC#0878]EXPERT
+[069:OC#0878]EXPERT
+[069:LS#0201]The Secret Weave is incorrect.
+[069:LS#0201]Entering demonstration mode.
+[069:LS#0201]Welcome to the Age of the Great Guilds.
+[069:LS#0203]STANDARD
+[069:LS#0203]PRACTICE
+[069:LS#0203]EXPERT
+[069:LS#0203]Select a Proficiency Level.\255\001Refer to your Loom]^ manual for help.
+[069:LS#0204]That's not right. Try again.
+[069:LS#0204]That's not right, either. Again?
+[069:LS#0204]The Secret Weave you entered is incorrect.\255\001Refer to your Loom]^ manual for assistance.
+[069:LS#0204]Entering demonstration mode.
+[069:LS#0204]Welcome to the Age of the Great Guilds.
+[069:LS#0205]What is the secret weave associated\255\001with this Guild and Thread?\255\001Refer to your Book of Patterns for help.
+[070:EX#0070] 
+[070:LS#0201]\255\007\167\000
+[070:LS#0201]\255\007\005\064
+[070:LS#0201]\024
+[070:LS#0201]\255\007\005\064
+[070:LS#0202]The game was saved.
+[070:LS#0202]ERROR: The game was NOT saved.
+[070:LS#0202]ERROR: The game was NOT loaded.
+[070:LS#0202]There are no saved games on the disk.
+[070:LS#0202]Select game to \255\002
+[070:LS#0202]SAVE\255\002
+[070:LS#0202].
+[070:LS#0202]Select game to \255\002
+[070:LS#0202]LOAD\255\002
+[070:LS#0202].
+[070:LS#0202]Please enter a name for the saved game.
+[070:LS#0202]You selected an empty slot, Please try again.
+[070:LS#0202]Select game to load, then select \255\002
+[070:LS#0202]OK\255\002
+[070:LS#0202].
+[070:LS#0202]Select save game slot, then type in name.
+[070:LS#0202]Finish typing name, press ENTER\255\001then select OK.
+[070:LS#0202]Loading +\255\007\001\064/
+[070:LS#0202]Saving +\255\007\001\064/
+[070:LS#0202]That game is not on the disk.
+[070:LS#0202]Insert save-load disk in Drive A.\255\001Select SAVE or LOAD.
+[070:LS#0203]loome.___
+[070:LS#0204]loome.___
+[070:LS#0208]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[070:LS#0209]\255\007\000\064
