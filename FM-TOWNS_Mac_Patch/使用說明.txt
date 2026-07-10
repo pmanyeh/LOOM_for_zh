@@ -1,0 +1,60 @@
+==========================================
+  《LOOM》FM-TOWNS 版 繁體中文化補丁 (macOS)
+==========================================
+
+本中文化補丁專為 LOOM 的 FM-TOWNS 版本製作，相容於 macOS 版 ScummVM。
+
+【安裝步驟】
+
+1. 將本資料夾內的「所有檔案」複製到您的 LOOM FM-TOWNS 遊戲目錄下
+   （與 00.LFL 放在同一層）。
+
+2. 開啟「終端機 (Terminal)」，切換到遊戲目錄：
+   cd /path/to/your/LOOM-FMTowns
+
+3. 賦予安裝腳本執行權限：
+   chmod +x 安裝中文化.sh
+
+4. 執行安裝腳本：
+   ./安裝中文化.sh
+
+5. 看到「中文化安裝完成」即可關閉終端機視窗。
+
+==========================================
+【ScummVM 設定步驟（非常重要！）】
+
+由於 ScummVM 介面可能隱藏日文選項，需手動修改設定檔：
+
+1. 開啟 Finder，按下 Command+Shift+G，貼上以下路徑後按 Enter：
+   ~/Library/Preferences/ScummVM/scummvm.ini
+
+2. 以文字編輯器開啟 scummvm.ini。
+
+3. 找到您的 LOOM 遊戲區塊（例如 [loom-fmtowns]）。
+
+4. 將該區塊內的 language 設定改為 language=ja
+   （若沒有此行，請自行新增）
+
+5. 儲存並關閉檔案。
+
+⚠ 警告：修改完成後，請直接在 ScummVM 點擊「開始 (Play)」。
+  切勿再點擊「編輯遊戲 (Edit Game)」，否則設定會被還原！
+
+==========================================
+【注意事項】
+
+- FMT_FNT.ROM 必須與遊戲的 00.LFL 放在同一資料夾內，
+  ScummVM 才能正確讀取並顯示繁體中文字型。
+- 本包不含遊戲本體，請自行合法取得 LOOM FM-TOWNS 版。
+
+==========================================
+【授權聲明】
+
+- 繁體中文化：本專案開源釋出
+- ScummVM：https://www.scummvm.org （GNU GPL）
+- scummtr：https://github.com/dwatteau/scummtr （MIT License）
+- 字型：Fusion Pixel Font（SIL Open Font License）
+- 遊戲版權：LucasArts / Disney / Lucasfilm Games
+
+祝您遊戲愉快！
+==========================================

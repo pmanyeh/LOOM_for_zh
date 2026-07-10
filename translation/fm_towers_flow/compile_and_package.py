@@ -18,6 +18,7 @@ def main():
     
     # Target directories
     patch_dir = os.path.join(base_dir, "FM-TOWNS_Patch")
+    mac_patch_dir = os.path.join(base_dir, "FM-TOWNS_Mac_Patch")
     portable_game_dir = os.path.join(base_dir, "LOOM_FM-TOWNS_ZH_Portable", "game")
     portable_root_dir = os.path.join(base_dir, "LOOM_FM-TOWNS_ZH_Portable")
     
@@ -32,7 +33,7 @@ def main():
     out_map_path = os.path.join(flow_dir, "voice_map.json")
     
     print("\n=== Step 4: Copying Patched Files & Voice Map to Target Directories ===")
-    targets = [patch_dir, portable_game_dir]
+    targets = [patch_dir, mac_patch_dir, portable_game_dir]
     for target in targets:
         if os.path.exists(target):
             shutil.copy2(out_rom_path, os.path.join(target, "FMT_FNT.ROM"))

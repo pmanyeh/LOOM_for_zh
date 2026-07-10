@@ -7,20 +7,31 @@ echo.
 echo 正在將繁體中文翻譯資料注入遊戲檔案中...
 echo.
 
-if not exist "00.LFL" (
-    echo [錯誤] 找不到 00.LFL！請確認您將此中文化包的「所有檔案」解壓縮到 LOOM FM-TOWNS 的遊戲資料夾內（與 00.LFL 放在同一層）。
+set GAMEDIR=.
+if exist "game\00.LFL" (
+    set GAMEDIR=game
+)
+
+if not exist "%GAMEDIR%\00.LFL" (
+    echo [錯誤] 找不到 00.LFL！請確認您將此中文化包解壓縮後，將遊戲本體放置於「game」資料夾內，或者與本程式放在同一層。
     echo.
     pause
     exit /b
 )
 
 :: 移除檔案的唯讀屬性 (從光碟複製下來的檔案通常帶有唯讀屬性，這會導致 scummtr 無法覆寫檔案)
-attrib -R *.LFL >nul 2>&1
+attrib -R "%GAMEDIR%\*.LFL" >nul 2>&1
 
-scummtr.exe -w -h -g loomtowns -i -f loomtowns_zh_injected.txt -p "."
+:: 尋找文本檔案位置
+set TEXTFILE=loomtowns_zh_injected.txt
+if exist "%GAMEDIR%\loomtowns_zh_injected.txt" (
+    set TEXTFILE=%GAMEDIR%\loomtowns_zh_injected.txt
+)
+
+scummtr.exe -w -h -g loomtowns -i -f "%TEXTFILE%" -p "%GAMEDIR%"
 
 :: 清理可能殘留的暫存檔
-del /q *~~scummio-tmp >nul 2>&1
+del /q "%GAMEDIR%\*~~scummio-tmp" >nul 2>&1
 
 echo.
 echo ==========================================

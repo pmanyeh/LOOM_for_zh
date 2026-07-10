@@ -1,0 +1,78 @@
+.\" SPDX-License-Identifier: MIT
+.\"
+.\" Copyright (c) 2020-2021 Donovan Watteau
+.\"
+.\" Permission is hereby granted, free of charge, to any person obtaining a copy
+.\" of this software and associated documentation files (the "Software"), to deal
+.\" in the Software without restriction, including without limitation the rights
+.\" to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+.\" copies of the Software, and to permit persons to whom the Software is
+.\" furnished to do so, subject to the following conditions:
+.\"
+.\" The above copyright notice and this permission notice shall be included in
+.\" all copies or substantial portions of the Software.
+.\"
+.\" THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+.\" IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+.\" FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+.\" AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+.\" LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+.\" OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+.\" THE SOFTWARE.
+.Dd $Mdocdate: November 19 2020 $
+.Dt FONTXY 1
+.Os
+.Sh NAME
+.Nm FontXY
+.Nd adjust glyph dimensions inside SCUMM fonts
+.Sh SYNOPSIS
+.Nm FontXY
+.Cm i
+.Ar CHARFILE
+.Nm FontXY
+.Cm o
+.Ar CHARFILE
+.Sh DESCRIPTION
+The
+.Nm
+tool lets you adjust the relative size of each glyph (or character) inside a
+SCUMM character file.
+The mode of operation is chosen with one of the following options:
+.Bl -tag -width Ds
+.It Cm i
+Import glyph dimensions from a
+.Pa XY.txt
+file into the specified
+.Ar CHARFILE
+resource.
+.It Cm o
+Export glyph dimensions from the specified
+.Ar CHARFILE
+resource into a
+.Pa XY.txt
+file.
+.El
+.Pp
+.Ar CHARFILE
+must be a
+.Dq CHAR_*
+resource file, as extracted by
+.Xr scummrp 1 .
+.Pp
+Glyph dimensions are represented as a series of
+.Ql X;Y
+coordinates, relative to zero, each glyph being separated by a new line.
+Empty glyphs are represented as empty lines.
+.Sh SEE ALSO
+.Xr scummfont 1
+.Sh HISTORY
+The
+.Nm
+tool was written in 2006 by Thomas Combeleran for the ATP team,
+and was open-sourced in 2020 under the MIT license.
+.Sh CAVEATS
+Only newline characters native to the current platform are accepted
+(CRLF on Windows and LF on most other systems).
+.Pp
+.Pa XY.txt
+pathname is hardcoded.

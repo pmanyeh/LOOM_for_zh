@@ -37,15 +37,15 @@
 
 ```text
 LOOM/
+├── .agents/                 # AI 代理人的自動化技能 (Skills) 與專案設定
 ├── .gitignore               # 排除大型音訊檔、遊戲本體與暫存檔案
 ├── FM-TOWNS_Patch/          # FM-TOWNS 版的中文化修正檔與自訂字庫 (FMT_FNT.ROM)
+├── Steam_Patch/             # Steam 語音版的中文化修正檔與自訂字型 (chinese_gb16x12.fnt)
 ├── patches/                 # ScummVM 引擎修改補丁
 ├── tools/                   # 包含 ScummTR 等 SCUMM 引擎專用修改工具
 └── translation/             # 核心開發與自動化腳本資料夾
-    ├── fm_towers_flow/      # FM-TOWNS 版本專屬的自動化處理流程 (TTS、RVC、封裝)
-    ├── loom_strings.csv     # Steam 版文本主檔
-    ├── generate_fnt.py      # 字型轉換與間距調整工具
-    ├── Fusion_Pixel_10px.ttf# 使用的基礎開源像素字型
+    ├── fm_towers_flow/      # FM-TOWNS 版本專屬的自動化處理流程 (TTS、RVC、字型生成、封裝打包)
+    ├── steam_flow/          # Steam 版本專屬的自動化處理流程 (字型生成、完美置中腳本、封裝打包)
     └── ...
 ```
 

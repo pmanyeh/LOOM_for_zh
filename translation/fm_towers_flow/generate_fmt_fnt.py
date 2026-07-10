@@ -110,7 +110,7 @@ def generate_fmt_fnt(csv_path, ttf_path, out_rom_path, out_json_path):
         return
         
     charmap = {}
-    font = ImageFont.truetype(ttf_path, 18)
+    font = ImageFont.truetype(ttf_path, 14)
     
     # Create empty 288KB ROM (filled with 0)
     rom_data = bytearray(294912)
@@ -129,8 +129,9 @@ def generate_fmt_fnt(csv_path, ttf_path, out_rom_path, out_json_path):
         # Render 16x16
         img = Image.new('1', (16, 16), 0)
         draw = ImageDraw.Draw(img)
-        # Offset Y by -2 to fit the larger 18px font inside the 16x16 bounding box
-        draw.text((0, -2), char, font=font, fill=1)
+        # Offset Y by +1 to center the 14px font in the 16x16 bounding box
+        # This leaves ~1px on top and ~1px on bottom for readable spacing between lines
+        draw.text((0, 1), char, font=font, fill=1)
         
         offset = chunkNum * 32
         

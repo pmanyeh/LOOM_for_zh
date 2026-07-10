@@ -1,0 +1,20 @@
+"installscript"
+{
+	"Registry If Not Present"
+	{
+		"HKEY_CURRENT_USER\\Software\\LucasArts\\Loom"
+		{
+			"dword"
+			{
+				"FixAspctRatio"		"1"
+				"SmoothGraphics"		"1"
+				"SwitchResolutions"		"0"
+				"WindowFullScreen"		"0"
+			}
+		}
+	}
+}
+"kvsignatures"
+{
+	"installscript"		"1abf0cf2c01e4cd0e1ea311aa43233366b37b35e6a2f179306b842171b7b055db6112ed19d9dcf3df46ebefad6c8e1a89786d81ef5f688c19d155a50e958c6200a3d37287d2465a7e090dbae06a326da47c606cda2893466847a5b07f15cbb9e4a01d8e7babe2a9d66600c9e63a3a63f9f4da2970c9189d7a4dca9a104ebea52"
+}

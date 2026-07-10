@@ -1,0 +1,93 @@
+.\" SPDX-License-Identifier: MIT
+.\"
+.\" Copyright (c) 2020-2021 Donovan Watteau
+.\"
+.\" Permission is hereby granted, free of charge, to any person obtaining a copy
+.\" of this software and associated documentation files (the "Software"), to deal
+.\" in the Software without restriction, including without limitation the rights
+.\" to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+.\" copies of the Software, and to permit persons to whom the Software is
+.\" furnished to do so, subject to the following conditions:
+.\"
+.\" The above copyright notice and this permission notice shall be included in
+.\" all copies or substantial portions of the Software.
+.\"
+.\" THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+.\" IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+.\" FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+.\" AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+.\" LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+.\" OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+.\" THE SOFTWARE.
+.Dd $Mdocdate: December 27 2020 $
+.Dt SCUMMFONT 1
+.Os
+.Sh NAME
+.Nm scummfont
+.Nd transform SCUMM fonts to bitmap image files
+.Sh SYNOPSIS
+.Nm scummfont
+.Cm i
+.Ar FONTFILE
+.Ar image.bmp
+.Nm scummfont
+.Cm o
+.Ar FONTFILE
+.Ar image.bmp
+.Sh DESCRIPTION
+The
+.Nm
+tool transforms SCUMM CHARv1 and CHARv3 font files between their internal
+format and a bitmap representation.
+The mode of operation is chosen with one of the following options:
+.Bl -tag -width Ds
+.It Cm i
+Import the content of an
+.Pa image.bmp
+bitmap file into the specified
+.Ar FONTFILE
+SCUMM resource.
+.It Cm o
+Extract a font from a
+.Ar FONTFILE
+SCUMM resource into an
+.Pa image.bmp
+bitmap file.
+.El
+.Pp
+.Ar FONTFILE
+can either be a
+.Dq CHAR_*
+block extracted by
+.Xr scummrp 1 ,
+or an LFL file containing a font resource.
+.Pp
+Generated bitmap files contain every character available in the selected font.
+Characters are sorted in the ascending order of the font table; that is, the
+19th displayed character is always accessible in a
+.Xr scummtr 1
+translation file by using the
+.Dq \e019
+decimal sequence.
+.Sh SEE ALSO
+ScummImg
+.Pq Lk http://www.jestarjokin.net/apps/scummimg/
+.Sh HISTORY
+The
+.Nm
+tool was written between 2003 and 2004 by Thomas Combeleran for the ATP team,
+and was open-sourced in 2020 under the MIT license.
+.Sh CAVEATS
+Only simple, uncompressed 8-bit per pixel BMPv3 bitmap files (also known as
+Windows 3.x bitmap files) preserving the original 256-color ScummFont palette
+are supported.
+.Pp
+Note that most modern image editors will change some settings anyway, but
+ScummFont doesn't accept this, so many BMP files will be rejected, at the
+moment.
+.Pp
+However, the GIMP image editor, with its
+.Qq "Do not write color space information"
+BMP export setting, can be used to edit the original BMP files while
+preserving their original settings.
+Old versions of Microsoft Paint may also work.
